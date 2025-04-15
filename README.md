@@ -1,1 +1,0 @@
-# stratostg2.github.io
