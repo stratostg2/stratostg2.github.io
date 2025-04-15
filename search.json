@@ -1,5 +1,159 @@
 [
   {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Publications",
+    "section": "",
+    "text": "1. This is a great overview over initial data analysis and the steps to think about .\nBaillie M, le Cessie S, Schmidt CO, Lusa L, Huebner M. Ten simple rules for initial data analysis. PLoS Comput Biol 2022; 18(2): e1009819. https://doi.org/10.1371/journal.pcbi.1009819\n2. This is the main paper that introduces the initial data analysis framework and explains concepts.\nHuebner M, le Cessie S, Schmidt CO, Vach W . A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192. https://doi.org/10.1353/obs.2018.0014\n3. IDA check list for cross-sectional studies with example and code:\nHeinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M; TG2 and TG3 of the STRATOS initiative. Regression without regrets -initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol. 2024 Aug 8;24(1):178. https://doi.org/10.1186/s12874-024-02294-3\nIDA checklist for cross-sectional studies: Link\n4. IDA check list for longitudinal studies with example and code:\nLusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. https://doi.org/10.1371/journal.pone.0295726\nIDA checklist for longitudinal studies: Link\n5. This is a look at reporting practices and recommendations for more transparency.\nHuebner M, Vach W, le Cessie S, Schmidt C, Lusa L. Hidden Analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses. BMC Med Res Meth 2020; 20:61. https://doi.org/10.1186/s12874-020-00942-y\n6. Our first attempt at explaining initial data analysis aimed at a clinical audience. This is superseded by the framework paper [2].\nHuebner M, Vach W, le Cessie S. A systematic approach to initial data analysis is good research practice. J Thoracic Cardiovas S. 2016; 151(1): 25-27. Link\n7. Short introductions of activities of our topic group :\n\nInitial: Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11.\nUpdate: Le Cessie S, Schmidt CO, Lusa L, Baillie M, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2021; 38 (3): 10-11.\nData quality: Schmidt CO, Heinze G, Lusa L, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): On the importance of data quality assessment and initial data analysis. Biometric Bulletin 2022; 39 (4): 14-15.\nGlossary: Boeker M, Tippmann P, Day S, Huebner M, Sauerbrei W on behalf of the Glossary Panel: STRengthening Analytical Thinking for Observational Studies (STATOS): Defining common meaning for statistical Terms. Biometrical Bulletin; 37(4): 13-14.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#tg3-publications",
+    "href": "papers.html#tg3-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "1. This is a great overview over initial data analysis and the steps to think about .\nBaillie M, le Cessie S, Schmidt CO, Lusa L, Huebner M. Ten simple rules for initial data analysis. PLoS Comput Biol 2022; 18(2): e1009819. https://doi.org/10.1371/journal.pcbi.1009819\n2. This is the main paper that introduces the initial data analysis framework and explains concepts.\nHuebner M, le Cessie S, Schmidt CO, Vach W . A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192. https://doi.org/10.1353/obs.2018.0014\n3. IDA check list for cross-sectional studies with example and code:\nHeinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M; TG2 and TG3 of the STRATOS initiative. Regression without regrets -initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol. 2024 Aug 8;24(1):178. https://doi.org/10.1186/s12874-024-02294-3\nIDA checklist for cross-sectional studies: Link\n4. IDA check list for longitudinal studies with example and code:\nLusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. https://doi.org/10.1371/journal.pone.0295726\nIDA checklist for longitudinal studies: Link\n5. This is a look at reporting practices and recommendations for more transparency.\nHuebner M, Vach W, le Cessie S, Schmidt C, Lusa L. Hidden Analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses. BMC Med Res Meth 2020; 20:61. https://doi.org/10.1186/s12874-020-00942-y\n6. Our first attempt at explaining initial data analysis aimed at a clinical audience. This is superseded by the framework paper [2].\nHuebner M, Vach W, le Cessie S. A systematic approach to initial data analysis is good research practice. J Thoracic Cardiovas S. 2016; 151(1): 25-27. Link\n7. Short introductions of activities of our topic group :\n\nInitial: Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11.\nUpdate: Le Cessie S, Schmidt CO, Lusa L, Baillie M, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2021; 38 (3): 10-11.\nData quality: Schmidt CO, Heinze G, Lusa L, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): On the importance of data quality assessment and initial data analysis. Biometric Bulletin 2022; 39 (4): 14-15.\nGlossary: Boeker M, Tippmann P, Day S, Huebner M, Sauerbrei W on behalf of the Glossary Panel: STRengthening Analytical Thinking for Observational Studies (STATOS): Defining common meaning for statistical Terms. Biometrical Bulletin; 37(4): 13-14.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#related-publications.-collaborations-with-tg3-members",
+    "href": "papers.html#related-publications.-collaborations-with-tg3-members",
+    "title": "Publications",
+    "section": "Related Publications. Collaborations with TG3 members",
+    "text": "Related Publications. Collaborations with TG3 members\n\nThis paper provides an extensive overview of data quality aspects on observational studies and provides R code to conduct data quality assessments.\n\nSchmidt CO, Struckmann S, Enzenbach C, Reineke A, Stausberg J, Damerow S, Huebner M, Schmidt B, Sauerbrei W, Richter A. Facilitating harmonized data quality assessments. A data quality framework for observational health research data collections with software implementations in R. BMC Med Res Meth 2021; 21(1): 1-15. Link\n\nAn overview of an R package to provide data quality assessments\n\nRichter A , Schmidt CO , Krüger M , and Struckmann S. dataquieR: assessment of data quality in epidemiological research. Journal of Open Source Software 2021; 6(61), 3093, https://doi.org/10.21105/joss.03093\n\nData management and data cleaning for a longitudinal survey design\n\nLusa L and Huebner M. Organizing and Analyzing Data from the SHARE Study with an Application to Age and Sex Differences in Depressive Symptoms. Int. J. Environ. Res. Public Health 2021, 18(18), 9684; https://doi.org/10.3390/ijerph18189684\n\nThis is the accompanying R code for the IJEPRH paper (item 3)\n\nLusa L and Huebner M. Repository with R vignettes to support data organization and analysis for the SHARE study. 2021. https://doi.org/10.17605/OSF.IO/KGTX6",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.\nAuthors: All TG3 members\nProject status: NEW\n\n\n\nGlossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality,",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#ida-glossary",
+    "href": "activities.html#ida-glossary",
+    "title": "Activities",
+    "section": "",
+    "text": "The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.\nAuthors: All TG3 members\nProject status: NEW\n\n\n\nGlossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality,",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#incorporating-ida-in-courses-on-statistics",
+    "href": "activities.html#incorporating-ida-in-courses-on-statistics",
+    "title": "Activities",
+    "section": "Incorporating IDA in courses on statistics",
+    "text": "Incorporating IDA in courses on statistics\n\nProject description\nThe objective is to provide an engaging application from itial data analysis to regression models using characters from the Pokémon franchise to address the research question aimed at evaluating the association between Pokémon species weight and other characteristics.\nThis example provides flexibility for instructors (courses, workshops, seminars, modules) to integrate into their teaching materials or assignments. Depending on the type of classes, the instructor can emphasize different aspects, for example data descriptions, learning which explorations are meaningful and how to interpret the results, univariable or multivariable regression modeling strategies, learning coding in R, or rigor and reproducibility in planning and executing studies.\nLead: Lara Lusa\nProject status: ACTIVE\n\n\nProject outcomes:\n1. Manuscript for a journal with a “Teaching corner”\n2. Curated Pokemon data set for open access\n3. R code for initial data analysis and for regression models\n4. Statistical analysis plan for this example\n5. Diskussion questions or tasks for the students",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#ida-for-regression-models",
+    "href": "activities.html#ida-for-regression-models",
+    "title": "Activities",
+    "section": "IDA for regression models",
+    "text": "IDA for regression models\n\nProject description\nThe objective is to provide examples on conducting initial data analysis (IDA) in a reproducible manner in the context of intended regression analyses.\nAuthors: Georg Heinze, Mark Baillie, Lara Lusa, Carsten O Schmidt, Willi Sauerbrei, Frank E Harrell, Marianne Huebner\nThis is a joint project between the Topic Groups 2 and 3 of the STRATOS Initiative.\nProject status: CLOSED, paper published\n\n\nProject outcomes:\n1.  Open access dataset: bacteremia\n2.  IDA report with R code\n3.  IDA plan (check list) for the example(s) (in the paper)\n4.  Paper with scope of regression model, results, and consequences of IDA for regression:\nHeinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M; TG2 and TG3 of the STRATOS initiative. Regression without regrets -initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol. 2024 Aug 8;24(1):178. doi: 10.1186/s12874-024-02294-3",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#ida-for-longitudinal-data",
+    "href": "activities.html#ida-for-longitudinal-data",
+    "title": "Activities",
+    "section": "IDA for longitudinal data",
+    "text": "IDA for longitudinal data\n\nProject description\nThe objective is to provide an example of initial data anlysis for longitudinal data.\nAuthors: Lara Lusa, Cecile Proust-Lima, Katherine Lee, Frank Lawrence, Carsten Schmidt, Mark Baillie, Saskia le Cessie, Marianne Huebner\nProject status: CLOSED, paper published\n\n\nProject outcomes:\n1.  IDA plan check list\n2.  IDA report with R code\n3.  Manuscript with IDA workflow in the example of the SHARE data:\nLusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. doi: 10.1371/journal.pone.0295726\n\n\nSupplementary material\nThe Survey of Health Ageing and Retirement in Europe (SHARE) consists of data on health and socioeconomic variables of non-institutionalized individuals aged 50 and older across several European countries. The data sets includes about 140 000 men and women, ages 50 or older, collected in years 2004 to 2018. The questionnaires include questions on demographics, health (physical, and mental health, cognitive function, grip strength and behavioral risks), and socio-economic status. https://share-eric.eu\nOpen Science Framework: R code\nLusa L, Huebner M. (2021, September 17). Repository with R vignettes to support data organization and analysis for the SHARE study. https://doi.org/10.17605/OSF.IO/KGTX6",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#systematic-review-of-ida-reporting",
+    "href": "activities.html#systematic-review-of-ida-reporting",
+    "title": "Activities",
+    "section": "Systematic review of IDA reporting",
+    "text": "Systematic review of IDA reporting\n\nProject description\nOur aim was to describe the practice of reporting of initial data analyses in observational studies in five highly ranked medical journals with focus on data cleaning, screening, and reporting of findings which led to a potential change in the analysis plan.\nAuthors: Marianne Huebner, Werner Vach, Saskia le Cessie, Carsten Oliver Schmidt, Lara Lusa\nProject status: CLOSED, paper published\n\n\nProject outcomes\n1. Summary of current IDA reporting by location in papers with examples.\n2. Recommendations for reporting practice of IDA in papers\n3. Manuscript:\nHidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses\nBMC Med Res Meth (2020) 20:61. https://doi.org/10.1186/s12874-020-00942-y\n\n\nSupplementary material\nIn the assets folder\n1. Study protocol for IDA literature review: Protocol_IDA20180620.pdf\n2. Design of IDA collection form: Collection_Form_20181129.pdf",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Members",
+    "section": "",
+    "text": "Marianne Huebner (chair), Professor of Statistics and Probability at Michigan State University, USA. https://orcid.org/0000-0002-9694-9231\nCarsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald\nMark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland\nSaskia le Cessie, Professor at Leiden University Medical Center, Netherlands\nLara Lusa, Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia\nMichael Schell, Moffit Cancer Center, Florida, USA"
+  },
+  {
+    "objectID": "about.html#bios",
+    "href": "about.html#bios",
+    "title": "Members",
+    "section": "Bios",
+    "text": "Bios\nMark Baillie is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.\nMarianne Huebner is Professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.\nSaskia le Cessie is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.\nLara Lusa is Professor of Statistics at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska, Slovenia. After receiving a PhD in Applied Statistics from the University of Florence, she worked at the Italian National Cancer Institute of Milan, at the Institute of Biostatistics and Medical Informatics of the University of Ljubljana and was a visiting fellow at the Biometric Research Branch of the National Cancer Institute in Bethesda. Her current research interests are related to the development and validation of predictive models in bio‐medicine, with particular attention to applications using high‐dimensional data and rare events. She is also interested in statistical programming, design of simulation studies, and teaching statistics. Beside the methodological research in statistics, she is also heavily involved as a statistical consultant to researchers in medicine.\nMichael Schell\nCarsten Oliver Schmidt is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division “Quality in the Health Sciences”. He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Initial Data Analysis TEST TEST",
+    "section": "",
+    "text": "To improve awareness of Initial Data Analysis (IDA) as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner.",
+    "crumbs": [
+      "Initial Data Analysis TEST TEST"
+    ]
+  },
+  {
+    "objectID": "index.html#aims",
+    "href": "index.html#aims",
+    "title": "Initial Data Analysis TEST TEST",
+    "section": "",
+    "text": "To improve awareness of Initial Data Analysis (IDA) as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner.",
+    "crumbs": [
+      "Initial Data Analysis TEST TEST"
+    ]
+  },
+  {
+    "objectID": "index.html#key-principle",
+    "href": "index.html#key-principle",
+    "title": "Initial Data Analysis TEST TEST",
+    "section": "Key principle",
+    "text": "Key principle\nIDA does not look at associations of covariates with the outcome. The aim is to provide reliable knowledge about the data to ensure transparency and integrity of preconditions to conduct appropriate statistical analyses and correct interpretation of the results to answer pre-defined research questions.",
+    "crumbs": [
+      "Initial Data Analysis TEST TEST"
+    ]
+  },
+  {
+    "objectID": "index.html#definition-and-ida-framework",
+    "href": "index.html#definition-and-ida-framework",
+    "title": "Initial Data Analysis TEST TEST",
+    "section": "Definition and IDA Framework",
+    "text": "Definition and IDA Framework\nInitial Data Analysis (IDA) consists of all steps performed on the data of a study typically between the end of the data collection/entry and start of those statistical analyses that address research questions. A systematic plan of IDA activities (IDAP) should be incoporated in the statistical analysis plan (SAP). Ideally, IDA should already be performed during ongoing data collections to detect and deal with data issues as early as possible.",
+    "crumbs": [
+      "Initial Data Analysis TEST TEST"
+    ]
+  },
+  {
+    "objectID": "index.html#stratos-initiative",
+    "href": "index.html#stratos-initiative",
+    "title": "Initial Data Analysis TEST TEST",
+    "section": "STRATOS Initiative",
+    "text": "STRATOS Initiative\nTopic group 3 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\nConference BIRS 2016",
+    "crumbs": [
+      "Initial Data Analysis TEST TEST"
+    ]
+  },
+  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "R implementations",
@@ -67,160 +221,6 @@
     "text": "Data and related terms\n\nData\nReinterpretable representation of information in a formalized manner suitable for communication, interpretation, or processing\nSource: ISO/IEC 2382:2015, 2121272, modified\nLink\n\n\nData set\nlogically meaningful grouping of data\nSource:\nLink\n\n\nMetadata\ndata defining and describing other data\nSource: ISO/IEC 11179‑1:2015, 3.2.16\nLink\n\n\nData dictionary\nA data dictionary is a document that outlines the structure, content, and meaning of a given variable. This includes what type of data is being collected (e.g. free text, numerical, categorical or group data), the full wording of a question, what values are allowable (e.g. numeric ranges, multiple choice codes), and what those values mean (e.g. 0 = no high blood pressure diagnosis, 1 = borderline high blood pressure, 2 = high blood pressure). A data dictionary is a critical tool for data analysis and reproducibility.\nSource: National Library of Medicine\nLink-NLM\nLink-USGS\n\n\nData quality\nData quality is the degree to which a set of characteristics of data fulfils requirements (=need or expectation that is stated, generally implied or obligatory)\nSource: ISO 9000:2015, 3.6.2 and ISO 9000:2015, 3.6.4\nLink1\nLink2\n\n\nData subject\nA Data subject is the individual the personal data relates to.\nSource: General Data Protection Regulation (GDPR)\nLink\n\n\nData provenance\nThe term “data provenance”, sometimes called “data lineage,” refers to a documented trail that accounts for the origin of a piece of data and where it has moved from to where it is presently. The purpose of data provenance is to tell researchers the origin, changes to, and details supporting the confidence or validity of research data. The concept of provenance guarantees that data creators are transparent about their work and where it came from and provides a chain of information where data can be tracked as researchers use other researchers’ data and adapt it for their own purposes.\nSource: National Library of Medicine\nLink",
     "crumbs": [
       "Glossary"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Members",
-    "section": "",
-    "text": "Marianne Huebner (chair), Professor of Statistics and Probability at Michigan State University, USA. https://orcid.org/0000-0002-9694-9231\nCarsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald\nMark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland\nSaskia le Cessie, Professor at Leiden University Medical Center, Netherlands\nLara Lusa, Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia\nMichael Schell, Moffit Cancer Center, Florida, USA"
-  },
-  {
-    "objectID": "about.html#bios",
-    "href": "about.html#bios",
-    "title": "Members",
-    "section": "Bios",
-    "text": "Bios\nMark Baillie is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.\nMarianne Huebner is Professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.\nSaskia le Cessie is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.\nLara Lusa is Professor of Statistics at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska, Slovenia. After receiving a PhD in Applied Statistics from the University of Florence, she worked at the Italian National Cancer Institute of Milan, at the Institute of Biostatistics and Medical Informatics of the University of Ljubljana and was a visiting fellow at the Biometric Research Branch of the National Cancer Institute in Bethesda. Her current research interests are related to the development and validation of predictive models in bio‐medicine, with particular attention to applications using high‐dimensional data and rare events. She is also interested in statistical programming, design of simulation studies, and teaching statistics. Beside the methodological research in statistics, she is also heavily involved as a statistical consultant to researchers in medicine.\nMichael Schell\nCarsten Oliver Schmidt is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division “Quality in the Health Sciences”. He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings."
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Activities",
-    "section": "",
-    "text": "The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.\nAuthors: All TG3 members\nProject status: NEW\n\n\n\nGlossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality,",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "activities.html#ida-glossary",
-    "href": "activities.html#ida-glossary",
-    "title": "Activities",
-    "section": "",
-    "text": "The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.\nAuthors: All TG3 members\nProject status: NEW\n\n\n\nGlossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality,",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "activities.html#incorporating-ida-in-courses-on-statistics",
-    "href": "activities.html#incorporating-ida-in-courses-on-statistics",
-    "title": "Activities",
-    "section": "Incorporating IDA in courses on statistics",
-    "text": "Incorporating IDA in courses on statistics\n\nProject description\nThe objective is to provide an engaging application from itial data analysis to regression models using characters from the Pokémon franchise to address the research question aimed at evaluating the association between Pokémon species weight and other characteristics.\nThis example provides flexibility for instructors (courses, workshops, seminars, modules) to integrate into their teaching materials or assignments. Depending on the type of classes, the instructor can emphasize different aspects, for example data descriptions, learning which explorations are meaningful and how to interpret the results, univariable or multivariable regression modeling strategies, learning coding in R, or rigor and reproducibility in planning and executing studies.\nLead: Lara Lusa\nProject status: ACTIVE\n\n\nProject outcomes:\n1. Manuscript for a journal with a “Teaching corner”\n2. Curated Pokemon data set for open access\n3. R code for initial data analysis and for regression models\n4. Statistical analysis plan for this example\n5. Diskussion questions or tasks for the students",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "activities.html#ida-for-regression-models",
-    "href": "activities.html#ida-for-regression-models",
-    "title": "Activities",
-    "section": "IDA for regression models",
-    "text": "IDA for regression models\n\nProject description\nThe objective is to provide examples on conducting initial data analysis (IDA) in a reproducible manner in the context of intended regression analyses.\nAuthors: Georg Heinze, Mark Baillie, Lara Lusa, Carsten O Schmidt, Willi Sauerbrei, Frank E Harrell, Marianne Huebner\nThis is a joint project between the Topic Groups 2 and 3 of the STRATOS Initiative.\nProject status: CLOSED, paper published\n\n\nProject outcomes:\n1.  Open access dataset: bacteremia\n2.  IDA report with R code\n3.  IDA plan (check list) for the example(s) (in the paper)\n4.  Paper with scope of regression model, results, and consequences of IDA for regression:\nHeinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M; TG2 and TG3 of the STRATOS initiative. Regression without regrets -initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol. 2024 Aug 8;24(1):178. doi: 10.1186/s12874-024-02294-3",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "activities.html#ida-for-longitudinal-data",
-    "href": "activities.html#ida-for-longitudinal-data",
-    "title": "Activities",
-    "section": "IDA for longitudinal data",
-    "text": "IDA for longitudinal data\n\nProject description\nThe objective is to provide an example of initial data anlysis for longitudinal data.\nAuthors: Lara Lusa, Cecile Proust-Lima, Katherine Lee, Frank Lawrence, Carsten Schmidt, Mark Baillie, Saskia le Cessie, Marianne Huebner\nProject status: CLOSED, paper published\n\n\nProject outcomes:\n1.  IDA plan check list\n2.  IDA report with R code\n3.  Manuscript with IDA workflow in the example of the SHARE data:\nLusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. doi: 10.1371/journal.pone.0295726\n\n\nSupplementary material\nThe Survey of Health Ageing and Retirement in Europe (SHARE) consists of data on health and socioeconomic variables of non-institutionalized individuals aged 50 and older across several European countries. The data sets includes about 140 000 men and women, ages 50 or older, collected in years 2004 to 2018. The questionnaires include questions on demographics, health (physical, and mental health, cognitive function, grip strength and behavioral risks), and socio-economic status. https://share-eric.eu\nOpen Science Framework: R code\nLusa L, Huebner M. (2021, September 17). Repository with R vignettes to support data organization and analysis for the SHARE study. https://doi.org/10.17605/OSF.IO/KGTX6",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "activities.html#systematic-review-of-ida-reporting",
-    "href": "activities.html#systematic-review-of-ida-reporting",
-    "title": "Activities",
-    "section": "Systematic review of IDA reporting",
-    "text": "Systematic review of IDA reporting\n\nProject description\nOur aim was to describe the practice of reporting of initial data analyses in observational studies in five highly ranked medical journals with focus on data cleaning, screening, and reporting of findings which led to a potential change in the analysis plan.\nAuthors: Marianne Huebner, Werner Vach, Saskia le Cessie, Carsten Oliver Schmidt, Lara Lusa\nProject status: CLOSED, paper published\n\n\nProject outcomes\n1. Summary of current IDA reporting by location in papers with examples.\n2. Recommendations for reporting practice of IDA in papers\n3. Manuscript:\nHidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses\nBMC Med Res Meth (2020) 20:61. https://doi.org/10.1186/s12874-020-00942-y\n\n\nSupplementary material\nIn the assets folder\n1. Study protocol for IDA literature review: Protocol_IDA20180620.pdf\n2. Design of IDA collection form: Collection_Form_20181129.pdf",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Initial Data Analysis",
-    "section": "",
-    "text": "To improve awareness of Initial Data Analysis (IDA) as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner.",
-    "crumbs": [
-      "Initial Data Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#aims",
-    "href": "index.html#aims",
-    "title": "Initial Data Analysis",
-    "section": "",
-    "text": "To improve awareness of Initial Data Analysis (IDA) as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner.",
-    "crumbs": [
-      "Initial Data Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#key-principle",
-    "href": "index.html#key-principle",
-    "title": "Initial Data Analysis",
-    "section": "Key principle",
-    "text": "Key principle\nIDA does not look at associations of covariates with the outcome. The aim is to provide reliable knowledge about the data to ensure transparency and integrity of preconditions to conduct appropriate statistical analyses and correct interpretation of the results to answer pre-defined research questions.",
-    "crumbs": [
-      "Initial Data Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#definition-and-ida-framework",
-    "href": "index.html#definition-and-ida-framework",
-    "title": "Initial Data Analysis",
-    "section": "Definition and IDA Framework",
-    "text": "Definition and IDA Framework\nInitial Data Analysis (IDA) consists of all steps performed on the data of a study typically between the end of the data collection/entry and start of those statistical analyses that address research questions. A systematic plan of IDA activities (IDAP) should be incoporated in the statistical analysis plan (SAP). Ideally, IDA should already be performed during ongoing data collections to detect and deal with data issues as early as possible.",
-    "crumbs": [
-      "Initial Data Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#stratos-initiative",
-    "href": "index.html#stratos-initiative",
-    "title": "Initial Data Analysis",
-    "section": "STRATOS Initiative",
-    "text": "STRATOS Initiative\nTopic group 3 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\nConference BIRS 2016",
-    "crumbs": [
-      "Initial Data Analysis"
-    ]
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Publications",
-    "section": "",
-    "text": "1. This is a great overview over initial data analysis and the steps to think about .\nBaillie M, le Cessie S, Schmidt CO, Lusa L, Huebner M. Ten simple rules for initial data analysis. PLoS Comput Biol 2022; 18(2): e1009819. https://doi.org/10.1371/journal.pcbi.1009819\n2. This is the main paper that introduces the initial data analysis framework and explains concepts.\nHuebner M, le Cessie S, Schmidt CO, Vach W . A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192. https://doi.org/10.1353/obs.2018.0014\n3. IDA check list for cross-sectional studies with example and code:\nHeinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M; TG2 and TG3 of the STRATOS initiative. Regression without regrets -initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol. 2024 Aug 8;24(1):178. https://doi.org/10.1186/s12874-024-02294-3\nIDA checklist for cross-sectional studies: Link\n4. IDA check list for longitudinal studies with example and code:\nLusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. https://doi.org/10.1371/journal.pone.0295726\nIDA checklist for longitudinal studies: Link\n5. This is a look at reporting practices and recommendations for more transparency.\nHuebner M, Vach W, le Cessie S, Schmidt C, Lusa L. Hidden Analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses. BMC Med Res Meth 2020; 20:61. https://doi.org/10.1186/s12874-020-00942-y\n6. Our first attempt at explaining initial data analysis aimed at a clinical audience. This is superseded by the framework paper [2].\nHuebner M, Vach W, le Cessie S. A systematic approach to initial data analysis is good research practice. J Thoracic Cardiovas S. 2016; 151(1): 25-27. Link\n7. Short introductions of activities of our topic group :\n\nInitial: Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11.\nUpdate: Le Cessie S, Schmidt CO, Lusa L, Baillie M, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2021; 38 (3): 10-11.\nData quality: Schmidt CO, Heinze G, Lusa L, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): On the importance of data quality assessment and initial data analysis. Biometric Bulletin 2022; 39 (4): 14-15.\nGlossary: Boeker M, Tippmann P, Day S, Huebner M, Sauerbrei W on behalf of the Glossary Panel: STRengthening Analytical Thinking for Observational Studies (STATOS): Defining common meaning for statistical Terms. Biometrical Bulletin; 37(4): 13-14.",
-    "crumbs": [
-      "Publications"
-    ]
-  },
-  {
-    "objectID": "papers.html#tg3-publications",
-    "href": "papers.html#tg3-publications",
-    "title": "Publications",
-    "section": "",
-    "text": "1. This is a great overview over initial data analysis and the steps to think about .\nBaillie M, le Cessie S, Schmidt CO, Lusa L, Huebner M. Ten simple rules for initial data analysis. PLoS Comput Biol 2022; 18(2): e1009819. https://doi.org/10.1371/journal.pcbi.1009819\n2. This is the main paper that introduces the initial data analysis framework and explains concepts.\nHuebner M, le Cessie S, Schmidt CO, Vach W . A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192. https://doi.org/10.1353/obs.2018.0014\n3. IDA check list for cross-sectional studies with example and code:\nHeinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M; TG2 and TG3 of the STRATOS initiative. Regression without regrets -initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol. 2024 Aug 8;24(1):178. https://doi.org/10.1186/s12874-024-02294-3\nIDA checklist for cross-sectional studies: Link\n4. IDA check list for longitudinal studies with example and code:\nLusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. https://doi.org/10.1371/journal.pone.0295726\nIDA checklist for longitudinal studies: Link\n5. This is a look at reporting practices and recommendations for more transparency.\nHuebner M, Vach W, le Cessie S, Schmidt C, Lusa L. Hidden Analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses. BMC Med Res Meth 2020; 20:61. https://doi.org/10.1186/s12874-020-00942-y\n6. Our first attempt at explaining initial data analysis aimed at a clinical audience. This is superseded by the framework paper [2].\nHuebner M, Vach W, le Cessie S. A systematic approach to initial data analysis is good research practice. J Thoracic Cardiovas S. 2016; 151(1): 25-27. Link\n7. Short introductions of activities of our topic group :\n\nInitial: Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11.\nUpdate: Le Cessie S, Schmidt CO, Lusa L, Baillie M, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2021; 38 (3): 10-11.\nData quality: Schmidt CO, Heinze G, Lusa L, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): On the importance of data quality assessment and initial data analysis. Biometric Bulletin 2022; 39 (4): 14-15.\nGlossary: Boeker M, Tippmann P, Day S, Huebner M, Sauerbrei W on behalf of the Glossary Panel: STRengthening Analytical Thinking for Observational Studies (STATOS): Defining common meaning for statistical Terms. Biometrical Bulletin; 37(4): 13-14.",
-    "crumbs": [
-      "Publications"
-    ]
-  },
-  {
-    "objectID": "papers.html#related-publications.-collaborations-with-tg3-members",
-    "href": "papers.html#related-publications.-collaborations-with-tg3-members",
-    "title": "Publications",
-    "section": "Related Publications. Collaborations with TG3 members",
-    "text": "Related Publications. Collaborations with TG3 members\n\nThis paper provides an extensive overview of data quality aspects on observational studies and provides R code to conduct data quality assessments.\n\nSchmidt CO, Struckmann S, Enzenbach C, Reineke A, Stausberg J, Damerow S, Huebner M, Schmidt B, Sauerbrei W, Richter A. Facilitating harmonized data quality assessments. A data quality framework for observational health research data collections with software implementations in R. BMC Med Res Meth 2021; 21(1): 1-15. Link\n\nAn overview of an R package to provide data quality assessments\n\nRichter A , Schmidt CO , Krüger M , and Struckmann S. dataquieR: assessment of data quality in epidemiological research. Journal of Open Source Software 2021; 6(61), 3093, https://doi.org/10.21105/joss.03093\n\nData management and data cleaning for a longitudinal survey design\n\nLusa L and Huebner M. Organizing and Analyzing Data from the SHARE Study with an Application to Age and Sex Differences in Depressive Symptoms. Int. J. Environ. Res. Public Health 2021, 18(18), 9684; https://doi.org/10.3390/ijerph18189684\n\nThis is the accompanying R code for the IJEPRH paper (item 3)\n\nLusa L and Huebner M. Repository with R vignettes to support data organization and analysis for the SHARE study. 2021. https://doi.org/10.17605/OSF.IO/KGTX6",
-    "crumbs": [
-      "Publications"
     ]
   }
 ]
