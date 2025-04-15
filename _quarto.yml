@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+
+execute:
+  freeze: true
+
+website:
+  title: "STRATOS TG3: Initial Data Analysis"
+  site-url: https://stratosida.github.io/
+  description: "Add description"
+  page-navigation: false
+
+  sidebar:
+    style: "docked"
+    background: light
+    search: true
+    collapse-level: 2
+    tools:
+      - icon: github
+        href: https://github.com/stratosida/
+    contents:
+      - index.qmd
+      - members.qmd
+      - papers.qmd
+      - activities.qmd
+      - resources.qmd
+      - glossary.qmd
+    logo: "assets/stratos-color-transpbackgr.png"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

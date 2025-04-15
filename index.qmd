@@ -1,0 +1,24 @@
+---
+title: "Initial Data Analysis"
+---
+
+## Aims
+
+To improve awareness of Initial Data Analysis (IDA) as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner.
+
+## Key principle
+
+IDA does not look at associations of covariates with the outcome. The aim is to provide reliable knowledge about the data to ensure transparency and integrity of preconditions to conduct appropriate statistical analyses and correct interpretation of the results to answer pre-defined research questions.
+
+## Definition and IDA Framework
+
+Initial Data Analysis (IDA) consists of all steps performed on the data of a study typically between the end of the data collection/entry and start of those statistical analyses that address research questions. 
+A systematic plan of IDA activities (IDAP) should be incoporated in the statistical analysis plan (SAP). Ideally, IDA should already be performed during ongoing data collections to detect and deal with data issues as early as possible.
+
+![](assets/idaframework.png)
+
+## STRATOS Initiative
+
+Topic group 3 is a member of the [STRATOS](https://stratos-initiative.org) Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine [topic groups](https://stratos-initiative.org/en/groups) and several cross-cutting [panels](https://stratos-initiative.org/en/panels).
+
+![Conference BIRS 2016](assets/Stratos_group2016.jpg){fig-align="center"}

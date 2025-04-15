@@ -1,0 +1,160 @@
+---
+title: "Glossary"
+---
+
+## Initial data analysis framework
+
+### Initial Data Analysis
+
+The main aim of IDA is seen in providing reliable knowledge about the data to enable responsible statistical analyses and interpretation. 
+IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; 
+(5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. IDA is aligned with the research aims 
+and the statistical analysis plan and does not include hypothesis generating activities.  
+ 
+**Source:** Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11
+
+[Link](https://www.stratos-initiative.org/sites/default/files/2021-11/STRATOS-TG3-BB-initial-data-analysis.pdf) 
+
+
+### Exploratory Data Analysis
+
+Exploratory Data Analysis (EDA) inspects data to uncover patterns in the data or identifies possible errors and anomalies, for example through graphical approaches. EDA may include investigations for model building and hypothesis generation in a cyclical manner.  
+ 
+**Source:** Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. doi: 10.1371/journal.pone.0295726.
+
+[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295726) 
+
+**References:**
+
+Behrens JT. Principles and procedures of exploratory data analysis. Psychological methods. 1997;2(2):131. <https://core.ac.uk/download/pdf/193648223.pdf>
+
+Cook D, Swayne DF. Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi. New York, NY: Springer New York; 2007. <https://en.wikipedia.org/wiki/Exploratory_data_analysis> 
+
+
+### Statistical Analysis Plan (SAP)
+
+A statistical analysis plan is a document that contains a more technical and detailed elaboration of the principal features of the analysis described in the protocol and includes detailed procedures for executing the statistical analysis of the primary and secondary variables and other data.  
+
+**Source:** International Council for Harmonisation (ICH E9). ICH: E 9: Statistical principles for clinical trials - Step 5. Glossary p. 37 
+
+[Link](https://www.ema.europa.eu/en/ich-e9-statistical-principles-clinical-trials-scientific-guideline)  
+
+### Initial Data Analysis Plan (IDAP)
+
+An IDA plan is focused on data screening to prepare for statistical analyses; it does not specify procedures or software packages to conduct the analyses. It can be
+understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariable and multivariable descriptions.
+
+**Source:** [Heinze et al https://doi.org/10.1186/s12874-024-02294-3;  Lusa et al https://doi.org/10.1371/journal.pone.0295726
+
+
+
+## Elements of initial data analysis
+
+### Data wrangling
+
+Data Wrangling is a broad term referring to the processes involved when preparing data for analysis. It can include acquiring data, enriching, changing the format and shape of the data, combining, subsetting and sampling data, and cleaning data. Some common steps involved with Data Wrangling are: 
+
+* Discovering and gathering the data needed 
+* Merging data from different sources, if necessary  
+* Fixing flaws in the data entries  
+* Extracting the necessary data and put it in the proper structure  
+* Storing it in the proper format for further use 
+
+**Source:** National Library of Medicine
+
+[Link](https://www.nnlm.gov/guides/data-glossary/data-wrangling) 
+
+### Data cleaning
+
+Data cleaning is the process of identifying and correcting data that are inaccurate, missing, or incomplete. Data cleaning tasks can include removing duplicate records, investigating extreme values (e.g., outliers), converting dates from one format to another, removing unwanted text, splitting multiple data points in a cell into separate cells, or coding missing or NA values. 
+
+**Source:** National Library of Medicine
+
+[Link](https://www.nnlm.gov/guides/data-glossary/data-cleaning)  
+
+### Data screening
+
+Data screening consists of reviewing and documenting the properties and quality of the data that may affect future analysis and interpretation.
+
+**Source:** Huebner M, le Cessie S, Schmidt CO, Vach W. A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192. 
+
+[Link](https://doi.org/10.1353/obs.2018.0014)
+
+### Structural variables
+
+Structural variables are variables that help to structure initial data analysis results for a clear organization and essential overview of data properties. Structuring can be based on levels of measurement (centers), on calendar time of recruitment, on demographic variables such as sex or age, or on variables of central importance to the research questions. Structural variables may or may not be included as predictors in the statistical models. 
+
+**Source:** [Heinze et al https://doi.org/10.1186/s12874-024-02294-3] 
+
+
+## Data and related terms
+
+### Data 
+
+Reinterpretable representation of information in a formalized manner suitable for communication, interpretation, or processing 
+
+**Source:** ISO/IEC 2382:2015, 2121272, modified
+
+[Link](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
+
+### Data set
+
+logically meaningful grouping of data
+
+ **Source:**
+
+[Link](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
+
+
+
+### Metadata 
+
+data defining and describing other data 
+
+**Source:** ISO/IEC 11179‑1:2015, 3.2.16
+
+[Link](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
+
+
+### Data dictionary
+
+A data dictionary is a document that outlines the structure, content, and meaning of a given variable. This includes what type of data is being collected (e.g. free text, numerical, categorical or group data), the full wording of a question, what values are allowable (e.g. numeric ranges, multiple choice codes), and what those values mean (e.g. 0 = no high blood pressure diagnosis, 1 = borderline high blood pressure, 2 = high blood pressure). A data dictionary is a critical tool for data analysis and reproducibility.
+
+**Source:** National Library of Medicine
+
+[Link-NLM](https://www.nnlm.gov/guides/data-glossary/data-dictionary) 
+
+[Link-USGS](https://www.usgs.gov/data-management/data-dictionaries)
+ 
+
+### Data quality
+
+Data quality is the degree to which a set of characteristics of data fulfils requirements (=need or expectation that is stated, generally implied or obligatory)
+
+**Source:** ISO 9000:2015, 3.6.2  and  ISO 9000:2015, 3.6.4
+
+[Link1](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
+ 
+[Link2](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
+
+
+### Data subject
+
+A Data subject is the individual the personal data relates to. 
+
+**Source:** General Data Protection Regulation (GDPR) 
+
+[Link](https://www.edpb.europa.eu/system/files/2023-06/Key%20GDPR%20Definitions%20Infographic.pdf)  
+
+ 
+### Data provenance 
+
+The term “data provenance”, sometimes called “data lineage,” refers to a documented trail that accounts for the origin of a piece of data and where it has moved from to where it is presently. The purpose of data provenance is to tell researchers the origin, changes to, and details supporting the confidence or validity of research data. The concept of provenance guarantees that data creators are transparent about their work and where it came from and provides a chain of information where data can be tracked as researchers use other researchers’ data and adapt it for their own purposes. 
+
+**Source:** National Library of Medicine
+ 
+[Link](https://www.nnlm.gov/guides/data-glossary/data-provenance) 
+
+
+
+

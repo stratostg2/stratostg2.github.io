@@ -1,0 +1,29 @@
+---
+title: "Members"
+---
+
+[Marianne Huebner](https://cstat.msu.edu/people/marianne-huebner-phd-sheher) (chair), Professor of Statistics and Probability at Michigan State University, USA. <https://orcid.org/0000-0002-9694-9231>
+
+Carsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald
+
+Mark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland
+
+Saskia le Cessie, Professor at Leiden University Medical Center, Netherlands
+
+[Lara Lusa](https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/lara.lusa/), Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia
+
+[Michael Schell](https://www.moffitt.org/research-science/researchers/michael-schell/), Moffit Cancer Center, Florida, USA
+
+## **Bios**
+
+**Mark Baillie** is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.
+
+**Marianne Huebner** is Professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.
+
+**Saskia le Cessie** is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.
+
+**Lara Lusa** is Professor of Statistics at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska, Slovenia. After receiving a PhD in Applied Statistics from the University of Florence, she worked at the Italian National Cancer Institute of Milan, at the Institute of Biostatistics and Medical Informatics of the University of Ljubljana and was a visiting fellow at the Biometric Research Branch of the National Cancer Institute in Bethesda. Her current research interests are related to the development and validation of predictive models in bio‐medicine, with particular attention to applications using high‐dimensional data and rare events. She is also interested in statistical programming, design of simulation studies, and teaching statistics. Beside the methodological research in statistics, she is also heavily involved as a statistical consultant to researchers in medicine.
+
+**Michael Schell**
+
+**Carsten Oliver Schmidt** is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division "Quality in the Health Sciences". He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings.
