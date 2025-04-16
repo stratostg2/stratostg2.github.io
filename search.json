@@ -1,139 +1,5 @@
 [
   {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "TG2 Publications",
-    "section": "",
-    "text": "Click for Answer\n\nTest Test",
-    "crumbs": [
-      "TG2 Publications"
-    ]
-  },
-  {
-    "objectID": "papers.html#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues",
-    "href": "papers.html#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues",
-    "title": "TG2 Publications",
-    "section": "State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues",
-    "text": "State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues\nWilli Sauerbrei, Aris Perperoglou, Matthias Schmid et al for TG2 of the STRATOS initiative\n[Link] (https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-020-00074-3)\n\n\nAbstract\n\n\nBackground\nHow to select variables and identify functional forms for continuous variables is a key concern when creating a multivariable model. Ad hoc ‘traditional’ approaches to variable selection have been in use for at least 50 years. Similarly, methods for determining functional forms for continuous variables were first suggested many years ago. More recently, many alternative approaches to address these two challenges have been proposed, but knowledge of their properties and meaningful comparisons between them are scarce. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, many outstanding issues in multivariable modelling remain. Our main aims are to identify and illustrate such gaps in the literature and present them at a moderate technical level to the wide community of practitioners, researchers and students of statistics.\n\n\nMethods\nWe briefly discuss general issues in building descriptive regression models, strategies for variable selection, different ways of choosing functional forms for continuous variables and methods for combining the selection of variables and functions. We discuss two examples, taken from the medical literature, to illustrate problems in the practice of modelling.\n\n\nResults\nOur overview revealed that there is not yet enough evidence on which to base recommendations for the selection of variables and functional forms in multivariable analysis. Such evidence may come from comparisons between alternative methods. In particular, we highlight seven important topics that require further investigation and make suggestions for the direction of further research.\n\n\nConclusions\nSelection of variables and of functional forms are important topics in multivariable analysis. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, further comparative research is required.",
-    "crumbs": [
-      "TG2 Publications"
-    ]
-  },
-  {
-    "objectID": "papers.html#a-review-of-spline-function-procedures-in-r",
-    "href": "papers.html#a-review-of-spline-function-procedures-in-r",
-    "title": "TG2 Publications",
-    "section": "A review of spline function procedures in R",
-    "text": "A review of spline function procedures in R\nAris Perperoglou, Willi Sauerbrei, Michal Abrahamowicz, Matthias Schmid on behalf of TG2 of the STRATOS initiative\n[Link] (https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3)\n\n\nAbstract\n\n\nBackground\nWith progress on both the theoretical and the computational fronts the use of spline modelling has become an established tool in statistical regression analysis. An important issue in spline modelling is the availability of user friendly, well documented software packages. Following the idea of the STRengthening Analytical Thinking for Observational Studies initiative to provide users with guidance documents on the application of statistical methods in observational research, the aim of this article is to provide an overview of the most widely used spline-based techniques and their implementation in R.\n\n\nMethods\nIn this work, we focus on the R Language for Statistical Computing which has become a hugely popular statistics software. We identified a set of packages that include functions for spline modelling within a regression framework. Using simulated and real data we provide an introduction to spline modelling and an overview of the most popular spline functions.\n\n\nResults\nWe present a series of simple scenarios of univariate data, where different basis functions are used to identify the correct functional form of an independent variable. Even in simple data, using routines from different packages would lead to different results.\n\n\nConclusions\nThis work illustrate challenges that an analyst faces when working with data. Most differences can be attributed to the choice of hyper-parameters rather than the basis used. In fact an experienced user will know how to obtain a reasonable outcome, regardless of the type of spline used. However, many analysts do not have sufficient knowledge to use these powerful tools adequately and will need more guidance.",
-    "crumbs": [
-      "TG2 Publications"
-    ]
-  },
-  {
-    "objectID": "papers.html#introducing-the-topic-group-on-selection-of-variables-and-functional-forms-in-multivariable-analysis-tg2",
-    "href": "papers.html#introducing-the-topic-group-on-selection-of-variables-and-functional-forms-in-multivariable-analysis-tg2",
-    "title": "TG2 Publications",
-    "section": "Introducing the Topic Group on Selection of Variables and Functional Forms in Multivariable Analysis (TG2)",
-    "text": "Introducing the Topic Group on Selection of Variables and Functional Forms in Multivariable Analysis (TG2)\nAris Perperoglou , Georg Heinze , Willi Sauerbrei on behalf of STRATOS TG2\n[Link] (https://stratos-initiative.org/sites/default/files/STRATOS-TG2-BB-variable-selection.pdf)\n\n\nAbstract\n\nThe Biometric Bulletin has recently introduced its readership to the STRATOS initiative and described the activities of the Topic Groups on Missing Data (TG1), Measurement Error (TG4) and on Initial Data Analysis (TG3). This series now continues with an introduction to TG2, dealing with selection of variables and functional forms in multivariable analysis.",
-    "crumbs": [
-      "TG2 Publications"
-    ]
-  },
-  {
-    "objectID": "papers.html#systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol",
-    "href": "papers.html#systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol",
-    "title": "TG2 Publications",
-    "section": "Systematic review of education and practical guidance on regression modeling for medical researchers who lack a strong statistical background: Study protocol",
-    "text": "Systematic review of education and practical guidance on regression modeling for medical researchers who lack a strong statistical background: Study protocol\nPaul Bach, Christine Wallisch, Nadja Klein, Lorena Hafermann, Willi Sauerbrei, Ewout W. Steyerberg, Georg Heinze, Geraldine Rauch , for topic group 2 of the STRATOS initiative\n[Link] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241427)\n\n\nAbstract\n\nIn the last decades, statistical methodology has developed rapidly, in particular in the field of regression modeling. Multivariable regression models are applied in almost all medical research projects. Therefore, the potential impact of statistical misconceptions within this field can be enormous Indeed, the current theoretical statistical knowledge is not always adequately transferred to the current practice in medical statistics. Some medical journals have identified this problem and published isolated statistical articles and even whole series thereof. In this systematic review, we aim to assess the current level of education on regression modeling that is provided to medical researchers via series of statistical articles published in medical journals. The present manuscript is a protocol for a systematic review that aims to assess which aspects of regression modeling are covered by statistical series published in medical journals that intend to train and guide applied medical researchers with limited statistical knowledge. Statistical paper series cannot easily be summarized and identified by common keywords in an electronic search engine like Scopus. We therefore identified series by a systematic request to statistical experts who are part or related to the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies). Within each identified article, two raters will independently check the content of the articles with respect to a predefined list of key aspects related to regression modeling. The content analysis of the topic-relevant articles will be performed using a predefined report form to assess the content as objectively as possible. Any disputes will be resolved by a third reviewer. Summary analyses will identify potential methodological gaps and misconceptions that may have an important impact on the quality of analyses in medical research. This review will thus provide a basis for future guidance papers and tutorials in the field of regression modeling which will enable medical researchers 1) to interpret publications in a correct way, 2) to perform basic statistical analyses in a correct way and 3) to identify situations when the help of a statistical expert is required.",
-    "crumbs": [
-      "TG2 Publications"
-    ]
-  },
-  {
-    "objectID": "papers.html#books",
-    "href": "papers.html#books",
-    "title": "TG2 Publications",
-    "section": "Books",
-    "text": "Books\n\nHarrell FE. Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis. Springer: New York, 2015.\nRoyston P, Sauerbrei W. Multivariable model-building: a pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables. John Wiley & Sons; 2008.\nWood S. Generalized Additive Models. Chapman & Hall/CRC: New York, 2006.\nMiller A. Subset Selection in Regression. Taylor & Francis: Boca Raton, Florida, 2002.\nBoer C de. A Practical Guide to Splines revised edn. Springer: New York, 2001.\nHastie T, Tibshirani R.. Generalized Additive Models. Chapman & Hall/CRC: New York, 1990.",
-    "crumbs": [
-      "TG2 Publications"
-    ]
-  },
-  {
-    "objectID": "papers.html#papers",
-    "href": "papers.html#papers",
-    "title": "TG2 Publications",
-    "section": "Papers",
-    "text": "Papers\n\nLu Z, Lou W. Bayesian approaches to variable selection: a comparative study from practical perspectives. Int J Biostat 2021; [https://doi.org/10.1515/ijb-2020-0130] (https://doi.org/10.1515/ijb-2020-0130)\nHeinze G, Wallisch C, Dunkler D. Variable selection – a review and recommendations for the practicing statistician. Biometrical J. 2018; 60:431–49.\nBinder H, Sauerbrei W, Royston P. Comparison between splines and fractional polynomials for multivariable model building with continuous covariates: a simulation study with continuous response. Statistics in Medicine 2013; 32(13): 2262– 2277.\nRoyston P, Sauerbrei W. Multivariable Model‐building. A Pragmatic Approach to Regression Analysis Based on Fractional Polynomials for Continuous Variables. Wiley: Chichester, 2008.\nSauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Statistics in Medicine 2007; 26: 5512– 5528.\nAbrahamowicz M, MacKenzie TA. Joint estimation of time‐dependent and non‐linear effects of continuous covariates on survival. Statistics in Medicine 2007; 26(2): 392– 408.\nAbrahamowicz M, Du Berger R, Grover SA. Flexible modeling of the effects of serum cholesterol on coronary heart disease mortality. American Journal of Epidemiology 1997; 145(8): 714– 729.\nGreenland S. Avoiding power loss associated with categorization and ordinal scores in dose‐response and trend analysis. Epidemiology (Cambridge, Mass.) 1995; 6(4): 450– 454.\nRoyston P, Altman DG. Regression using fractional polynomials of continuous covariates: parsimonious parametric modelling. Applied Statistic 1994; 43(3): 429– 467.",
-    "crumbs": [
-      "TG2 Publications"
-    ]
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Activities",
-    "section": "",
-    "text": "NOTE: This is the text that was originally on the TG2 website and it is severely outdated!\n\nGeorg Heinze and Christine Wallisch will give a STRATOS-TG2 workshop on ‘Variable selection – a review and recommendations for the practicing statistician’ at the IBS-ROeS conference in Salzburg, 6 September 2021\nAris Perperoglou will host a session on “STRATOS initiative - on various issues in multivariable model building” at the RSS International Conference in Manchester, 6-9 September, with talks from Bianca de Stavola, Tim Morris, Willi Sauerbrei and Michal Abrahamowicz.\nGeorg Heinze and Mark Baillie will host a session on ‘STRATOS initiative - Tools for guidance for analysis of observational studies’ at the IBS-ROeS conference in Salzburg, 7-10 September 2021, featuring Rolf Groenwold from TG2 with a talk on ’ Using videos and other media for guidance’",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Members",
-    "section": "",
-    "text": "Marianne Huebner (chair), Professor of Statistics and Probability at Michigan State University, USA. https://orcid.org/0000-0002-9694-9231\nCarsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald\nMark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland\nSaskia le Cessie, Professor at Leiden University Medical Center, Netherlands\nLara Lusa, Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia\nMichael Schell, Moffit Cancer Center, Florida, USA"
-  },
-  {
-    "objectID": "about.html#bios",
-    "href": "about.html#bios",
-    "title": "Members",
-    "section": "Bios",
-    "text": "Bios\nMark Baillie is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.\nMarianne Huebner is Professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.\nSaskia le Cessie is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.\nLara Lusa is Professor of Statistics at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska, Slovenia. After receiving a PhD in Applied Statistics from the University of Florence, she worked at the Italian National Cancer Institute of Milan, at the Institute of Biostatistics and Medical Informatics of the University of Ljubljana and was a visiting fellow at the Biometric Research Branch of the National Cancer Institute in Bethesda. Her current research interests are related to the development and validation of predictive models in bio‐medicine, with particular attention to applications using high‐dimensional data and rare events. She is also interested in statistical programming, design of simulation studies, and teaching statistics. Beside the methodological research in statistics, she is also heavily involved as a statistical consultant to researchers in medicine.\nMichael Schell\nCarsten Oliver Schmidt is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division “Quality in the Health Sciences”. He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "",
-    "text": "Derive guidance for variable and function selection in multivariable analysis.",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#aims",
-    "href": "index.html#aims",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "",
-    "text": "Derive guidance for variable and function selection in multivariable analysis.",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#focus",
-    "href": "index.html#focus",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "Focus",
-    "text": "Focus\nThe main focus of TG2 is to identify influential variables and gain insight into their individual and joint relationship with the outcome. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable explanatory model, and choice of the functional forms for continuous variables",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#stratos-initiative",
-    "href": "index.html#stratos-initiative",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "STRATOS Initiative",
-    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "R implementations",
@@ -201,6 +67,140 @@
     "text": "Data and related terms\n\nData\nReinterpretable representation of information in a formalized manner suitable for communication, interpretation, or processing\nSource: ISO/IEC 2382:2015, 2121272, modified\nLink\n\n\nData set\nlogically meaningful grouping of data\nSource:\nLink\n\n\nMetadata\ndata defining and describing other data\nSource: ISO/IEC 11179‑1:2015, 3.2.16\nLink\n\n\nData dictionary\nA data dictionary is a document that outlines the structure, content, and meaning of a given variable. This includes what type of data is being collected (e.g. free text, numerical, categorical or group data), the full wording of a question, what values are allowable (e.g. numeric ranges, multiple choice codes), and what those values mean (e.g. 0 = no high blood pressure diagnosis, 1 = borderline high blood pressure, 2 = high blood pressure). A data dictionary is a critical tool for data analysis and reproducibility.\nSource: National Library of Medicine\nLink-NLM\nLink-USGS\n\n\nData quality\nData quality is the degree to which a set of characteristics of data fulfils requirements (=need or expectation that is stated, generally implied or obligatory)\nSource: ISO 9000:2015, 3.6.2 and ISO 9000:2015, 3.6.4\nLink1\nLink2\n\n\nData subject\nA Data subject is the individual the personal data relates to.\nSource: General Data Protection Regulation (GDPR)\nLink\n\n\nData provenance\nThe term “data provenance”, sometimes called “data lineage,” refers to a documented trail that accounts for the origin of a piece of data and where it has moved from to where it is presently. The purpose of data provenance is to tell researchers the origin, changes to, and details supporting the confidence or validity of research data. The concept of provenance guarantees that data creators are transparent about their work and where it came from and provides a chain of information where data can be tracked as researchers use other researchers’ data and adapt it for their own purposes.\nSource: National Library of Medicine\nLink",
     "crumbs": [
       "Glossary"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Members",
+    "section": "",
+    "text": "Marianne Huebner (chair), Professor of Statistics and Probability at Michigan State University, USA. https://orcid.org/0000-0002-9694-9231\nCarsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald\nMark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland\nSaskia le Cessie, Professor at Leiden University Medical Center, Netherlands\nLara Lusa, Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia\nMichael Schell, Moffit Cancer Center, Florida, USA"
+  },
+  {
+    "objectID": "about.html#bios",
+    "href": "about.html#bios",
+    "title": "Members",
+    "section": "Bios",
+    "text": "Bios\nMark Baillie is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.\nMarianne Huebner is Professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.\nSaskia le Cessie is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.\nLara Lusa is Professor of Statistics at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska, Slovenia. After receiving a PhD in Applied Statistics from the University of Florence, she worked at the Italian National Cancer Institute of Milan, at the Institute of Biostatistics and Medical Informatics of the University of Ljubljana and was a visiting fellow at the Biometric Research Branch of the National Cancer Institute in Bethesda. Her current research interests are related to the development and validation of predictive models in bio‐medicine, with particular attention to applications using high‐dimensional data and rare events. She is also interested in statistical programming, design of simulation studies, and teaching statistics. Beside the methodological research in statistics, she is also heavily involved as a statistical consultant to researchers in medicine.\nMichael Schell\nCarsten Oliver Schmidt is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division “Quality in the Health Sciences”. He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings."
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "NOTE: This is the text that was originally on the TG2 website and it is severely outdated!\n\nGeorg Heinze and Christine Wallisch will give a STRATOS-TG2 workshop on ‘Variable selection – a review and recommendations for the practicing statistician’ at the IBS-ROeS conference in Salzburg, 6 September 2021\nAris Perperoglou will host a session on “STRATOS initiative - on various issues in multivariable model building” at the RSS International Conference in Manchester, 6-9 September, with talks from Bianca de Stavola, Tim Morris, Willi Sauerbrei and Michal Abrahamowicz.\nGeorg Heinze and Mark Baillie will host a session on ‘STRATOS initiative - Tools for guidance for analysis of observational studies’ at the IBS-ROeS conference in Salzburg, 7-10 September 2021, featuring Rolf Groenwold from TG2 with a talk on ’ Using videos and other media for guidance’",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "",
+    "text": "Derive guidance for variable and function selection in multivariable analysis.",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "index.html#aims",
+    "href": "index.html#aims",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "",
+    "text": "Derive guidance for variable and function selection in multivariable analysis.",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "index.html#focus",
+    "href": "index.html#focus",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "Focus",
+    "text": "Focus\nThe main focus of TG2 is to identify influential variables and gain insight into their individual and joint relationship with the outcome. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable explanatory model, and choice of the functional forms for continuous variables",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "index.html#stratos-initiative",
+    "href": "index.html#stratos-initiative",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "STRATOS Initiative",
+    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "TG2 Publications",
+    "section": "",
+    "text": "Willi Sauerbrei, Aris Perperoglou, Matthias Schmid et al for TG2 of the STRATOS initiative\nLink\n\n\nAbstract\n\n\n\nHow to select variables and identify functional forms for continuous variables is a key concern when creating a multivariable model. Ad hoc ‘traditional’ approaches to variable selection have been in use for at least 50 years. Similarly, methods for determining functional forms for continuous variables were first suggested many years ago. More recently, many alternative approaches to address these two challenges have been proposed, but knowledge of their properties and meaningful comparisons between them are scarce. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, many outstanding issues in multivariable modelling remain. Our main aims are to identify and illustrate such gaps in the literature and present them at a moderate technical level to the wide community of practitioners, researchers and students of statistics.\n\n\n\nWe briefly discuss general issues in building descriptive regression models, strategies for variable selection, different ways of choosing functional forms for continuous variables and methods for combining the selection of variables and functions. We discuss two examples, taken from the medical literature, to illustrate problems in the practice of modelling.\n\n\n\nOur overview revealed that there is not yet enough evidence on which to base recommendations for the selection of variables and functional forms in multivariable analysis. Such evidence may come from comparisons between alternative methods. In particular, we highlight seven important topics that require further investigation and make suggestions for the direction of further research.\n\n\n\nSelection of variables and of functional forms are important topics in multivariable analysis. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, further comparative research is required.",
+    "crumbs": [
+      "TG2 Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues",
+    "href": "papers.html#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues",
+    "title": "TG2 Publications",
+    "section": "",
+    "text": "Willi Sauerbrei, Aris Perperoglou, Matthias Schmid et al for TG2 of the STRATOS initiative\nLink\n\n\nAbstract\n\n\n\nHow to select variables and identify functional forms for continuous variables is a key concern when creating a multivariable model. Ad hoc ‘traditional’ approaches to variable selection have been in use for at least 50 years. Similarly, methods for determining functional forms for continuous variables were first suggested many years ago. More recently, many alternative approaches to address these two challenges have been proposed, but knowledge of their properties and meaningful comparisons between them are scarce. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, many outstanding issues in multivariable modelling remain. Our main aims are to identify and illustrate such gaps in the literature and present them at a moderate technical level to the wide community of practitioners, researchers and students of statistics.\n\n\n\nWe briefly discuss general issues in building descriptive regression models, strategies for variable selection, different ways of choosing functional forms for continuous variables and methods for combining the selection of variables and functions. We discuss two examples, taken from the medical literature, to illustrate problems in the practice of modelling.\n\n\n\nOur overview revealed that there is not yet enough evidence on which to base recommendations for the selection of variables and functional forms in multivariable analysis. Such evidence may come from comparisons between alternative methods. In particular, we highlight seven important topics that require further investigation and make suggestions for the direction of further research.\n\n\n\nSelection of variables and of functional forms are important topics in multivariable analysis. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, further comparative research is required.",
+    "crumbs": [
+      "TG2 Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#a-review-of-spline-function-procedures-in-r",
+    "href": "papers.html#a-review-of-spline-function-procedures-in-r",
+    "title": "TG2 Publications",
+    "section": "A review of spline function procedures in R",
+    "text": "A review of spline function procedures in R\nAris Perperoglou, Willi Sauerbrei, Michal Abrahamowicz, Matthias Schmid on behalf of TG2 of the STRATOS initiative\nLink\n\n\nAbstract\n\n\nBackground\nWith progress on both the theoretical and the computational fronts the use of spline modelling has become an established tool in statistical regression analysis. An important issue in spline modelling is the availability of user friendly, well documented software packages. Following the idea of the STRengthening Analytical Thinking for Observational Studies initiative to provide users with guidance documents on the application of statistical methods in observational research, the aim of this article is to provide an overview of the most widely used spline-based techniques and their implementation in R.\n\n\nMethods\nIn this work, we focus on the R Language for Statistical Computing which has become a hugely popular statistics software. We identified a set of packages that include functions for spline modelling within a regression framework. Using simulated and real data we provide an introduction to spline modelling and an overview of the most popular spline functions.\n\n\nResults\nWe present a series of simple scenarios of univariate data, where different basis functions are used to identify the correct functional form of an independent variable. Even in simple data, using routines from different packages would lead to different results.\n\n\nConclusions\nThis work illustrate challenges that an analyst faces when working with data. Most differences can be attributed to the choice of hyper-parameters rather than the basis used. In fact an experienced user will know how to obtain a reasonable outcome, regardless of the type of spline used. However, many analysts do not have sufficient knowledge to use these powerful tools adequately and will need more guidance.",
+    "crumbs": [
+      "TG2 Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#introducing-the-topic-group-on-selection-of-variables-and-functional-forms-in-multivariable-analysis-tg2",
+    "href": "papers.html#introducing-the-topic-group-on-selection-of-variables-and-functional-forms-in-multivariable-analysis-tg2",
+    "title": "TG2 Publications",
+    "section": "Introducing the Topic Group on Selection of Variables and Functional Forms in Multivariable Analysis (TG2)",
+    "text": "Introducing the Topic Group on Selection of Variables and Functional Forms in Multivariable Analysis (TG2)\nAris Perperoglou , Georg Heinze , Willi Sauerbrei on behalf of STRATOS TG2\nLink\n\n\nAbstract\n\nThe Biometric Bulletin has recently introduced its readership to the STRATOS initiative and described the activities of the Topic Groups on Missing Data (TG1), Measurement Error (TG4) and on Initial Data Analysis (TG3). This series now continues with an introduction to TG2, dealing with selection of variables and functional forms in multivariable analysis.",
+    "crumbs": [
+      "TG2 Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol",
+    "href": "papers.html#systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol",
+    "title": "TG2 Publications",
+    "section": "Systematic review of education and practical guidance on regression modeling for medical researchers who lack a strong statistical background: Study protocol",
+    "text": "Systematic review of education and practical guidance on regression modeling for medical researchers who lack a strong statistical background: Study protocol\nPaul Bach, Christine Wallisch, Nadja Klein, Lorena Hafermann, Willi Sauerbrei, Ewout W. Steyerberg, Georg Heinze, Geraldine Rauch , for topic group 2 of the STRATOS initiative\nLink\n\n\nAbstract\n\nIn the last decades, statistical methodology has developed rapidly, in particular in the field of regression modeling. Multivariable regression models are applied in almost all medical research projects. Therefore, the potential impact of statistical misconceptions within this field can be enormous Indeed, the current theoretical statistical knowledge is not always adequately transferred to the current practice in medical statistics. Some medical journals have identified this problem and published isolated statistical articles and even whole series thereof. In this systematic review, we aim to assess the current level of education on regression modeling that is provided to medical researchers via series of statistical articles published in medical journals. The present manuscript is a protocol for a systematic review that aims to assess which aspects of regression modeling are covered by statistical series published in medical journals that intend to train and guide applied medical researchers with limited statistical knowledge. Statistical paper series cannot easily be summarized and identified by common keywords in an electronic search engine like Scopus. We therefore identified series by a systematic request to statistical experts who are part or related to the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies). Within each identified article, two raters will independently check the content of the articles with respect to a predefined list of key aspects related to regression modeling. The content analysis of the topic-relevant articles will be performed using a predefined report form to assess the content as objectively as possible. Any disputes will be resolved by a third reviewer. Summary analyses will identify potential methodological gaps and misconceptions that may have an important impact on the quality of analyses in medical research. This review will thus provide a basis for future guidance papers and tutorials in the field of regression modeling which will enable medical researchers 1) to interpret publications in a correct way, 2) to perform basic statistical analyses in a correct way and 3) to identify situations when the help of a statistical expert is required.",
+    "crumbs": [
+      "TG2 Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#books",
+    "href": "papers.html#books",
+    "title": "TG2 Publications",
+    "section": "Books",
+    "text": "Books\n\nHarrell FE. Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis. Springer: New York, 2015.\nRoyston P, Sauerbrei W. Multivariable model-building: a pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables. John Wiley & Sons; 2008.\nWood S. Generalized Additive Models. Chapman & Hall/CRC: New York, 2006.\nMiller A. Subset Selection in Regression. Taylor & Francis: Boca Raton, Florida, 2002.\nBoer C de. A Practical Guide to Splines revised edn. Springer: New York, 2001.\nHastie T, Tibshirani R.. Generalized Additive Models. Chapman & Hall/CRC: New York, 1990.",
+    "crumbs": [
+      "TG2 Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#papers",
+    "href": "papers.html#papers",
+    "title": "TG2 Publications",
+    "section": "Papers",
+    "text": "Papers\n\nLu Z, Lou W. Bayesian approaches to variable selection: a comparative study from practical perspectives. Int J Biostat 2021; https://doi.org/10.1515/ijb-2020-0130\nHeinze G, Wallisch C, Dunkler D. Variable selection – a review and recommendations for the practicing statistician. Biometrical J. 2018; 60:431–49.\nBinder H, Sauerbrei W, Royston P. Comparison between splines and fractional polynomials for multivariable model building with continuous covariates: a simulation study with continuous response. Statistics in Medicine 2013; 32(13): 2262– 2277.\nRoyston P, Sauerbrei W. Multivariable Model‐building. A Pragmatic Approach to Regression Analysis Based on Fractional Polynomials for Continuous Variables. Wiley: Chichester, 2008.\nSauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Statistics in Medicine 2007; 26: 5512– 5528.\nAbrahamowicz M, MacKenzie TA. Joint estimation of time‐dependent and non‐linear effects of continuous covariates on survival. Statistics in Medicine 2007; 26(2): 392– 408.\nAbrahamowicz M, Du Berger R, Grover SA. Flexible modeling of the effects of serum cholesterol on coronary heart disease mortality. American Journal of Epidemiology 1997; 145(8): 714– 729.\nGreenland S. Avoiding power loss associated with categorization and ordinal scores in dose‐response and trend analysis. Epidemiology (Cambridge, Mass.) 1995; 6(4): 450– 454.\nRoyston P, Altman DG. Regression using fractional polynomials of continuous covariates: parsimonious parametric modelling. Applied Statistic 1994; 43(3): 429– 467.",
+    "crumbs": [
+      "TG2 Publications"
     ]
   }
 ]
