@@ -4,7 +4,32 @@ title: "TG2 Publications"
 
 <details>
   <summary>Click for Answer</summary>
-    ```{r, echo=FALSE, eval=TRUE}
-    hist(1:10)
-    ```
+Test Test
+</details>
+
+
+## State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues
+
+Willi Sauerbrei,  Aris Perperoglou,  Matthias Schmid et al  for TG2 of the STRATOS initiative
+
+https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-020-00074-3
+
+<details>
+  <summary>Abstract</summary>
+
+### Background
+
+How to select variables and identify functional forms for continuous variables is a key concern when creating a multivariable model. Ad hoc ‘traditional’ approaches to variable selection have been in use for at least 50 years. Similarly, methods for determining functional forms for continuous variables were first suggested many years ago. More recently, many alternative approaches to address these two challenges have been proposed, but knowledge of their properties and meaningful comparisons between them are scarce. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, many outstanding issues in multivariable modelling remain. Our main aims are to identify and illustrate such gaps in the literature and present them at a moderate technical level to the wide community of practitioners, researchers and students of statistics.
+
+### Methods
+
+We briefly discuss general issues in building descriptive regression models, strategies for variable selection, different ways of choosing functional forms for continuous variables and methods for combining the selection of variables and functions. We discuss two examples, taken from the medical literature, to illustrate problems in the practice of modelling.
+
+### Results
+
+Our overview revealed that there is not yet enough evidence on which to base recommendations for the selection of variables and functional forms in multivariable analysis. Such evidence may come from comparisons between alternative methods. In particular, we highlight seven important topics that require further investigation and make suggestions for the direction of further research.
+
+### Conclusions
+
+Selection of variables and of functional forms are important topics in multivariable analysis. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, further comparative research is required.
 </details>
