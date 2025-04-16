@@ -2,17 +2,12 @@
 title: "TG2 Publications"
 ---
 
-<details>
-  <summary>Click for Answer</summary>
-Test Test
-</details>
-
 
 ## State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues
 
 Willi Sauerbrei,  Aris Perperoglou,  Matthias Schmid et al  for TG2 of the STRATOS initiative
 
-[Link] (https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-020-00074-3)
+[Link](https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-020-00074-3)
 
 <details>
   <summary>Abstract</summary>
@@ -43,7 +38,7 @@ Selection of variables and of functional forms are important topics in multivari
 
 Aris Perperoglou, Willi Sauerbrei, Michal Abrahamowicz, Matthias Schmid on behalf of TG2 of the STRATOS initiative
 
-[Link] (https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3)
+[Link](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3)
 
 <details>
   <summary>Abstract</summary>
@@ -78,7 +73,7 @@ This work illustrate challenges that an analyst faces when working with data. Mo
 
 Aris Perperoglou , Georg Heinze , Willi Sauerbrei on behalf of STRATOS TG2
 
-[Link] (https://stratos-initiative.org/sites/default/files/STRATOS-TG2-BB-variable-selection.pdf)
+[Link](https://stratos-initiative.org/sites/default/files/STRATOS-TG2-BB-variable-selection.pdf)
 
 <details>
   <summary>Abstract</summary>
@@ -93,7 +88,7 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 
 Paul Bach, Christine Wallisch, Nadja Klein, Lorena Hafermann, Willi Sauerbrei, Ewout W. Steyerberg, Georg Heinze, Geraldine Rauch , for topic group 2 of the STRATOS initiative 
 
-[Link] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241427)
+[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241427)
 
 <details>
   <summary>Abstract</summary>
@@ -124,7 +119,7 @@ In the last decades, statistical methodology has developed rapidly, in particula
 
 ## Papers
 
-* Lu Z, Lou W. Bayesian approaches to variable selection: a comparative study from practical perspectives. Int J Biostat 2021; [https://doi.org/10.1515/ijb-2020-0130] (https://doi.org/10.1515/ijb-2020-0130)
+* Lu Z, Lou W. Bayesian approaches to variable selection: a comparative study from practical perspectives. Int J Biostat 2021; [https://doi.org/10.1515/ijb-2020-0130](https://doi.org/10.1515/ijb-2020-0130)
 
 * Heinze G, Wallisch C, Dunkler D. Variable selection – a review and recommendations for the practicing statistician. Biometrical J. 2018; 60:431–49. 
 
