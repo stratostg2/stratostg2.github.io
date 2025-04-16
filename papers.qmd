@@ -1,61 +1,10 @@
 ---
-title: "Publications"
+title: "TG2 Publications"
 ---
-## **TG3 Publications**
 
-*1. This is a great overview over initial data analysis and the steps to think about .*
-
-Baillie M, le Cessie S, Schmidt CO, Lusa L, Huebner M. Ten simple rules for initial data analysis. PLoS Comput Biol 2022; 18(2): e1009819. <https://doi.org/10.1371/journal.pcbi.1009819>
-
-*2. This is the main paper that introduces the initial data analysis framework and explains concepts.*
-
-Huebner M, le Cessie S, Schmidt CO, Vach W . A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192. <https://doi.org/10.1353/obs.2018.0014>
-
-*3. IDA check list for cross-sectional studies with example and code:*
-
-Heinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M; TG2 and TG3 of the STRATOS initiative. Regression without regrets -initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol. 2024 Aug 8;24(1):178. <https://doi.org/10.1186/s12874-024-02294-3>
-
-IDA checklist for cross-sectional studies: [Link](assets/IDAchecklist_cross.pdf)
-
-*4. IDA check list for longitudinal studies with example and code:*
-
-Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. <https://doi.org/10.1371/journal.pone.0295726>
-
-IDA checklist for longitudinal studies: [Link](https://stratosida.github.io/assets/IDAchecklist_long.pdf)
-
-*5. This is a look at reporting practices and recommendations for more transparency.*
-
-Huebner M, Vach W, le Cessie S, Schmidt C, Lusa L. Hidden Analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses. BMC Med Res Meth 2020; 20:61. <https://doi.org/10.1186/s12874-020-00942-y>
-
-*6. Our first attempt at explaining initial data analysis aimed at a clinical audience. This is superseded by the framework paper \[2\].*
-
-Huebner M, Vach W, le Cessie S. A systematic approach to initial data analysis is good research practice. J Thoracic Cardiovas S. 2016; 151(1): 25-27. [Link](https://www.google.com/url?q=https%3A%2F%2Fwww.jtcvs.org%2Farticle%2FS0022-5223%2815%2901794-8%2Fpdf&sa=D&sntz=1&usg=AOvVaw1nfle1UGmUgJMRaITfCUEU)
-
-*7. Short introductions of activities of our topic group :*
-
--   *Initial:* Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11.
-
--   *Update:* Le Cessie S, Schmidt CO, Lusa L, Baillie M, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2021; 38 (3): 10-11.
-
--   *Data quality:* Schmidt CO, Heinze G, Lusa L, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): On the importance of data quality assessment and initial data analysis. Biometric Bulletin 2022; 39 (4): 14-15.
-
--   *Glossary:* Boeker M, Tippmann P, Day S, Huebner M, Sauerbrei W on behalf of the Glossary Panel: STRengthening Analytical Thinking for Observational Studies (STATOS): Defining common meaning for statistical Terms. Biometrical Bulletin; 37(4): 13-14.  
-
-
-## **Related Publications. Collaborations with TG3 members**
-
-1.  *This paper provides an extensive overview of data quality aspects on observational studies and provides R code to conduct data quality assessments.*
-
-Schmidt CO, Struckmann S, Enzenbach C, Reineke A, Stausberg J, Damerow S, Huebner M, Schmidt B, Sauerbrei W, Richter A. Facilitating harmonized data quality assessments. A data quality framework for observational health research data collections with software implementations in R. BMC Med Res Meth 2021; 21(1): 1-15. [Link](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01252-7)
-
-2.  *An overview of an R package to provide data quality assessments*
-
-Richter A , Schmidt CO , Krüger M , and Struckmann S. dataquieR: assessment of data quality in epidemiological research. Journal of Open Source Software 2021; 6(61), 3093, <https://doi.org/10.21105/joss.03093>
-
-3.  *Data management and data cleaning for a longitudinal survey design*
-
-Lusa L and Huebner M. Organizing and Analyzing Data from the SHARE Study with an Application to Age and Sex Differences in Depressive Symptoms. Int. J. Environ. Res. Public Health 2021, 18(18), 9684; <https://doi.org/10.3390/ijerph18189684>
-
-4.  *This is the accompanying R code for the IJEPRH paper (item 3)*
-
-Lusa L and Huebner M. Repository with R vignettes to support data organization and analysis for the SHARE study. 2021. <https://doi.org/10.17605/OSF.IO/KGTX6>
+<details>
+  <summary>Click for Answer</summary>
+    ```{r, echo=FALSE, eval=TRUE}
+    hist(1:10)
+    ```
+</details>
