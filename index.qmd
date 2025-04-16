@@ -15,3 +15,8 @@ The main focus of TG2 is to identify influential variables and gain insight into
 Topic group 2 is a member of the [STRATOS](https://stratos-initiative.org) Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine [topic groups](https://stratos-initiative.org/en/groups) and several cross-cutting [panels](https://stratos-initiative.org/en/panels).
 
 ![2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.](assets/STRATOS_Banff_second_meeting.png){fig-align="center"}
+
+
+### Acknowledgements
+
+Many thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.
