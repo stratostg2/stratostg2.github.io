@@ -2,7 +2,7 @@
 title: "Members"
 ---
 
-[Georg Heinze](https://www.meduniwien.ac.at/researcher/georg_heinze) (chair): Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna,  Austria. 
+**[Georg Heinze](https://www.meduniwien.ac.at/researcher/georg_heinze) (chair)**: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna,  Austria. 
 
 **Aris Perperoglou (chair)**:  Data Science & AI,   AstraZeneca R&D Biopharmaceuticals , Cambridge UK
 
