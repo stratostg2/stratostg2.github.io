@@ -1,5 +1,89 @@
 [
   {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "TG2 Publications",
+    "section": "",
+    "text": "Click for Answer\n\nTest Test",
+    "crumbs": [
+      "TG2 Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues",
+    "href": "papers.html#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues",
+    "title": "TG2 Publications",
+    "section": "State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues",
+    "text": "State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues\nWilli Sauerbrei, Aris Perperoglou, Matthias Schmid et al for TG2 of the STRATOS initiative\nhttps://diagnprognres.biomedcentral.com/articles/10.1186/s41512-020-00074-3\n\n\nAbstract\n\n\nBackground\nHow to select variables and identify functional forms for continuous variables is a key concern when creating a multivariable model. Ad hoc ‘traditional’ approaches to variable selection have been in use for at least 50 years. Similarly, methods for determining functional forms for continuous variables were first suggested many years ago. More recently, many alternative approaches to address these two challenges have been proposed, but knowledge of their properties and meaningful comparisons between them are scarce. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, many outstanding issues in multivariable modelling remain. Our main aims are to identify and illustrate such gaps in the literature and present them at a moderate technical level to the wide community of practitioners, researchers and students of statistics.\n\n\nMethods\nWe briefly discuss general issues in building descriptive regression models, strategies for variable selection, different ways of choosing functional forms for continuous variables and methods for combining the selection of variables and functions. We discuss two examples, taken from the medical literature, to illustrate problems in the practice of modelling.\n\n\nResults\nOur overview revealed that there is not yet enough evidence on which to base recommendations for the selection of variables and functional forms in multivariable analysis. Such evidence may come from comparisons between alternative methods. In particular, we highlight seven important topics that require further investigation and make suggestions for the direction of further research.\n\n\nConclusions\nSelection of variables and of functional forms are important topics in multivariable analysis. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, further comparative research is required.",
+    "crumbs": [
+      "TG2 Publications"
+    ]
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "NOTE: This is the text that was originally on the TG2 website and it is severely outdated!\n\nGeorg Heinze and Christine Wallisch will give a STRATOS-TG2 workshop on ‘Variable selection – a review and recommendations for the practicing statistician’ at the IBS-ROeS conference in Salzburg, 6 September 2021\nAris Perperoglou will host a session on “STRATOS initiative - on various issues in multivariable model building” at the RSS International Conference in Manchester, 6-9 September, with talks from Bianca de Stavola, Tim Morris, Willi Sauerbrei and Michal Abrahamowicz.\nGeorg Heinze and Mark Baillie will host a session on ‘STRATOS initiative - Tools for guidance for analysis of observational studies’ at the IBS-ROeS conference in Salzburg, 7-10 September 2021, featuring Rolf Groenwold from TG2 with a talk on ’ Using videos and other media for guidance’",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Members",
+    "section": "",
+    "text": "Marianne Huebner (chair), Professor of Statistics and Probability at Michigan State University, USA. https://orcid.org/0000-0002-9694-9231\nCarsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald\nMark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland\nSaskia le Cessie, Professor at Leiden University Medical Center, Netherlands\nLara Lusa, Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia\nMichael Schell, Moffit Cancer Center, Florida, USA"
+  },
+  {
+    "objectID": "about.html#bios",
+    "href": "about.html#bios",
+    "title": "Members",
+    "section": "Bios",
+    "text": "Bios\nMark Baillie is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.\nMarianne Huebner is Professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.\nSaskia le Cessie is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.\nLara Lusa is Professor of Statistics at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska, Slovenia. After receiving a PhD in Applied Statistics from the University of Florence, she worked at the Italian National Cancer Institute of Milan, at the Institute of Biostatistics and Medical Informatics of the University of Ljubljana and was a visiting fellow at the Biometric Research Branch of the National Cancer Institute in Bethesda. Her current research interests are related to the development and validation of predictive models in bio‐medicine, with particular attention to applications using high‐dimensional data and rare events. She is also interested in statistical programming, design of simulation studies, and teaching statistics. Beside the methodological research in statistics, she is also heavily involved as a statistical consultant to researchers in medicine.\nMichael Schell\nCarsten Oliver Schmidt is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division “Quality in the Health Sciences”. He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "",
+    "text": "Derive guidance for variable and function selection in multivariable analysis.",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "index.html#aims",
+    "href": "index.html#aims",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "",
+    "text": "Derive guidance for variable and function selection in multivariable analysis.",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "index.html#focus",
+    "href": "index.html#focus",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "Focus",
+    "text": "Focus\nThe main focus of TG2 is to identify influential variables and gain insight into their individual and joint relationship with the outcome. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable explanatory model, and choice of the functional forms for continuous variables",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "index.html#stratos-initiative",
+    "href": "index.html#stratos-initiative",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "STRATOS Initiative",
+    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "R implementations",
@@ -67,90 +151,6 @@
     "text": "Data and related terms\n\nData\nReinterpretable representation of information in a formalized manner suitable for communication, interpretation, or processing\nSource: ISO/IEC 2382:2015, 2121272, modified\nLink\n\n\nData set\nlogically meaningful grouping of data\nSource:\nLink\n\n\nMetadata\ndata defining and describing other data\nSource: ISO/IEC 11179‑1:2015, 3.2.16\nLink\n\n\nData dictionary\nA data dictionary is a document that outlines the structure, content, and meaning of a given variable. This includes what type of data is being collected (e.g. free text, numerical, categorical or group data), the full wording of a question, what values are allowable (e.g. numeric ranges, multiple choice codes), and what those values mean (e.g. 0 = no high blood pressure diagnosis, 1 = borderline high blood pressure, 2 = high blood pressure). A data dictionary is a critical tool for data analysis and reproducibility.\nSource: National Library of Medicine\nLink-NLM\nLink-USGS\n\n\nData quality\nData quality is the degree to which a set of characteristics of data fulfils requirements (=need or expectation that is stated, generally implied or obligatory)\nSource: ISO 9000:2015, 3.6.2 and ISO 9000:2015, 3.6.4\nLink1\nLink2\n\n\nData subject\nA Data subject is the individual the personal data relates to.\nSource: General Data Protection Regulation (GDPR)\nLink\n\n\nData provenance\nThe term “data provenance”, sometimes called “data lineage,” refers to a documented trail that accounts for the origin of a piece of data and where it has moved from to where it is presently. The purpose of data provenance is to tell researchers the origin, changes to, and details supporting the confidence or validity of research data. The concept of provenance guarantees that data creators are transparent about their work and where it came from and provides a chain of information where data can be tracked as researchers use other researchers’ data and adapt it for their own purposes.\nSource: National Library of Medicine\nLink",
     "crumbs": [
       "Glossary"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Members",
-    "section": "",
-    "text": "Marianne Huebner (chair), Professor of Statistics and Probability at Michigan State University, USA. https://orcid.org/0000-0002-9694-9231\nCarsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald\nMark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland\nSaskia le Cessie, Professor at Leiden University Medical Center, Netherlands\nLara Lusa, Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia\nMichael Schell, Moffit Cancer Center, Florida, USA"
-  },
-  {
-    "objectID": "about.html#bios",
-    "href": "about.html#bios",
-    "title": "Members",
-    "section": "Bios",
-    "text": "Bios\nMark Baillie is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.\nMarianne Huebner is Professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.\nSaskia le Cessie is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.\nLara Lusa is Professor of Statistics at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska, Slovenia. After receiving a PhD in Applied Statistics from the University of Florence, she worked at the Italian National Cancer Institute of Milan, at the Institute of Biostatistics and Medical Informatics of the University of Ljubljana and was a visiting fellow at the Biometric Research Branch of the National Cancer Institute in Bethesda. Her current research interests are related to the development and validation of predictive models in bio‐medicine, with particular attention to applications using high‐dimensional data and rare events. She is also interested in statistical programming, design of simulation studies, and teaching statistics. Beside the methodological research in statistics, she is also heavily involved as a statistical consultant to researchers in medicine.\nMichael Schell\nCarsten Oliver Schmidt is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division “Quality in the Health Sciences”. He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings."
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Activities",
-    "section": "",
-    "text": "NOTE: This is the text that was originally on the TG2 website and it is severely outdated!\n\nGeorg Heinze and Christine Wallisch will give a STRATOS-TG2 workshop on ‘Variable selection – a review and recommendations for the practicing statistician’ at the IBS-ROeS conference in Salzburg, 6 September 2021\nAris Perperoglou will host a session on “STRATOS initiative - on various issues in multivariable model building” at the RSS International Conference in Manchester, 6-9 September, with talks from Bianca de Stavola, Tim Morris, Willi Sauerbrei and Michal Abrahamowicz.\nGeorg Heinze and Mark Baillie will host a session on ‘STRATOS initiative - Tools for guidance for analysis of observational studies’ at the IBS-ROeS conference in Salzburg, 7-10 September 2021, featuring Rolf Groenwold from TG2 with a talk on ’ Using videos and other media for guidance’",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "",
-    "text": "Derive guidance for variable and function selection in multivariable analysis.",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#aims",
-    "href": "index.html#aims",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "",
-    "text": "Derive guidance for variable and function selection in multivariable analysis.",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#focus",
-    "href": "index.html#focus",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "Focus",
-    "text": "Focus\nThe main focus of TG2 is to identify influential variables and gain insight into their individual and joint relationship with the outcome. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable explanatory model, and choice of the functional forms for continuous variables",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#stratos-initiative",
-    "href": "index.html#stratos-initiative",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "STRATOS Initiative",
-    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "TG2 Publications",
-    "section": "",
-    "text": "Click for Answer\n\nTest Test",
-    "crumbs": [
-      "TG2 Publications"
-    ]
-  },
-  {
-    "objectID": "papers.html#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues",
-    "href": "papers.html#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues",
-    "title": "TG2 Publications",
-    "section": "State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues",
-    "text": "State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues\nWilli Sauerbrei, Aris Perperoglou, Matthias Schmid et al for TG2 of the STRATOS initiative\nhttps://diagnprognres.biomedcentral.com/articles/10.1186/s41512-020-00074-3\n\n\nAbstract\n\n\nBackground\nHow to select variables and identify functional forms for continuous variables is a key concern when creating a multivariable model. Ad hoc ‘traditional’ approaches to variable selection have been in use for at least 50 years. Similarly, methods for determining functional forms for continuous variables were first suggested many years ago. More recently, many alternative approaches to address these two challenges have been proposed, but knowledge of their properties and meaningful comparisons between them are scarce. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, many outstanding issues in multivariable modelling remain. Our main aims are to identify and illustrate such gaps in the literature and present them at a moderate technical level to the wide community of practitioners, researchers and students of statistics.\n\n\nMethods\nWe briefly discuss general issues in building descriptive regression models, strategies for variable selection, different ways of choosing functional forms for continuous variables and methods for combining the selection of variables and functions. We discuss two examples, taken from the medical literature, to illustrate problems in the practice of modelling.\n\n\nResults\nOur overview revealed that there is not yet enough evidence on which to base recommendations for the selection of variables and functional forms in multivariable analysis. Such evidence may come from comparisons between alternative methods. In particular, we highlight seven important topics that require further investigation and make suggestions for the direction of further research.\n\n\nConclusions\nSelection of variables and of functional forms are important topics in multivariable analysis. To define a state of the art and to provide evidence-supported guidance to researchers who have only a basic level of statistical knowledge, further comparative research is required.",
-    "crumbs": [
-      "TG2 Publications"
     ]
   }
 ]
