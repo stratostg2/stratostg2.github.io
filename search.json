@@ -1,139 +1,5 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "R implementations",
-    "section": "",
-    "text": "IDA report for regression models\nBacteremia data set by Georg Heinze\nhttps://stratosida.github.io/regression-regrets/\n\n\nIDA report for longitudinal studies\nGrip strength data set from the SHARE project\nhttps://stratosida.github.io/longitudinal/",
-    "crumbs": [
-      "R implementations"
-    ]
-  },
-  {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Members",
-    "section": "",
-    "text": "Georg Heinze (chair): Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Austria.\nAris Perperoglou (chair): Data Science & AI, AstraZeneca R&D Biopharmaceuticals , Cambridge UK\nWilli Sauerbrei (chair): Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nMichal Abrahamowicz: Faculty of Medicine, McGill University, Canada\nHeiko Becher: Institute for Medical Biometry and Epidemiology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany\nHarald Binder: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nDaniela Dunkler: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Austria\nRolf Groenwold: Leiden University Medical Centre, Leiden, The Netherlands\nFrank Harrell: School of Medicine, Vanderbilt University Medical Center, USA\nNadja Klein: School of Business and Economics , Humboldt-University of Berlin, Germany\nGeraldine Rauch: Institute of Biometry and Clinical Epidemiology, Charité – Universitätsmedizin Berlin , Germany\nPatrick Royston: Department of Statistical Science, UCL, UK\nMatthias Schmid: Institute for Medicine Biometry, Informatics and Epidemiology, Bonn, Germany",
-    "crumbs": [
-      "Members"
-    ]
-  },
-  {
-    "objectID": "members.html#early-career-adjunct-members",
-    "href": "members.html#early-career-adjunct-members",
-    "title": "Members",
-    "section": "Early career adjunct members",
-    "text": "Early career adjunct members\nMichael Kammer: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Austria\nEdwin Kipruto: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nKim Luijken: Leiden University Medical Centre, Leiden, The Netherlands\nChristine Wallisch: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Austria",
-    "crumbs": [
-      "Members"
-    ]
-  },
-  {
-    "objectID": "glossary.html",
-    "href": "glossary.html",
-    "title": "Glossary",
-    "section": "",
-    "text": "The main aim of IDA is seen in providing reliable knowledge about the data to enable responsible statistical analyses and interpretation. IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; (5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. IDA is aligned with the research aims and the statistical analysis plan and does not include hypothesis generating activities.\nSource: Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11\nLink\n\n\n\nExploratory Data Analysis (EDA) inspects data to uncover patterns in the data or identifies possible errors and anomalies, for example through graphical approaches. EDA may include investigations for model building and hypothesis generation in a cyclical manner.\nSource: Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. doi: 10.1371/journal.pone.0295726.\nLink\nReferences:\nBehrens JT. Principles and procedures of exploratory data analysis. Psychological methods. 1997;2(2):131. https://core.ac.uk/download/pdf/193648223.pdf\nCook D, Swayne DF. Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi. New York, NY: Springer New York; 2007. https://en.wikipedia.org/wiki/Exploratory_data_analysis\n\n\n\nA statistical analysis plan is a document that contains a more technical and detailed elaboration of the principal features of the analysis described in the protocol and includes detailed procedures for executing the statistical analysis of the primary and secondary variables and other data.\nSource: International Council for Harmonisation (ICH E9). ICH: E 9: Statistical principles for clinical trials - Step 5. Glossary p. 37\nLink\n\n\n\nAn IDA plan is focused on data screening to prepare for statistical analyses; it does not specify procedures or software packages to conduct the analyses. It can be understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariable and multivariable descriptions.\nSource: [Heinze et al https://doi.org/10.1186/s12874-024-02294-3; Lusa et al https://doi.org/10.1371/journal.pone.0295726",
-    "crumbs": [
-      "Glossary"
-    ]
-  },
-  {
-    "objectID": "glossary.html#initial-data-analysis-framework",
-    "href": "glossary.html#initial-data-analysis-framework",
-    "title": "Glossary",
-    "section": "",
-    "text": "The main aim of IDA is seen in providing reliable knowledge about the data to enable responsible statistical analyses and interpretation. IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; (5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. IDA is aligned with the research aims and the statistical analysis plan and does not include hypothesis generating activities.\nSource: Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11\nLink\n\n\n\nExploratory Data Analysis (EDA) inspects data to uncover patterns in the data or identifies possible errors and anomalies, for example through graphical approaches. EDA may include investigations for model building and hypothesis generation in a cyclical manner.\nSource: Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. doi: 10.1371/journal.pone.0295726.\nLink\nReferences:\nBehrens JT. Principles and procedures of exploratory data analysis. Psychological methods. 1997;2(2):131. https://core.ac.uk/download/pdf/193648223.pdf\nCook D, Swayne DF. Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi. New York, NY: Springer New York; 2007. https://en.wikipedia.org/wiki/Exploratory_data_analysis\n\n\n\nA statistical analysis plan is a document that contains a more technical and detailed elaboration of the principal features of the analysis described in the protocol and includes detailed procedures for executing the statistical analysis of the primary and secondary variables and other data.\nSource: International Council for Harmonisation (ICH E9). ICH: E 9: Statistical principles for clinical trials - Step 5. Glossary p. 37\nLink\n\n\n\nAn IDA plan is focused on data screening to prepare for statistical analyses; it does not specify procedures or software packages to conduct the analyses. It can be understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariable and multivariable descriptions.\nSource: [Heinze et al https://doi.org/10.1186/s12874-024-02294-3; Lusa et al https://doi.org/10.1371/journal.pone.0295726",
-    "crumbs": [
-      "Glossary"
-    ]
-  },
-  {
-    "objectID": "glossary.html#elements-of-initial-data-analysis",
-    "href": "glossary.html#elements-of-initial-data-analysis",
-    "title": "Glossary",
-    "section": "Elements of initial data analysis",
-    "text": "Elements of initial data analysis\n\nData wrangling\nData Wrangling is a broad term referring to the processes involved when preparing data for analysis. It can include acquiring data, enriching, changing the format and shape of the data, combining, subsetting and sampling data, and cleaning data. Some common steps involved with Data Wrangling are: \n\nDiscovering and gathering the data needed\nMerging data from different sources, if necessary \nFixing flaws in the data entries \nExtracting the necessary data and put it in the proper structure \nStoring it in the proper format for further use\n\nSource: National Library of Medicine\nLink\n\n\nData cleaning\nData cleaning is the process of identifying and correcting data that are inaccurate, missing, or incomplete. Data cleaning tasks can include removing duplicate records, investigating extreme values (e.g., outliers), converting dates from one format to another, removing unwanted text, splitting multiple data points in a cell into separate cells, or coding missing or NA values.\nSource: National Library of Medicine\nLink\n\n\nData screening\nData screening consists of reviewing and documenting the properties and quality of the data that may affect future analysis and interpretation.\nSource: Huebner M, le Cessie S, Schmidt CO, Vach W. A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192.\nLink\n\n\nStructural variables\nStructural variables are variables that help to structure initial data analysis results for a clear organization and essential overview of data properties. Structuring can be based on levels of measurement (centers), on calendar time of recruitment, on demographic variables such as sex or age, or on variables of central importance to the research questions. Structural variables may or may not be included as predictors in the statistical models.\nSource: [Heinze et al https://doi.org/10.1186/s12874-024-02294-3]",
-    "crumbs": [
-      "Glossary"
-    ]
-  },
-  {
-    "objectID": "glossary.html#data-and-related-terms",
-    "href": "glossary.html#data-and-related-terms",
-    "title": "Glossary",
-    "section": "Data and related terms",
-    "text": "Data and related terms\n\nData\nReinterpretable representation of information in a formalized manner suitable for communication, interpretation, or processing\nSource: ISO/IEC 2382:2015, 2121272, modified\nLink\n\n\nData set\nlogically meaningful grouping of data\nSource:\nLink\n\n\nMetadata\ndata defining and describing other data\nSource: ISO/IEC 11179‑1:2015, 3.2.16\nLink\n\n\nData dictionary\nA data dictionary is a document that outlines the structure, content, and meaning of a given variable. This includes what type of data is being collected (e.g. free text, numerical, categorical or group data), the full wording of a question, what values are allowable (e.g. numeric ranges, multiple choice codes), and what those values mean (e.g. 0 = no high blood pressure diagnosis, 1 = borderline high blood pressure, 2 = high blood pressure). A data dictionary is a critical tool for data analysis and reproducibility.\nSource: National Library of Medicine\nLink-NLM\nLink-USGS\n\n\nData quality\nData quality is the degree to which a set of characteristics of data fulfils requirements (=need or expectation that is stated, generally implied or obligatory)\nSource: ISO 9000:2015, 3.6.2 and ISO 9000:2015, 3.6.4\nLink1\nLink2\n\n\nData subject\nA Data subject is the individual the personal data relates to.\nSource: General Data Protection Regulation (GDPR)\nLink\n\n\nData provenance\nThe term “data provenance”, sometimes called “data lineage,” refers to a documented trail that accounts for the origin of a piece of data and where it has moved from to where it is presently. The purpose of data provenance is to tell researchers the origin, changes to, and details supporting the confidence or validity of research data. The concept of provenance guarantees that data creators are transparent about their work and where it came from and provides a chain of information where data can be tracked as researchers use other researchers’ data and adapt it for their own purposes.\nSource: National Library of Medicine\nLink",
-    "crumbs": [
-      "Glossary"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Members",
-    "section": "",
-    "text": "Marianne Huebner (chair), Professor of Statistics and Probability at Michigan State University, USA. https://orcid.org/0000-0002-9694-9231\nCarsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald\nMark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland\nSaskia le Cessie, Professor at Leiden University Medical Center, Netherlands\nLara Lusa, Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia\nMichael Schell, Moffit Cancer Center, Florida, USA"
-  },
-  {
-    "objectID": "about.html#bios",
-    "href": "about.html#bios",
-    "title": "Members",
-    "section": "Bios",
-    "text": "Bios\nMark Baillie is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.\nMarianne Huebner is Professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.\nSaskia le Cessie is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.\nLara Lusa is Professor of Statistics at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska, Slovenia. After receiving a PhD in Applied Statistics from the University of Florence, she worked at the Italian National Cancer Institute of Milan, at the Institute of Biostatistics and Medical Informatics of the University of Ljubljana and was a visiting fellow at the Biometric Research Branch of the National Cancer Institute in Bethesda. Her current research interests are related to the development and validation of predictive models in bio‐medicine, with particular attention to applications using high‐dimensional data and rare events. She is also interested in statistical programming, design of simulation studies, and teaching statistics. Beside the methodological research in statistics, she is also heavily involved as a statistical consultant to researchers in medicine.\nMichael Schell\nCarsten Oliver Schmidt is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division “Quality in the Health Sciences”. He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings."
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Activities",
-    "section": "",
-    "text": "NOTE: This is the text that was originally on the TG2 website and it is severely outdated!\n\nGeorg Heinze and Christine Wallisch will give a STRATOS-TG2 workshop on ‘Variable selection – a review and recommendations for the practicing statistician’ at the IBS-ROeS conference in Salzburg, 6 September 2021\nAris Perperoglou will host a session on “STRATOS initiative - on various issues in multivariable model building” at the RSS International Conference in Manchester, 6-9 September, with talks from Bianca de Stavola, Tim Morris, Willi Sauerbrei and Michal Abrahamowicz.\nGeorg Heinze and Mark Baillie will host a session on ‘STRATOS initiative - Tools for guidance for analysis of observational studies’ at the IBS-ROeS conference in Salzburg, 7-10 September 2021, featuring Rolf Groenwold from TG2 with a talk on ’ Using videos and other media for guidance’",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "",
-    "text": "Derive guidance for variable and function selection in multivariable analysis.",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#aims",
-    "href": "index.html#aims",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "",
-    "text": "Derive guidance for variable and function selection in multivariable analysis.",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#focus",
-    "href": "index.html#focus",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "Focus",
-    "text": "Focus\nThe main focus of TG2 is to identify influential variables and gain insight into their individual and joint relationship with the outcome. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable explanatory model, and choice of the functional forms for continuous variables",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
-    "objectID": "index.html#stratos-initiative",
-    "href": "index.html#stratos-initiative",
-    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
-    "section": "STRATOS Initiative",
-    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.",
-    "crumbs": [
-      "Selection of Variables and Functional Forms in Multivariable Analysis"
-    ]
-  },
-  {
     "objectID": "papers.html",
     "href": "papers.html",
     "title": "TG2 Publications",
@@ -201,6 +67,140 @@
     "text": "Papers\n\nLu Z, Lou W. Bayesian approaches to variable selection: a comparative study from practical perspectives. Int J Biostat 2021; https://doi.org/10.1515/ijb-2020-0130\nHeinze G, Wallisch C, Dunkler D. Variable selection – a review and recommendations for the practicing statistician. Biometrical J. 2018; 60:431–49.\nBinder H, Sauerbrei W, Royston P. Comparison between splines and fractional polynomials for multivariable model building with continuous covariates: a simulation study with continuous response. Statistics in Medicine 2013; 32(13): 2262– 2277.\nRoyston P, Sauerbrei W. Multivariable Model‐building. A Pragmatic Approach to Regression Analysis Based on Fractional Polynomials for Continuous Variables. Wiley: Chichester, 2008.\nSauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Statistics in Medicine 2007; 26: 5512– 5528.\nAbrahamowicz M, MacKenzie TA. Joint estimation of time‐dependent and non‐linear effects of continuous covariates on survival. Statistics in Medicine 2007; 26(2): 392– 408.\nAbrahamowicz M, Du Berger R, Grover SA. Flexible modeling of the effects of serum cholesterol on coronary heart disease mortality. American Journal of Epidemiology 1997; 145(8): 714– 729.\nGreenland S. Avoiding power loss associated with categorization and ordinal scores in dose‐response and trend analysis. Epidemiology (Cambridge, Mass.) 1995; 6(4): 450– 454.\nRoyston P, Altman DG. Regression using fractional polynomials of continuous covariates: parsimonious parametric modelling. Applied Statistic 1994; 43(3): 429– 467.",
     "crumbs": [
       "TG2 Publications"
+    ]
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "NOTE: This is the text that was originally on the TG2 website and it is severely outdated!\n\nGeorg Heinze and Christine Wallisch will give a STRATOS-TG2 workshop on ‘Variable selection – a review and recommendations for the practicing statistician’ at the IBS-ROeS conference in Salzburg, 6 September 2021\nAris Perperoglou will host a session on “STRATOS initiative - on various issues in multivariable model building” at the RSS International Conference in Manchester, 6-9 September, with talks from Bianca de Stavola, Tim Morris, Willi Sauerbrei and Michal Abrahamowicz.\nGeorg Heinze and Mark Baillie will host a session on ‘STRATOS initiative - Tools for guidance for analysis of observational studies’ at the IBS-ROeS conference in Salzburg, 7-10 September 2021, featuring Rolf Groenwold from TG2 with a talk on ’ Using videos and other media for guidance’",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Members",
+    "section": "",
+    "text": "Marianne Huebner (chair), Professor of Statistics and Probability at Michigan State University, USA. https://orcid.org/0000-0002-9694-9231\nCarsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald\nMark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland\nSaskia le Cessie, Professor at Leiden University Medical Center, Netherlands\nLara Lusa, Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia\nMichael Schell, Moffit Cancer Center, Florida, USA"
+  },
+  {
+    "objectID": "about.html#bios",
+    "href": "about.html#bios",
+    "title": "Members",
+    "section": "Bios",
+    "text": "Bios\nMark Baillie is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.\nMarianne Huebner is Professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.\nSaskia le Cessie is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.\nLara Lusa is Professor of Statistics at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska, Slovenia. After receiving a PhD in Applied Statistics from the University of Florence, she worked at the Italian National Cancer Institute of Milan, at the Institute of Biostatistics and Medical Informatics of the University of Ljubljana and was a visiting fellow at the Biometric Research Branch of the National Cancer Institute in Bethesda. Her current research interests are related to the development and validation of predictive models in bio‐medicine, with particular attention to applications using high‐dimensional data and rare events. She is also interested in statistical programming, design of simulation studies, and teaching statistics. Beside the methodological research in statistics, she is also heavily involved as a statistical consultant to researchers in medicine.\nMichael Schell\nCarsten Oliver Schmidt is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division “Quality in the Health Sciences”. He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "",
+    "text": "Derive guidance for variable and function selection in multivariable analysis.",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "index.html#aims",
+    "href": "index.html#aims",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "",
+    "text": "Derive guidance for variable and function selection in multivariable analysis.",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "index.html#focus",
+    "href": "index.html#focus",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "Focus",
+    "text": "Focus\nThe main focus of TG2 is to identify influential variables and gain insight into their individual and joint relationship with the outcome. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable explanatory model, and choice of the functional forms for continuous variables",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "index.html#stratos-initiative",
+    "href": "index.html#stratos-initiative",
+    "title": "Selection of Variables and Functional Forms in Multivariable Analysis",
+    "section": "STRATOS Initiative",
+    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.",
+    "crumbs": [
+      "Selection of Variables and Functional Forms in Multivariable Analysis"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "R implementations",
+    "section": "",
+    "text": "IDA report for regression models\nBacteremia data set by Georg Heinze\nhttps://stratosida.github.io/regression-regrets/\n\n\nIDA report for longitudinal studies\nGrip strength data set from the SHARE project\nhttps://stratosida.github.io/longitudinal/",
+    "crumbs": [
+      "R implementations"
+    ]
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Members",
+    "section": "",
+    "text": "Georg Heinze (chair): Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Austria.\nAris Perperoglou (chair): Data Science & AI, AstraZeneca R&D Biopharmaceuticals , Cambridge UK\nWilli Sauerbrei (chair): Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nMichal Abrahamowicz: Faculty of Medicine, McGill University, Canada\nHeiko Becher: Institute for Medical Biometry and Epidemiology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany\nHarald Binder: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nDaniela Dunkler: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Austria\nRolf Groenwold: Leiden University Medical Centre, Leiden, The Netherlands\nFrank Harrell: School of Medicine, Vanderbilt University Medical Center, USA\nNadja Klein: School of Business and Economics , Humboldt-University of Berlin, Germany\nGeraldine Rauch: Institute of Biometry and Clinical Epidemiology, Charité – Universitätsmedizin Berlin , Germany\nPatrick Royston: Department of Statistical Science, UCL, UK\nMatthias Schmid: Institute for Medicine Biometry, Informatics and Epidemiology, Bonn, Germany",
+    "crumbs": [
+      "Members"
+    ]
+  },
+  {
+    "objectID": "members.html#early-career-adjunct-members",
+    "href": "members.html#early-career-adjunct-members",
+    "title": "Members",
+    "section": "Early career adjunct members",
+    "text": "Early career adjunct members\nMichael Kammer: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Austria\nEdwin Kipruto: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nKim Luijken: Leiden University Medical Centre, Leiden, The Netherlands\nChristine Wallisch: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Austria",
+    "crumbs": [
+      "Members"
+    ]
+  },
+  {
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "The main aim of IDA is seen in providing reliable knowledge about the data to enable responsible statistical analyses and interpretation. IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; (5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. IDA is aligned with the research aims and the statistical analysis plan and does not include hypothesis generating activities.\nSource: Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11\nLink\n\n\n\nExploratory Data Analysis (EDA) inspects data to uncover patterns in the data or identifies possible errors and anomalies, for example through graphical approaches. EDA may include investigations for model building and hypothesis generation in a cyclical manner.\nSource: Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. doi: 10.1371/journal.pone.0295726.\nLink\nReferences:\nBehrens JT. Principles and procedures of exploratory data analysis. Psychological methods. 1997;2(2):131. https://core.ac.uk/download/pdf/193648223.pdf\nCook D, Swayne DF. Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi. New York, NY: Springer New York; 2007. https://en.wikipedia.org/wiki/Exploratory_data_analysis\n\n\n\nA statistical analysis plan is a document that contains a more technical and detailed elaboration of the principal features of the analysis described in the protocol and includes detailed procedures for executing the statistical analysis of the primary and secondary variables and other data.\nSource: International Council for Harmonisation (ICH E9). ICH: E 9: Statistical principles for clinical trials - Step 5. Glossary p. 37\nLink\n\n\n\nAn IDA plan is focused on data screening to prepare for statistical analyses; it does not specify procedures or software packages to conduct the analyses. It can be understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariable and multivariable descriptions.\nSource: [Heinze et al https://doi.org/10.1186/s12874-024-02294-3; Lusa et al https://doi.org/10.1371/journal.pone.0295726",
+    "crumbs": [
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "glossary.html#initial-data-analysis-framework",
+    "href": "glossary.html#initial-data-analysis-framework",
+    "title": "Glossary",
+    "section": "",
+    "text": "The main aim of IDA is seen in providing reliable knowledge about the data to enable responsible statistical analyses and interpretation. IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; (5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. IDA is aligned with the research aims and the statistical analysis plan and does not include hypothesis generating activities.\nSource: Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11\nLink\n\n\n\nExploratory Data Analysis (EDA) inspects data to uncover patterns in the data or identifies possible errors and anomalies, for example through graphical approaches. EDA may include investigations for model building and hypothesis generation in a cyclical manner.\nSource: Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. doi: 10.1371/journal.pone.0295726.\nLink\nReferences:\nBehrens JT. Principles and procedures of exploratory data analysis. Psychological methods. 1997;2(2):131. https://core.ac.uk/download/pdf/193648223.pdf\nCook D, Swayne DF. Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi. New York, NY: Springer New York; 2007. https://en.wikipedia.org/wiki/Exploratory_data_analysis\n\n\n\nA statistical analysis plan is a document that contains a more technical and detailed elaboration of the principal features of the analysis described in the protocol and includes detailed procedures for executing the statistical analysis of the primary and secondary variables and other data.\nSource: International Council for Harmonisation (ICH E9). ICH: E 9: Statistical principles for clinical trials - Step 5. Glossary p. 37\nLink\n\n\n\nAn IDA plan is focused on data screening to prepare for statistical analyses; it does not specify procedures or software packages to conduct the analyses. It can be understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariable and multivariable descriptions.\nSource: [Heinze et al https://doi.org/10.1186/s12874-024-02294-3; Lusa et al https://doi.org/10.1371/journal.pone.0295726",
+    "crumbs": [
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "glossary.html#elements-of-initial-data-analysis",
+    "href": "glossary.html#elements-of-initial-data-analysis",
+    "title": "Glossary",
+    "section": "Elements of initial data analysis",
+    "text": "Elements of initial data analysis\n\nData wrangling\nData Wrangling is a broad term referring to the processes involved when preparing data for analysis. It can include acquiring data, enriching, changing the format and shape of the data, combining, subsetting and sampling data, and cleaning data. Some common steps involved with Data Wrangling are: \n\nDiscovering and gathering the data needed\nMerging data from different sources, if necessary \nFixing flaws in the data entries \nExtracting the necessary data and put it in the proper structure \nStoring it in the proper format for further use\n\nSource: National Library of Medicine\nLink\n\n\nData cleaning\nData cleaning is the process of identifying and correcting data that are inaccurate, missing, or incomplete. Data cleaning tasks can include removing duplicate records, investigating extreme values (e.g., outliers), converting dates from one format to another, removing unwanted text, splitting multiple data points in a cell into separate cells, or coding missing or NA values.\nSource: National Library of Medicine\nLink\n\n\nData screening\nData screening consists of reviewing and documenting the properties and quality of the data that may affect future analysis and interpretation.\nSource: Huebner M, le Cessie S, Schmidt CO, Vach W. A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192.\nLink\n\n\nStructural variables\nStructural variables are variables that help to structure initial data analysis results for a clear organization and essential overview of data properties. Structuring can be based on levels of measurement (centers), on calendar time of recruitment, on demographic variables such as sex or age, or on variables of central importance to the research questions. Structural variables may or may not be included as predictors in the statistical models.\nSource: [Heinze et al https://doi.org/10.1186/s12874-024-02294-3]",
+    "crumbs": [
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "glossary.html#data-and-related-terms",
+    "href": "glossary.html#data-and-related-terms",
+    "title": "Glossary",
+    "section": "Data and related terms",
+    "text": "Data and related terms\n\nData\nReinterpretable representation of information in a formalized manner suitable for communication, interpretation, or processing\nSource: ISO/IEC 2382:2015, 2121272, modified\nLink\n\n\nData set\nlogically meaningful grouping of data\nSource:\nLink\n\n\nMetadata\ndata defining and describing other data\nSource: ISO/IEC 11179‑1:2015, 3.2.16\nLink\n\n\nData dictionary\nA data dictionary is a document that outlines the structure, content, and meaning of a given variable. This includes what type of data is being collected (e.g. free text, numerical, categorical or group data), the full wording of a question, what values are allowable (e.g. numeric ranges, multiple choice codes), and what those values mean (e.g. 0 = no high blood pressure diagnosis, 1 = borderline high blood pressure, 2 = high blood pressure). A data dictionary is a critical tool for data analysis and reproducibility.\nSource: National Library of Medicine\nLink-NLM\nLink-USGS\n\n\nData quality\nData quality is the degree to which a set of characteristics of data fulfils requirements (=need or expectation that is stated, generally implied or obligatory)\nSource: ISO 9000:2015, 3.6.2 and ISO 9000:2015, 3.6.4\nLink1\nLink2\n\n\nData subject\nA Data subject is the individual the personal data relates to.\nSource: General Data Protection Regulation (GDPR)\nLink\n\n\nData provenance\nThe term “data provenance”, sometimes called “data lineage,” refers to a documented trail that accounts for the origin of a piece of data and where it has moved from to where it is presently. The purpose of data provenance is to tell researchers the origin, changes to, and details supporting the confidence or validity of research data. The concept of provenance guarantees that data creators are transparent about their work and where it came from and provides a chain of information where data can be tracked as researchers use other researchers’ data and adapt it for their own purposes.\nSource: National Library of Medicine\nLink",
+    "crumbs": [
+      "Glossary"
     ]
   }
 ]
