@@ -209,4 +209,4 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 
 * Greenland S. Avoiding power loss associated with categorization and ordinal scores in dose‐response and trend analysis. Epidemiology (Cambridge, Mass.) 1995; 6(4): 450– 454.
 
-* Royston P, Altman DG. Regression using fractional polynomials of continuous covariates: parsimonious parametric modelling. Applied Statistic 1994; 43(3): 429– 467. TEST
+* Royston P, Altman DG. Regression using fractional polynomials of continuous covariates: parsimonious parametric modelling. Applied Statistic 1994; 43(3): 429– 467. 
