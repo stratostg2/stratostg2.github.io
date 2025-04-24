@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-44d8862ff5335838008e1d1029e4056f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ea4a914570befce68258c85f8fff12af.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -154,7 +154,20 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues" id="toc-state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues" class="nav-link active" data-scroll-target="#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues">State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues</a>
+  <li><a href="#evaluating-variable-selection-methods-for-multivariable-regression-models-a-simulation-study-protocol" id="toc-evaluating-variable-selection-methods-for-multivariable-regression-models-a-simulation-study-protocol" class="nav-link active" data-scroll-target="#evaluating-variable-selection-methods-for-multivariable-regression-models-a-simulation-study-protocol">Evaluating variable selection methods for multivariable regression models: A simulation study protocol</a>
+  <ul class="collapse">
+  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
+  </ul></li>
+  <li><a href="#regression-without-regrets-initial-data-analysis-is-a-prerequisite-for-multivariable-regression" id="toc-regression-without-regrets-initial-data-analysis-is-a-prerequisite-for-multivariable-regression" class="nav-link" data-scroll-target="#regression-without-regrets-initial-data-analysis-is-a-prerequisite-for-multivariable-regression">Regression without regrets –initial data analysis is a prerequisite for multivariable regression</a>
+  <ul class="collapse">
+  <li><a href="#abstract-1" id="toc-abstract-1" class="nav-link" data-scroll-target="#abstract-1">Abstract</a></li>
+  </ul></li>
+  <li><a href="#review-of-guidance-papers-on-regression-modeling-in-statistical-series-of-medical-journals" id="toc-review-of-guidance-papers-on-regression-modeling-in-statistical-series-of-medical-journals" class="nav-link" data-scroll-target="#review-of-guidance-papers-on-regression-modeling-in-statistical-series-of-medical-journals">Review of guidance papers on regression modeling in statistical series of medical journals</a>
+  <ul class="collapse">
+  <li><a href="#abstract-2" id="toc-abstract-2" class="nav-link" data-scroll-target="#abstract-2">Abstract</a></li>
+  </ul></li>
+  <li><a href="#systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol" id="toc-systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol" class="nav-link" data-scroll-target="#systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol">Systematic review of education and practical guidance on regression modeling for medical researchers who lack a strong statistical background: Study protocol</a></li>
+  <li><a href="#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues" id="toc-state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues" class="nav-link" data-scroll-target="#state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues">State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues</a>
   <ul class="collapse">
   <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a></li>
   <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
@@ -169,7 +182,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#conclusions-1" id="toc-conclusions-1" class="nav-link" data-scroll-target="#conclusions-1">Conclusions</a></li>
   </ul></li>
   <li><a href="#introducing-the-topic-group-on-selection-of-variables-and-functional-forms-in-multivariable-analysis-tg2" id="toc-introducing-the-topic-group-on-selection-of-variables-and-functional-forms-in-multivariable-analysis-tg2" class="nav-link" data-scroll-target="#introducing-the-topic-group-on-selection-of-variables-and-functional-forms-in-multivariable-analysis-tg2">Introducing the Topic Group on Selection of Variables and Functional Forms in Multivariable Analysis (TG2)</a></li>
-  <li><a href="#systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol" id="toc-systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol" class="nav-link" data-scroll-target="#systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol">Systematic review of education and practical guidance on regression modeling for medical researchers who lack a strong statistical background: Study protocol</a></li>
   <li><a href="#sugggested-publications" id="toc-sugggested-publications" class="nav-link" data-scroll-target="#sugggested-publications">Sugggested Publications</a>
   <ul class="collapse">
   <li><a href="#books" id="toc-books" class="nav-link" data-scroll-target="#books">Books</a></li>
@@ -200,10 +212,58 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="evaluating-variable-selection-methods-for-multivariable-regression-models-a-simulation-study-protocol" class="level2">
+<h2 class="anchored" data-anchor-id="evaluating-variable-selection-methods-for-multivariable-regression-models-a-simulation-study-protocol">Evaluating variable selection methods for multivariable regression models: A simulation study protocol</h2>
+<p>Ullmann, T., Heinze, G., Hafermann, L., Schilhart-Wallisch, C., Dunkler, D., for TG2 of the STRATOS initiative, 2024. Evaluating variable selection methods for multivariable regression models: A simulation study protocol. PLoS ONE 19, e0308543. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308543">https://doi.org/10.1371/journal.pone.0308543</a></p>
+<details>
+<summary>
+Abstract
+</summary>
+<section id="abstract" class="level3">
+<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
+<p>Researchers often perform data-driven variable selection when modeling the associations between an outcome and multiple independent variables in regression analysis. Variable selection may improve the interpretability, parsimony and/or predictive accuracy of a model. Yet variable selection can also have negative consequences, such as false exclusion of important variables or inclusion of noise variables, biased estimation of regression coefficients, underestimated standard errors and invalid confidence intervals, as well as model instability. While the potential advantages and disadvantages of variable selection have been discussed in the literature for decades, few large-scale simulation studies have neutrally compared data-driven variable selection methods with respect to their consequences for the resulting models. We present the protocol for a simulation study that will evaluate different variable selection methods: forward selection, stepwise forward selection, backward elimination, augmented backward elimination, univariable selection, univariable selection followed by backward elimination, and penalized likelihood approaches (Lasso, relaxed Lasso, adaptive Lasso). These methods will be compared with respect to false inclusion and/or exclusion of variables, consequences on bias and variance of the estimated regression coefficients, the validity of the confidence intervals for the coefficients, the accuracy of the estimated variable importance ranking, and the predictive performance of the selected models. We consider both linear and logistic regression in a low-dimensional setting (20 independent variables with 10 true predictors and 10 noise variables). The simulation will be based on real-world data from the National Health and Nutrition Examination Survey (NHANES). Publishing this study protocol ahead of performing the simulation increases transparency and allows integrating the perspective of other experts into the study design.</p>
+</section></details>
+</section>
+
+<section id="regression-without-regrets-initial-data-analysis-is-a-prerequisite-for-multivariable-regression" class="level2">
+<h2 class="anchored" data-anchor-id="regression-without-regrets-initial-data-analysis-is-a-prerequisite-for-multivariable-regression">Regression without regrets –initial data analysis is a prerequisite for multivariable regression</h2>
+<p>Heinze, G., Baillie, M., Lusa, L., Sauerbrei, W., Schmidt, C.O., Harrell, F.E., Huebner, M., on behalf of TG2 and TG3 of the STRATOS initiative, 2024. Regression without regrets –initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol 24, 178. <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02294-3">https://doi.org/10.1186/s12874-024-02294-3</a></p>
+<details>
+<summary>
+Abstract
+</summary>
+<section id="abstract-1" class="level3">
+<h3 class="anchored" data-anchor-id="abstract-1">Abstract</h3>
+<p>Statistical regression models are used for predicting outcomes based on the values of some predictor variables or for describing the association of an outcome with predictors. With a data set at hand, a regression model can be easily fit with standard software packages. This bears the risk that data analysts may rush to perform sophisticated analyses without sufficient knowledge of basic properties, associations in and errors of their data, leading to wrong interpretation and presentation of the modeling results that lacks clarity. Ignorance about special features of the data such as redundancies or particular distributions may even invalidate the chosen analysis strategy. Initial data analysis (IDA) is prerequisite to regression analyses as it provides knowledge about the data needed to confirm the appropriateness of or to refine a chosen model building strategy, to interpret the modeling results correctly, and to guide the presentation of modeling results. In order to facilitate reproducibility, IDA needs to be preplanned, an IDA plan should be included in the general statistical analysis plan of a research project, and results should be well documented. Biased statistical inference of the final regression model can be minimized if IDA abstains from evaluating associations of outcome and predictors, a key principle of IDA. We give advice on which aspects to consider in an IDA plan for data screening in the context of regression modeling to supplement the statistical analysis plan. We illustrate this IDA plan for data screening in an example of a typical diagnostic modeling project and give recommendations for data visualizations.</p>
+</section></details>
+</section>
+
+<section id="review-of-guidance-papers-on-regression-modeling-in-statistical-series-of-medical-journals" class="level2">
+<h2 class="anchored" data-anchor-id="review-of-guidance-papers-on-regression-modeling-in-statistical-series-of-medical-journals">Review of guidance papers on regression modeling in statistical series of medical journals</h2>
+<p>Wallisch, C., Bach, P., Hafermann, L., Klein, N., Sauerbrei, W., Steyerberg, E.W., Heinze, G., Rauch, G., on behalf of topic group 2 of the STRATOS initiative, 2022. Review of guidance papers on regression modeling in statistical series of medical journals. PLoS ONE 17, e0262918. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262918">https://doi.org/10.1371/journal.pone.0262918</a></p>
+<section id="abstract-2" class="level3">
+<h3 class="anchored" data-anchor-id="abstract-2">Abstract</h3>
+<details>
+<summary>
+Abstract
+</summary>
+<p>Although regression models play a central role in the analysis of medical research projects, there still exist many misconceptions on various aspects of modeling leading to faulty analyses. Indeed, the rapidly developing statistical methodology and its recent advances in regression modeling do not seem to be adequately reflected in many medical publications. This problem of knowledge transfer from statistical research to application was identified by some medical journals, which have published series of statistical tutorials and (shorter) papers mainly addressing medical researchers. The aim of this review was to assess the current level of knowledge with regard to regression modeling contained in such statistical papers. We searched for target series by a request to international statistical experts. We identified 23 series including 57 topic-relevant articles. Within each article, two independent raters analyzed the content by investigating 44 predefined aspects on regression modeling. We assessed to what extent the aspects were explained and if examples, software advices, and recommendations for or against specific methods were given. Most series (21/23) included at least one article on multivariable regression. Logistic regression was the most frequently described regression type (19/23), followed by linear regression (18/23), Cox regression and survival models (12/23) and Poisson regression (3/23). Most general aspects on regression modeling, e.g.&nbsp;model assumptions, reporting and interpretation of regression results, were covered. We did not find many misconceptions or misleading recommendations, but we identified relevant gaps, in particular with respect to addressing nonlinear effects of continuous predictors, model specification and variable selection. Specific recommendations on software were rarely given. Statistical guidance should be developed for nonlinear effects, model specification and variable selection to better support medical researchers who perform or interpret regression analyses.</p>
+</details>
+</section>
+</section>
+<section id="systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol" class="level2">
+<h2 class="anchored" data-anchor-id="systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol">Systematic review of education and practical guidance on regression modeling for medical researchers who lack a strong statistical background: Study protocol</h2>
+<p>Bach, P., Wallisch, C., Klein, N., Hafermann, L., Sauerbrei, W., Steyerberg, E.W., Heinze, G., Rauch, G., for topic group 2 of the STRATOS initiative, 2020. Systematic review of education and practical guidance on regression modeling for medical researchers who lack a strong statistical background: Study protocol. PLoS ONE 15, e0241427. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241427">https://doi.org/10.1371/journal.pone.0241427</a></p>
+<details>
+<summary>
+Abstract
+</summary>
+In the last decades, statistical methodology has developed rapidly, in particular in the field of regression modeling. Multivariable regression models are applied in almost all medical research projects. Therefore, the potential impact of statistical misconceptions within this field can be enormous Indeed, the current theoretical statistical knowledge is not always adequately transferred to the current practice in medical statistics. Some medical journals have identified this problem and published isolated statistical articles and even whole series thereof. In this systematic review, we aim to assess the current level of education on regression modeling that is provided to medical researchers via series of statistical articles published in medical journals. The present manuscript is a protocol for a systematic review that aims to assess which aspects of regression modeling are covered by statistical series published in medical journals that intend to train and guide applied medical researchers with limited statistical knowledge. Statistical paper series cannot easily be summarized and identified by common keywords in an electronic search engine like Scopus. We therefore identified series by a systematic request to statistical experts who are part or related to the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies). Within each identified article, two raters will independently check the content of the articles with respect to a predefined list of key aspects related to regression modeling. The content analysis of the topic-relevant articles will be performed using a predefined report form to assess the content as objectively as possible. Any disputes will be resolved by a third reviewer. Summary analyses will identify potential methodological gaps and misconceptions that may have an important impact on the quality of analyses in medical research. This review will thus provide a basis for future guidance papers and tutorials in the field of regression modeling which will enable medical researchers 1) to interpret publications in a correct way, 2) to perform basic statistical analyses in a correct way and 3) to identify situations when the help of a statistical expert is required.
+</details>
+</section>
 <section id="state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues" class="level2">
 <h2 class="anchored" data-anchor-id="state-of-the-art-in-selection-of-variables-and-functional-forms-in-multivariable-analysisoutstanding-issues">State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues</h2>
-<p>Willi Sauerbrei, Aris Perperoglou, Matthias Schmid et al for TG2 of the STRATOS initiative</p>
-<p><a href="https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-020-00074-3">Link</a></p>
+<p>Sauerbrei, W., Perperoglou, A., Schmid, M., Abrahamowicz, M., Becher, H., Binder, H., Dunkler, D., Harrell, F.E., Royston, P., Heinze, G., for TG2 of the STRATOS initiative, 2020. State of the art in selection of variables and functional forms in multivariable analysis—outstanding issues. Diagn Progn Res 4, 3, s41512-020-00074–3. <a href="https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-020-00074-3">https://doi.org/10.1186/s41512-020-00074-3</a></p>
 <details>
 <summary>
 Abstract
@@ -228,8 +288,7 @@ Selection of variables and of functional forms are important topics in multivari
 
 <section id="a-review-of-spline-function-procedures-in-r" class="level2">
 <h2 class="anchored" data-anchor-id="a-review-of-spline-function-procedures-in-r">A review of spline function procedures in R</h2>
-<p>Aris Perperoglou, Willi Sauerbrei, Michal Abrahamowicz, Matthias Schmid on behalf of TG2 of the STRATOS initiative</p>
-<p><a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3">Link</a></p>
+Perperoglou, A., Sauerbrei, W., Abrahamowicz, M., Schmid, M., 2019. A review of spline function procedures in R. BMC Med Res Methodol 19, 46. <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0666-3">https://doi.org/10.1186/s12874-019-0666-3</a>
 <details>
 <summary>
 Abstract
@@ -255,23 +314,12 @@ This work illustrate challenges that an analyst faces when working with data. Mo
 <section id="introducing-the-topic-group-on-selection-of-variables-and-functional-forms-in-multivariable-analysis-tg2" class="level2">
 <h2 class="anchored" data-anchor-id="introducing-the-topic-group-on-selection-of-variables-and-functional-forms-in-multivariable-analysis-tg2">Introducing the Topic Group on Selection of Variables and Functional Forms in Multivariable Analysis (TG2)</h2>
 <p>Aris Perperoglou , Georg Heinze , Willi Sauerbrei on behalf of STRATOS TG2</p>
-<p><a href="https://stratos-initiative.org/sites/default/files/STRATOS-TG2-BB-variable-selection.pdf">Link</a></p>
+<p><a href="https://www.stratos-initiative.org/sites/default/files/2021-11/STRATOS-TG2-BB-variable-selection.pdf">Link</a></p>
 <details>
 <summary>
 Abstract
 </summary>
 The Biometric Bulletin has recently introduced its readership to the STRATOS initiative and described the activities of the Topic Groups on Missing Data (TG1), Measurement Error (TG4) and on Initial Data Analysis (TG3). This series now continues with an introduction to TG2, dealing with selection of variables and functional forms in multivariable analysis.
-</details>
-</section>
-<section id="systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol" class="level2">
-<h2 class="anchored" data-anchor-id="systematic-review-of-education-and-practical-guidance-on-regression-modeling-for-medical-researchers-who-lack-a-strong-statistical-background-study-protocol">Systematic review of education and practical guidance on regression modeling for medical researchers who lack a strong statistical background: Study protocol</h2>
-<p>Paul Bach, Christine Wallisch, Nadja Klein, Lorena Hafermann, Willi Sauerbrei, Ewout W. Steyerberg, Georg Heinze, Geraldine Rauch , for topic group 2 of the STRATOS initiative</p>
-<p><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241427">Link</a></p>
-<details>
-<summary>
-Abstract
-</summary>
-In the last decades, statistical methodology has developed rapidly, in particular in the field of regression modeling. Multivariable regression models are applied in almost all medical research projects. Therefore, the potential impact of statistical misconceptions within this field can be enormous Indeed, the current theoretical statistical knowledge is not always adequately transferred to the current practice in medical statistics. Some medical journals have identified this problem and published isolated statistical articles and even whole series thereof. In this systematic review, we aim to assess the current level of education on regression modeling that is provided to medical researchers via series of statistical articles published in medical journals. The present manuscript is a protocol for a systematic review that aims to assess which aspects of regression modeling are covered by statistical series published in medical journals that intend to train and guide applied medical researchers with limited statistical knowledge. Statistical paper series cannot easily be summarized and identified by common keywords in an electronic search engine like Scopus. We therefore identified series by a systematic request to statistical experts who are part or related to the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies). Within each identified article, two raters will independently check the content of the articles with respect to a predefined list of key aspects related to regression modeling. The content analysis of the topic-relevant articles will be performed using a predefined report form to assess the content as objectively as possible. Any disputes will be resolved by a third reviewer. Summary analyses will identify potential methodological gaps and misconceptions that may have an important impact on the quality of analyses in medical research. This review will thus provide a basis for future guidance papers and tutorials in the field of regression modeling which will enable medical researchers 1) to interpret publications in a correct way, 2) to perform basic statistical analyses in a correct way and 3) to identify situations when the help of a statistical expert is required.
 </details>
 </section>
 <section id="sugggested-publications" class="level1">
