@@ -4,7 +4,7 @@ title: "Members"
 
 **[Georg Heinze](https://www.meduniwien.ac.at/researcher/georg_heinze) (chair)**: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna,  Austria. 
 
-**Aris Perperoglou (chair)**:  Data Science & AI,   AstraZeneca R&D Biopharmaceuticals , Cambridge UK
+**Aris Perperoglou (chair)**:  Predictive Modelling, GSK, Stevenage, UK
 
 **Willi Sauerbrei (chair)**: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany 
 
