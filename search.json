@@ -94,7 +94,7 @@
     "href": "index.html#focus",
     "title": "Introduction",
     "section": "Focus",
-    "text": "Focus\nMultivariable models play a dominanting role in all kinds of empirical research, and they are used in addressing descriptive, predictive and explanatory research questions.\nThe main focus of multivariable model building is to identify influential variables and to gain insight into their individual and joint relationship with an outcome variable. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable model, and choice of the functional forms for continuous variables.\nOn this website we list our activities, TG2 publications, further reading and resources, and the members of our topic group.",
+    "text": "Focus\nMultivariable models play a dominanting role in all kinds of empirical research, and they are used in addressing descriptive, predictive and explanatory research questions.\nThe main focus of multivariable model building is to identify influential variables and to gain insight into their individual and joint relationship with an outcome variable. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable model, and choice of the functional forms for continuous variables.\nOn this website we list topic group specific activities, TG2 publications, further reading and resources, and the members of our topic group.",
     "crumbs": [
       "Introduction"
     ]
@@ -104,7 +104,17 @@
     "href": "index.html#stratos-initiative",
     "title": "Introduction",
     "section": "STRATOS Initiative",
-    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.\n\n\n\nAcknowledgements\nMany thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.",
+    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\nFind out more about STRATOS at its website: https://www.stratos-initiative.org.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Introduction",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nMany thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.",
     "crumbs": [
       "Introduction"
     ]
