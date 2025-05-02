@@ -1,7 +1,7 @@
-# Topic group 3 of the STRATOS Initiative: Intitial Data Analysis
+# Topic group 2 of the STRATOS Initiative: Selection of variables and functional forms for multivariable models
 
 ## Aims
-To improve awareness of Initial Data Analysis (IDA) as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner.
+The main aim of TG2 of the STRATOS initiative is to derive guidance for variable and function selection in multivariable analysis.
 
 ## STRATOS Initiative
 https://stratos-initiative.org/
@@ -10,12 +10,12 @@ https://stratos-initiative.org/
 
 ### Files for sections
 
-* index.qmd = initial data analysis aims, key principle, framework, and STRATOS
+* index.qmd = main page
 * members.qmd = members and bios
-* papers.qmd = papers of TG3 and collaborations with TG3 members related to IDA or data quality
-* activities.qmd = active and closed projects (systematical review, IDA cross sectional studies, IDA longitudinal studies
-* resources.qmd = R implementations (bacteremia IDA report, SHARE IDA report)
-* glossary.qmd = gloassary of terms related to IDA
+* papers.qmd = papers of TG2 and guidance publications endorsed by TG2
+* activities.qmd = active and closed projects 
+* resources.qmd = R implementations 
+* glossary.qmd = gloassary of terms related to TG2
 
 ### Assets
 Website links to:

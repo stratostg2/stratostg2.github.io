@@ -2,7 +2,7 @@
 title: "Members"
 ---
 
-**[Georg Heinze](https://www.meduniwien.ac.at/researcher/georg_heinze) (chair)**: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna,  Austria. 
+**[Georg Heinze](https://www.meduniwien.ac.at/researcher/georg_heinze) (chair)**: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna,  Austria. 
 
 **Aris Perperoglou (chair)**:  Data Science & AI,   AstraZeneca R&D Biopharmaceuticals , Cambridge UK
 
@@ -10,31 +10,26 @@ title: "Members"
 
 **Michal Abrahamowicz**: Faculty of Medicine, McGill University, Canada
 
-**Heiko Becher**: Institute for Medical Biometry and Epidemiology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany
-
 **Harald Binder**:  Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany 
 
-**Daniela Dunkler**: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna,  Austria
+**Daniela Dunkler**: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna,  Austria
 
-**Rolf Groenwold**:  Leiden University Medical Centre, Leiden, The Netherlands
+**Frank Harrell**: School of Medicine, Vanderbilt University Medical Center, Nashville, TN, USA
 
-**Frank Harrell**: School of Medicine, Vanderbilt University Medical Center, USA
+**Marc Henrion**: Malawi Liverpool Wellcome Research Programme, Blantyre, Malawi and Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool, UK
 
-**Nadja Klein**: School of Business and Economics , Humboldt-University of Berlin, Germany
+**Michael Kammer**: Division of Nephrology, Department of Medicine III and Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna,  Austria
 
-**Geraldine Rauch**:  Institute of Biometry and Clinical  Epidemiology, Charité – Universitätsmedizin Berlin , Germany
+**Mariana Nold**: Department of Sociology, Friedrich-Schiller University of Jena, Jena, Germany
 
-**Patrick Royston**: Department of Statistical Science, UCL, UK
-
-**Matthias Schmid**:  Institute for Medicine Biometry, Informatics and Epidemiology, Bonn, Germany
+**Matthias Schmid**:  Institute for Medicine Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany
 
 
 ## Early career adjunct members
 
-**Michael Kammer**: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna,  Austria
+**Gregor Buch**: Preventive Cardiology and Preventive Medicine, Department of Cardiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany
 
 **Edwin  Kipruto**:  Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany
 
-**Kim Luijken**:  Leiden University Medical Centre, Leiden, The Netherlands
+**Theresa Ullmann**: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna,  Austria
 
-**Christine Wallisch**: Institute of Clinical Biometrics, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna,  Austria

@@ -2,10 +2,20 @@
 title: "Activities"
 ---
 
-NOTE: This is the text that was originally on the TG2 website and it is severely outdated!
 
-* Georg Heinze and Christine Wallisch will give a STRATOS-TG2 workshop on 'Variable selection – a review and recommendations for the practicing statistician' at the IBS-ROeS conference in Salzburg, 6 September 2021
+## Recent
 
-* Aris Perperoglou will host a session on "STRATOS initiative - on various issues in multivariable model building" at the RSS International Conference in Manchester,  6-9 September, with talks from Bianca de Stavola, Tim Morris, Willi Sauerbrei and Michal Abrahamowicz.
+* Georg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at [https://www.ibc2024.org](https://www.ibc2024.org/events/showcase). [The slides are available at OSF here](https://osf.io/a5gtk/).
 
-* Georg Heinze and Mark Baillie will host a session on 'STRATOS initiative - Tools for guidance for analysis of observational studies' at the IBS-ROeS conference in Salzburg, 7-10 September 2021, featuring Rolf Groenwold from TG2 with a talk on ' Using videos and other media for guidance'
+## Upcoming
+
+* Internal TG2 meeting in Vienna, 7-9 May 2025 at the [Center for Medical Data Science](https://data-science.meduniwien.ac.at), including a public talk by Matthias Schmid on [Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects](https://viennabiometrics.github.io/abstracts/20250805_WBS_Schmid.pdf)
+
+* Minisymposium at the International Society of Clinical Biostatistics (ISCB) conference in Basel, CH, 28 Aug 2025. Topic of the session: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis. Speakers (among others): Georg Heinze, Willi Sauerbrei, Michal Abrahamowicz [Find out more](https://iscb2025.info/mini-symposia.html#mini-symposium-3-statistical-research-needs-to-improve-on-the-important-roles-of-simulation-studies-and-guidance-for-analysis)
+
+* Invited session at the [ROeS 2025](https://roes2025.at/index.html) (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. Topic of the session: Contrasting Bayesian and frequentist model building for descriptive research questions - a paired-design experiment of STRATOS-TG2. Invited speaker: Mariana Nold, further speakers for TG2: Michael Kammer, Georg Heinze, Aliaksandr Hubin
+
+* Topic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.
+
+
+

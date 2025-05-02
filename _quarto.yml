@@ -7,8 +7,8 @@ execute:
   freeze: true
 
 website:
-  title: "STRATOS TG3: Initial Data Analysis"
-  site-url: https://stratosida.github.io/
+  title: "STRATOS TG2: Selection of variables and functional forms for multivariable models"
+  site-url: https://stratostg2.github.io/
   description: "Add description"
   page-navigation: false
 
@@ -19,7 +19,7 @@ website:
     collapse-level: 2
     tools:
       - icon: github
-        href: https://github.com/stratosida/
+        href: https://github.com/stratostg2/
     contents:
       - index.qmd
       - members.qmd
@@ -27,6 +27,7 @@ website:
       - activities.qmd
       - resources.qmd
       - glossary.qmd
+      - about.qmd
     logo: "assets/stratos-color-transpbackgr.png"
 
 format:
