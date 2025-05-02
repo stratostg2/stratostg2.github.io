@@ -2,31 +2,34 @@
 title: "Glossary"
 ---
 
+On this page, you find descriptions of all keywords used in our papers.
+
+## Keywords used in [Perperoglou 2019](https://doi.org/10.1186/s12874-019-0666-3)
 
 
 ### Multivariable modelling	
 
 Multivariable modeling in statistics is the process of using several independent variables to predict a single dependent variable. It accounts for the relationships between multiple variables and identifies which factors are most strongly associated with the outcome of interest. This method is commonly used in regression analysis and can help to improve the accuracy of predictions.
 
-[Perperoglou 2019](https://doi.org/10.1186/s12874-019-0666-3)
 
 ### Functional form of continuous covariates
 
 The functional form of continuous covariates in statistics refers to the mathematical relationship between the independent variable and the dependent variable. This can be linear, nonlinear, or a combination of both. The choice of functional form can have a significant impact on the results of statistical analysis and should be carefully considered when selecting a model.
+
 ### Spline function	
 
 A spline function is a type of mathematical function used in statistics and numerical analysis to approximate complex curves or surfaces. It consists of multiple polynomial segments that join smoothly at specific points called knots. Spline functions are flexible and can be used to fit data or smooth curves.
+
 ### R (software)
 
 R is a free and open-source software environment for statistical computing and graphics. It includes functions for data analysis, modeling, and visualization, and is extendable through packages. R is widely used by statisticians, data scientists, and researchers.
 
-
+## Keywords used in [Bach 2020](https://doi.org/10.1371/journal.pone.0241427)
 
 ### Regression
 
 Regression analysis is a statistical method used to investigate the relationship between a dependent variable and one or more independent variables. It can be used to model and predict outcomes based on input variables, and to identify which variables have the strongest impact on the outcome of interest.
 
-[Bach 2020](https://doi.org/10.1371/journal.pone.0241427)
 
 ### Regression, Linear
 
@@ -58,13 +61,13 @@ See Regression
 
 
 
+## Keywords used in [Sauerbrei 2020](https://doi.org/10.1186/s41512-020-00074-3)
 
 
 ### Descriptive modelling
 
 Descriptive modeling refers to a type of statistical modeling used to summarize a dataset and identify patterns, relationships, and trends without making any predictions or inferences. The purpose of descriptive models is to capture the main associations between a dependent variable and the independent variables in the data set, typically using measures such as means, medians, and standard deviations of target variables conditional on the values of other variables and associational quantities such as regression coefficients or nonlinear (smoothing) response functions. Descriptive models are useful for gaining insight into the underlying structure of the data, but are not intended for predictions of future outcomes or for causal conclusions.*
 
-[Sauerbrei 2020](https://doi.org/10.1186/s41512-020-00074-3)
 
 ### Methods for variable selection
 
@@ -101,24 +104,24 @@ Empirical evidence is crucial in evaluating statistical methods because it provi
 
 
 
+## Keywords used in [Wallisch 2022](https://doi.org/10.1371/journal.pone.0262918)
 
 
 ### Statistical regression modeling
 
 See Regression
 
-[Wallisch 2022](https://doi.org/10.1371/journal.pone.0262918)
 
 
 
 
-
+## Keywords used in [Ullmann 2024](https://doi.org/10.1371/journal.pone.0308543)
 
 ### Model performance
 
 Describes how accurate the predictions of a model are, but may also cover aspects of model interpretability.
 
-[Ullmann 2024](https://doi.org/10.1371/journal.pone.0308543)
+
 
 ### Simulation study	
 
@@ -129,16 +132,16 @@ A simulation study is a research approach in which artificial datasets are gener
 A neutral comparison study is a type of research specifically designed to compare statistical methods in an unbiased and objective manner. In such studies, the primary goal is not to promote a new method but to fairly evaluate the relative performance of existing methods using consistent criteria and transparent protocols. Neutrality is maintained by ensuring that the study is not conducted by the developers of the methods being evaluated (or at least includes independent collaborators), and by using standardized, realistic datasets or simulations, along with clear, pre-specified performance metrics. These studies play a key role in evidence-based method selection and promote reproducibility and methodological rigor.
 
 
-
+## Keywords used in [Heinze 2024](https://doi.org/10.1186/s12874-024-02294-3)
 
 
 ### Initial data analysis	
 
-The main aim of IDA is seen in providing reliable knowledge about the data to enable responsible statistical analyses and interpretation. IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; (5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. IDA is aligned with the research aims and the statistical analysis plan and does not include hypothesis generating activities.
+The main aim of IDA is seen in providing reliable knowledge about the data to enable responsible statistical analyses and interpretation. IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; (5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. IDA is aligned with the research aims and the statistical analysis plan and does not include hypothesis generating activities.
 
 **Source**: Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11
 
-[Heinze 2024](https://doi.org/10.1186/s12874-024-02294-3)
+
 
 
 ### IDA framework
