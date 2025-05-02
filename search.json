@@ -214,7 +214,7 @@
     "href": "resources.html",
     "title": "Software",
     "section": "",
-    "text": "Visualisation of non-linear modelling: A shiny app developed by Daniela Dunkler and Georg Heinze\nA shiny app to visualize the possible different functional forms which can be modelled with fractional polynomials, natural (restricted cubic) splines, or linear B-splines. For eleven different explanatory variables, you can visualise non-linear effects applying these popular methods of non-linear modeling. You can visualise first- or second-degree fractional polynomials, linear B-splines with up to 4 degrees of freedom and natural splines with up to 3 degrees of freedom.",
+    "text": "Bend your (sp)line: A shiny app developed by TG2\nA shiny app to visualize the possible different functional forms which can be modelled with fractional polynomials, natural (restricted cubic) splines, or linear B-splines. For eleven different explanatory variables, you can visualise non-linear effects applying these popular methods of non-linear modeling. You can visualise first- or second-degree fractional polynomials, linear B-splines with up to 4 degrees of freedom and natural splines with up to 3 degrees of freedom.",
     "crumbs": [
       "Software"
     ]
@@ -224,7 +224,7 @@
     "href": "resources.html#apps",
     "title": "Software",
     "section": "",
-    "text": "Visualisation of non-linear modelling: A shiny app developed by Daniela Dunkler and Georg Heinze\nA shiny app to visualize the possible different functional forms which can be modelled with fractional polynomials, natural (restricted cubic) splines, or linear B-splines. For eleven different explanatory variables, you can visualise non-linear effects applying these popular methods of non-linear modeling. You can visualise first- or second-degree fractional polynomials, linear B-splines with up to 4 degrees of freedom and natural splines with up to 3 degrees of freedom.",
+    "text": "Bend your (sp)line: A shiny app developed by TG2\nA shiny app to visualize the possible different functional forms which can be modelled with fractional polynomials, natural (restricted cubic) splines, or linear B-splines. For eleven different explanatory variables, you can visualise non-linear effects applying these popular methods of non-linear modeling. You can visualise first- or second-degree fractional polynomials, linear B-splines with up to 4 degrees of freedom and natural splines with up to 3 degrees of freedom.",
     "crumbs": [
       "Software"
     ]
