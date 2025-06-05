@@ -70,66 +70,6 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "The main aim of STRATOS topic group 2 is to develop guidance for variable and functional form selection in multivariable analyses.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "index.html#aims",
-    "href": "index.html#aims",
-    "title": "Introduction",
-    "section": "",
-    "text": "The main aim of STRATOS topic group 2 is to develop guidance for variable and functional form selection in multivariable analyses.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "index.html#focus",
-    "href": "index.html#focus",
-    "title": "Introduction",
-    "section": "Focus",
-    "text": "Focus\nMultivariable models play a dominanting role in all kinds of empirical research, and they are used in addressing descriptive, predictive and explanatory research questions.\nThe main focus of multivariable model building is to identify influential variables and to gain insight into their individual and joint relationship with an outcome variable. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable model, and choice of the functional forms for continuous variables.\nOn this website we list topic group specific activities, TG2 publications, further reading and resources, and the members of our topic group.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "index.html#stratos-initiative",
-    "href": "index.html#stratos-initiative",
-    "title": "Introduction",
-    "section": "STRATOS Initiative",
-    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\nFind out more about STRATOS at its website: https://www.stratos-initiative.org.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "Introduction",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nMany thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About this website",
-    "section": "",
-    "text": "Andreas Klinger: set-up and maintenance\nGeorg Heinze: supervision and revision\nLast changes: 2 May 2025.\n\nAcknowledgements\nMany thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.\n\n\nAddress for correspondence\nSTRATOS TG2\nc/o Institute of Clinical Biometrics,\nCenter for Medical Data Science,\nMedical University of Vienna,\nSpitalgasse 23, 1090 Vienna, Austria.\nE-mail: stratos.tg2@gmail.com.",
-    "crumbs": [
-      "About this website"
-    ]
-  },
-  {
     "objectID": "papers.html",
     "href": "papers.html",
     "title": "TG2 Publications",
@@ -230,56 +170,6 @@
     ]
   },
   {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Activities",
-    "section": "",
-    "text": "Georg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at https://www.ibc2024.org. The slides are available at OSF here.",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "activities.html#recent",
-    "href": "activities.html#recent",
-    "title": "Activities",
-    "section": "",
-    "text": "Georg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at https://www.ibc2024.org. The slides are available at OSF here.",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "activities.html#upcoming",
-    "href": "activities.html#upcoming",
-    "title": "Activities",
-    "section": "Upcoming",
-    "text": "Upcoming\n\nInternal TG2 meeting in Vienna, 7-9 May 2025 at the Center for Medical Data Science, including a public talk by Matthias Schmid on Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects\nMinisymposium at the International Society of Clinical Biostatistics (ISCB) conference in Basel, CH, 28 Aug 2025. Topic of the session: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis. Speakers (among others): Georg Heinze, Willi Sauerbrei, Michal Abrahamowicz Find out more\nInvited session at the ROeS 2025 (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. Topic of the session: Contrasting Bayesian and frequentist model building for descriptive research questions - a paired-design experiment of STRATOS-TG2. Invited speaker: Mariana Nold, further speakers for TG2: Michael Kammer, Georg Heinze, Aliaksandr Hubin\nTopic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Members",
-    "section": "",
-    "text": "Georg Heinze (chair): Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria.\nAris Perperoglou (chair): Predictive Modelling, GSK, Stevenage, UK\nWilli Sauerbrei (chair): Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nMichal Abrahamowicz: Faculty of Medicine, McGill University, Canada\nHarald Binder: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nDaniela Dunkler: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria\nFrank Harrell: School of Medicine, Vanderbilt University Medical Center, Nashville, TN, USA\nMarc Henrion: Malawi Liverpool Wellcome Research Programme, Blantyre, Malawi and Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool, UK\nMichael Kammer: Division of Nephrology, Department of Medicine III and Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria\nMariana Nold: Department of Sociology, Friedrich-Schiller University of Jena, Jena, Germany\nMatthias Schmid: Institute for Medicine Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany",
-    "crumbs": [
-      "Members"
-    ]
-  },
-  {
-    "objectID": "members.html#early-career-adjunct-members",
-    "href": "members.html#early-career-adjunct-members",
-    "title": "Members",
-    "section": "Early career adjunct members",
-    "text": "Early career adjunct members\nGregor Buch: Preventive Cardiology and Preventive Medicine, Department of Cardiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany\nEdwin Kipruto: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nTheresa Ullmann: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria",
-    "crumbs": [
-      "Members"
-    ]
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -307,6 +197,116 @@
     "text": "R packages and other ressources provided by TG2 members\n\nRegression Modeling Strategies\nRegression modeling, testing, estimation, validation, graphics, prediction, and typesetting by storing enhanced model design attributes in the fit. ‘rms’ is a collection of functions that assist with and streamline modeling.\n\nR package: rms\nOnline book companion: https://hbiostat.org/doc/rms/book/\n\n\n\nMultivariable Fractional Polynomials (MFP)\nMFP is a pragmatic procedure to create a multivariable model with the twin aims of selecting important variables and determining a suitable functional form for continuous predictors.\nRessources:\n\nR-package mfp\nR-package mfp2\nMFP website with explanations, examples, software, links, etc.: https://mfp.imbi.uni-freiburg.de/software\n\n\n\nAugmented Backward Elimination\nAugmented backward elimination combines significance or information based criteria with the change in estimate to either select the optimal model for prediction purposes or to serve as a tool to obtain a practically sound, highly interpretable model. More details can be found in Dunkler et al. (2014).\n\nR package: abe Performs augmented backward elimination and checks the stability of the obtained model.\n\n\n\nTetris-plot\nThe Tetris-plot is a tool to visualize the instability of models obtained by variable selection.\n\nGithub website with R package (development version): https://gsk-biostatistics.github.io/tetrisplot",
     "crumbs": [
       "Resources"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this website",
+    "section": "",
+    "text": "Andreas Klinger: set-up and maintenance\nGeorg Heinze: supervision and revision\nLast changes: 2 May 2025.\n\nAcknowledgements\nMany thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.\n\n\nAddress for correspondence\nSTRATOS TG2\nc/o Institute of Clinical Biometrics,\nCenter for Medical Data Science,\nMedical University of Vienna,\nSpitalgasse 23, 1090 Vienna, Austria.\nE-mail: stratos.tg2@gmail.com.",
+    "crumbs": [
+      "About this website"
+    ]
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "Georg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at https://www.ibc2024.org. The slides are available at OSF here.\nInternal TG2 meeting in Vienna, 7-9 May 2025 at the Center for Medical Data Science, including a public talk by Matthias Schmid on Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#recent",
+    "href": "activities.html#recent",
+    "title": "Activities",
+    "section": "",
+    "text": "Georg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at https://www.ibc2024.org. The slides are available at OSF here.\nInternal TG2 meeting in Vienna, 7-9 May 2025 at the Center for Medical Data Science, including a public talk by Matthias Schmid on Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#upcoming",
+    "href": "activities.html#upcoming",
+    "title": "Activities",
+    "section": "Upcoming",
+    "text": "Upcoming\n\nMinisymposium at the International Society of Clinical Biostatistics (ISCB) conference in Basel, CH, 28 Aug 2025. Topic of the session: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis. Speakers (among others): Georg Heinze, Willi Sauerbrei, Michal Abrahamowicz Find out more\nInvited session at the ROeS 2025 (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. Topic of the session: Contrasting Bayesian and frequentist model building for descriptive research questions - a paired-design experiment of STRATOS-TG2. Invited speaker: Mariana Nold, further speakers for TG2: Michael Kammer, Georg Heinze, Aliaksandr Hubin\nTopic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Members",
+    "section": "",
+    "text": "Georg Heinze (chair): Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria.\nAris Perperoglou (chair): Predictive Modelling, GSK, Stevenage, UK\nWilli Sauerbrei (chair): Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nMichal Abrahamowicz: Faculty of Medicine, McGill University, Canada\nHarald Binder: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nDaniela Dunkler: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria\nFrank Harrell: School of Medicine, Vanderbilt University Medical Center, Nashville, TN, USA\nMarc Henrion: Malawi Liverpool Wellcome Research Programme, Blantyre, Malawi and Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool, UK\nMichael Kammer: Division of Nephrology, Department of Medicine III and Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria\nMariana Nold: Department of Sociology, Friedrich-Schiller University of Jena, Jena, Germany\nMatthias Schmid: Institute for Medicine Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany",
+    "crumbs": [
+      "Members"
+    ]
+  },
+  {
+    "objectID": "members.html#early-career-adjunct-members",
+    "href": "members.html#early-career-adjunct-members",
+    "title": "Members",
+    "section": "Early career adjunct members",
+    "text": "Early career adjunct members\nGregor Buch: Preventive Cardiology and Preventive Medicine, Department of Cardiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany\nEdwin Kipruto: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nTheresa Ullmann: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria",
+    "crumbs": [
+      "Members"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "The main aim of STRATOS topic group 2 is to develop guidance for variable and functional form selection in multivariable analyses.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#aims",
+    "href": "index.html#aims",
+    "title": "Introduction",
+    "section": "",
+    "text": "The main aim of STRATOS topic group 2 is to develop guidance for variable and functional form selection in multivariable analyses.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#focus",
+    "href": "index.html#focus",
+    "title": "Introduction",
+    "section": "Focus",
+    "text": "Focus\nMultivariable models play a dominanting role in all kinds of empirical research, and they are used in addressing descriptive, predictive and explanatory research questions.\nThe main focus of multivariable model building is to identify influential variables and to gain insight into their individual and joint relationship with an outcome variable. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable model, and choice of the functional forms for continuous variables.\nOn this website we list topic group specific activities, TG2 publications, further reading and resources, and the members of our topic group.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#stratos-initiative",
+    "href": "index.html#stratos-initiative",
+    "title": "Introduction",
+    "section": "STRATOS Initiative",
+    "text": "STRATOS Initiative\nTopic group 2 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\nFind out more about STRATOS at its website: https://www.stratos-initiative.org.\n\n\n\n2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Introduction",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nMany thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.",
+    "crumbs": [
+      "Introduction"
     ]
   }
 ]
