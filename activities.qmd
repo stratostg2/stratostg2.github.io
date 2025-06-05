@@ -7,9 +7,9 @@ title: "Activities"
 
 * Georg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at [https://www.ibc2024.org](https://www.ibc2024.org/events/showcase). [The slides are available at OSF here](https://osf.io/a5gtk/).
 
-## Upcoming
-
 * Internal TG2 meeting in Vienna, 7-9 May 2025 at the [Center for Medical Data Science](https://data-science.meduniwien.ac.at), including a public talk by Matthias Schmid on [Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects](https://viennabiometrics.github.io/abstracts/20250805_WBS_Schmid.pdf)
+
+## Upcoming
 
 * Minisymposium at the International Society of Clinical Biostatistics (ISCB) conference in Basel, CH, 28 Aug 2025. Topic of the session: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis. Speakers (among others): Georg Heinze, Willi Sauerbrei, Michal Abrahamowicz [Find out more](https://iscb2025.info/mini-symposia.html#mini-symposium-3-statistical-research-needs-to-improve-on-the-important-roles-of-simulation-studies-and-guidance-for-analysis)
 
