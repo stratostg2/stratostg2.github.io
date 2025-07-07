@@ -7,7 +7,7 @@ On this page, you find descriptions of all keywords used in our papers.
 ## Keywords used in [Perperoglou 2019](https://doi.org/10.1186/s12874-019-0666-3)
 
 
-### Multivariable modelling	
+### Multivariable modeling	
 
 Multivariable modeling in statistics is the process of using several independent variables to predict a single dependent variable. It accounts for the relationships between multiple variables and identifies which factors are most strongly associated with the outcome of interest. This method is commonly used in regression analysis and can help to improve the accuracy of predictions.
 
@@ -64,14 +64,14 @@ See Regression
 ## Keywords used in [Sauerbrei 2020](https://doi.org/10.1186/s41512-020-00074-3)
 
 
-### Descriptive modelling
+### Descriptive modeling
 
-Descriptive modeling refers to a type of statistical modeling used to summarize a dataset and identify patterns, relationships, and trends without making any predictions or inferences. The purpose of descriptive models is to capture the main associations between a dependent variable and the independent variables in the data set, typically using measures such as means, medians, and standard deviations of target variables conditional on the values of other variables and associational quantities such as regression coefficients or nonlinear (smoothing) response functions. Descriptive models are useful for gaining insight into the underlying structure of the data, but are not intended for predictions of future outcomes or for causal conclusions.*
+Descriptive modeling refers to a type of statistical modeling used to summarize a dataset and identify patterns, relationships, and trends.  The purpose of descriptive models is to capture the main associations between a dependent variable and the independent variables in the data set, typically using measures such as means, medians, and standard deviations of target variables conditional on the values of other variables and associational quantities such as regression coefficients or nonlinear (smoothing) response functions. Descriptive models are useful for gaining insight into the underlying structure of the data, but are not mainly intended for predictions of future outcomes or for causal conclusions. 
 
 
 ### Methods for variable selection
 
-Variable selection is the process of identifying the most relevant independent variables for a given dependent variable in a statistical model. One commonly used method is stepwise regression, which involves sequentially adding or removing variables based on their statistical significance. Another method is regularization, which shrinks the coefficients of less important variables towards zero and can be implemented through techniques such as Lasso or Ridge regression. Information criteria, such as AIC or BIC, can also be used to compare different models and select the best subset of variables. Finally, some machine learning algorithms, such as decision trees and random forests, automatically perform variable selection by choosing the most informative variables for predicting the outcome.
+Variable selection is the process of identifying the most relevant independent variables for a given dependent variable in a statistical model. One commonly used method is stepwise regression, which involves sequentially adding or removing variables based on their statistical significance. Another method is regularization, which shrinks the coefficients of less important variables towards zero and can be implemented through techniques such as Lasso or the Elastic Net. Information criteria, such as AIC or BIC, can also be used to compare different models and select the best subset of variables. Finally, some machine learning algorithms, such as decision trees and random forests, automatically perform variable selection by choosing the most informative variables for predicting the outcome.
 
 ### Spline procedures
 

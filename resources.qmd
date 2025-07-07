@@ -8,7 +8,7 @@ title: "Resources"
 
 A shiny app to **visualize the possible different functional forms** which can be modelled with **fractional polynomials, natural (restricted cubic) splines, or linear B-splines.** For eleven different explanatory variables, you can visualise non-linear effects applying these popular methods of non-linear modeling. You can visualise first- or second-degree fractional polynomials, linear B-splines with up to 4 degrees of freedom and natural splines with up to 3 degrees of freedom.
 
-## R packages and other ressources provided by TG2 members
+## R packages and other resources provided by TG2 members
 
 ### Regression Modeling Strategies 
 
@@ -21,7 +21,7 @@ Regression modeling, testing, estimation, validation, graphics, prediction, and 
 
 MFP is a pragmatic procedure to create a multivariable model with the twin aims of selecting important variables and determining a suitable functional form for continuous predictors. 
 
-Ressources:
+Resources:
 
 * R-package [mfp](https://cran.r-project.org/web/packages/mfp/index.html)
 * R-package [mfp2](https://cran.r-project.org/package=mfp2)
@@ -38,6 +38,6 @@ the stability of the obtained model.
 
 The Tetris-plot is a tool to visualize the instability of models obtained by variable selection.
 
-* Github website with R package (development version): https://gsk-biostatistics.github.io/tetrisplot
+* Github website with R package (development version): [https://gsk-biostatistics.github.io/tetrisplot](https://gsk-biostatistics.github.io/tetrisplot)
 
 

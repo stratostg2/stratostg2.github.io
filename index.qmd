@@ -9,7 +9,7 @@ The main aim of STRATOS topic group 2 is to develop guidance for variable and fu
 
 ## Focus
 
-Multivariable models play a dominanting role in all kinds of empirical research, and they are used in addressing descriptive, predictive and explanatory research questions.
+Multivariable models play a dominant role in all kinds of empirical research, and they are used in addressing descriptive, predictive and explanatory research questions.
 
 The main focus of multivariable model building is to identify influential variables and to gain insight into their individual and joint relationship with an outcome variable. Two of the (interrelated) main challenges are selection of variables for inclusion in a multivariable model, and choice of the functional forms for continuous variables. 
 
