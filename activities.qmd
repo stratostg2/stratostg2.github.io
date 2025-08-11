@@ -5,17 +5,20 @@ title: "Activities"
 
 ## Recent
 
-* Georg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at [https://www.ibc2024.org](https://www.ibc2024.org/events/showcase). [The slides are available at OSF here](https://osf.io/a5gtk/).
+* Topic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.[Find out more](https://ww2.amstat.org/meetings/jsm/2025/)
 
 * Internal TG2 meeting in Vienna, 7-9 May 2025 at the [Center for Medical Data Science](https://data-science.meduniwien.ac.at), including a public talk by Matthias Schmid on [Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects](https://viennabiometrics.github.io/abstracts/20250805_WBS_Schmid.pdf)
 
+* Georg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at [https://www.ibc2024.org](https://www.ibc2024.org/events/showcase). [The slides are available at OSF here](https://osf.io/a5gtk/).
+
+
 ## Upcoming
 
-* Topic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.[Find out more](https://ww2.amstat.org/meetings/jsm/2025/)
 
-* Invited session at 70th Annual Meeting of the German Society for Medical Informatics, Biometrics and Epidemiology (Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V., GMDS) in Jena, Germany, 7-11 Sep 2025. Speaker for TG2: Gregor Buch. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.[Find out more (in German)](https://gmds2025.de/)
+* Minisymposium at the International Society of Clinical Biostatistics (ISCB) conference in Basel, CH, 28 Aug 2025. Topic of the session: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis. Speakers (among others): Georg Heinze, Willi Sauerbrei, Michal Abrahamowicz. [Find out more](https://iscb2025.info/mini-symposia.html#mini-symposium-3-statistical-research-needs-to-improve-on-the-important-roles-of-simulation-studies-and-guidance-for-analysis)
 
-* Minisymposium at the International Society of Clinical Biostatistics (ISCB) conference in Basel, CH, 28 Aug 2025. Topic of the session: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis. Speakers (among others): Georg Heinze, Willi Sauerbrei, Michal Abrahamowicz [Find out more](https://iscb2025.info/mini-symposia.html#mini-symposium-3-statistical-research-needs-to-improve-on-the-important-roles-of-simulation-studies-and-guidance-for-analysis)
+* Invited session at 70th Annual Meeting of the German Society for Medical Informatics, Biometrics and Epidemiology (Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V., GMDS) in Jena, Germany, 7-11 Sep 2025. Speaker for TG2: Gregor Buch. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models. [Find out more (in German)](https://gmds2025.de/)
+
 
 * Invited session at the [ROeS 2025](https://roes2025.at/index.html) (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. Topic of the session: Contrasting Bayesian and frequentist model building for descriptive research questions - a paired-design experiment of STRATOS-TG2. Invited speaker: Mariana Nold, further speakers for TG2: Michael Kammer, Georg Heinze, Aliaksandr Hubin
 

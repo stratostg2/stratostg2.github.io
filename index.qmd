@@ -21,7 +21,7 @@ Topic group 2 is a member of the [STRATOS](https://stratos-initiative.org) Initi
 
 Find out more about STRATOS at its website: [https://www.stratos-initiative.org](https://www.stratos-initiative.org).
 
-![2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada.](assets/STRATOS_Banff_second_meeting.png){fig-align="center"}
+![2nd General Meeting of the STRATOS members at the Banff International Research Station (BIRS), Banff, Canada, June 2019.](assets/STRATOS_Banff_second_meeting.png){fig-align="center"}
 
 
 ## Acknowledgements

@@ -145,9 +145,17 @@ This work illustrate challenges that an analyst faces when working with data. Mo
 
 
 
+## Recent activities of the Topic Group on Selection of Variables and Functional Forms in Multivariable Analysis (TG2)
+
+Georg Heinze, Aris Perperoglou, Willi Sauerbrei on behalf of STRATOS TG2
+
+[Biometric Bulletin 2021; 38(2):7-8](https://www.stratos-initiative.org/sites/default/files/2021-09/IBS_BioMetric-Bulletin-Vol38-Issue2-1_4-7-8.pdf)
 
 
-
+<details>
+<summary>Abstract</summary>
+This Biometric Bulletin article provides an update of the activities of TG2 by July 2021.
+</details>
 
 
 
@@ -155,9 +163,10 @@ This work illustrate challenges that an analyst faces when working with data. Mo
 
 ## Introducing the Topic Group on Selection of Variables and Functional Forms in Multivariable Analysis (TG2) 
 
-Aris Perperoglou , Georg Heinze , Willi Sauerbrei on behalf of STRATOS TG2
+Aris Perperoglou, Georg Heinze, Willi Sauerbrei on behalf of STRATOS TG2
 
-[Link](https://www.stratos-initiative.org/sites/default/files/2021-11/STRATOS-TG2-BB-variable-selection.pdf)
+[Biometric Bulletin 2018; 35(3):18-19](https://www.stratos-initiative.org/sites/default/files/2021-11/STRATOS-TG2-BB-variable-selection.pdf)
+
 
 <details>
   <summary>Abstract</summary>
@@ -193,15 +202,22 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 
 ## Papers
 
+
+* Kipruto, E., & Sauerbrei, W. (2025). Evaluating Prediction Performance: A Simulation Study Comparing Penalized and Classical Variable Selection Methods in Low-Dimensional Data. Applied Sciences, 15(13), 7443. [https://doi.org/10.3390/app15137443](https://doi.org/10.3390/app15137443)
+
+* Sauerbrei, W., Royston, P., & Kipruto, E. (2025). Multivariable Fractional Polynomial Models and Extensions. In International Encyclopedia of Statistical Science (pp. 1609-1616). Berlin, Heidelberg: Springer. [https://doi.org/10.1007/978-3-662-69359-9_397](https://doi.org/10.1007/978-3-662-69359-9_397)
+
+* Kipruto, E., & Sauerbrei, W. (2024). Post‐Estimation Shrinkage in Full and Selected Linear Regression Models in Low‐Dimensional Data Revisited. Biometrical Journal, 66(7), e202300368. [https://doi.org/10.1002/bimj.202300368](https://doi.org/10.1002/bimj.202300368)
+
 * Lu Z, Lou W. Bayesian approaches to variable selection: a comparative study from practical perspectives. Int J Biostat 2021; [https://doi.org/10.1515/ijb-2020-0130](https://doi.org/10.1515/ijb-2020-0130)
 
 * Heinze G, Wallisch C, Dunkler D. Variable selection – a review and recommendations for the practicing statistician. Biometrical J. 2018; 60:431–49. 
-
 * Binder H, Sauerbrei W, Royston P. Comparison between splines and fractional polynomials for multivariable model building with continuous covariates: a simulation study with continuous response. Statistics in Medicine 2013; 32(13): 2262– 2277.
 
 * Royston P, Sauerbrei W. Multivariable Model‐building. A Pragmatic Approach to Regression Analysis Based on Fractional Polynomials for Continuous Variables. Wiley: Chichester, 2008.
 
 * Sauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Statistics in Medicine 2007; 26: 5512– 5528.
+
 
 * Abrahamowicz M, MacKenzie TA. Joint estimation of time‐dependent and non‐linear effects of continuous covariates on survival. Statistics in Medicine 2007; 26(2): 392– 408.
 
