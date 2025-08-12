@@ -27,6 +27,10 @@ Resources:
 * R-package [mfp2](https://cran.r-project.org/package=mfp2)
 * MFP website with explanations, examples, software, links, etc.: [https://mfp.imbi.uni-freiburg.de/software](https://mfp.imbi.uni-freiburg.de/software)
 
+mfp2 is a more recent package which includes several options and some extensions. A detailed vignette should help working with mfp2.
+
+ 
+
 ### Augmented Backward Elimination
 
 Augmented backward elimination combines significance or information based criteria with the change in estimate to either select the optimal model for prediction purposes or to serve as a tool to obtain a practically sound, highly interpretable model. More details can be found in [Dunkler et al. (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113677).

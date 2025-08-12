@@ -214,8 +214,6 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 * Heinze G, Wallisch C, Dunkler D. Variable selection – a review and recommendations for the practicing statistician. Biometrical J. 2018; 60:431–49. 
 * Binder H, Sauerbrei W, Royston P. Comparison between splines and fractional polynomials for multivariable model building with continuous covariates: a simulation study with continuous response. Statistics in Medicine 2013; 32(13): 2262– 2277.
 
-* Royston P, Sauerbrei W. Multivariable Model‐building. A Pragmatic Approach to Regression Analysis Based on Fractional Polynomials for Continuous Variables. Wiley: Chichester, 2008.
-
 * Sauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Statistics in Medicine 2007; 26: 5512– 5528.
 
 
