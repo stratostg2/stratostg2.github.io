@@ -188,17 +188,17 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 
 ## Books
 
-* Harrell FE. Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis. Springer: New York, 2015.
+* Harrell FE. Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis. Springer: New York, 2015. <br> *Integrates statistical rigor with practical guidance on variable selection, model specification, and validation across a range of regression contexts*.
 
-* Royston P, Sauerbrei W. Multivariable model-building: a pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables. John Wiley & Sons; 2008.
+* Royston P, Sauerbrei W. Multivariable model-building: a pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables. John Wiley & Sons; 2008. <br> *Presents a structured approach to modeling continuous variables using fractional polynomials, with an emphasis on reproducibility and clinical relevance*.
 
-* Wood S. Generalized Additive Models. Chapman & Hall/CRC: New York, 2006.
+* Wood S. Generalized Additive Models. Chapman & Hall/CRC: New York, 2006. <br> *Offers an accessible yet thorough treatment of additive modeling techniques for capturing nonlinear relationships in multivariable settings*.
 
-* Miller A. Subset Selection in Regression. Taylor & Francis: Boca Raton, Florida, 2002.
+* Miller A. Subset Selection in Regression. Taylor & Francis: Boca Raton, Florida, 2002. <br> *Provides a critical examination of subset selection methods, discussing their statistical properties, limitations, and applications*.
 
-* Boer C de. A Practical Guide to Splines revised edn. Springer: New York, 2001.
+* Boer C de. A Practical Guide to Splines revised edn. Springer: New York, 2001. <br> *Covers spline-based methods in detail, offering practical advice for incorporating flexible functional forms into regression models*.
 
-* Hastie T, Tibshirani R.. Generalized Additive Models. Chapman & Hall/CRC: New York, 1990.
+* Hastie T, Tibshirani R.. Generalized Additive Models. Chapman & Hall/CRC: New York, 1990. <br> *Introduces foundational concepts in additive modeling, balancing statistical theory with illustrative applied examples*.
 
 ## Papers
 
