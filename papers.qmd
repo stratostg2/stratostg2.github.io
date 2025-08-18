@@ -191,7 +191,7 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 * Harrell FE. Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis. Springer: New York, 2015. [https://doi.org/10.1007/978-3-319-19425-7](https://doi.org/10.1007/978-3-319-19425-7)
 <br> *Integrates statistical rigor with practical guidance on variable selection, model specification, and model validation across a range of regression contexts. Focuses on restricted cubic splines as tool for modeling functional forms.*.
 
-* Royston P, Sauerbrei W. Multivariable model-building: a pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables. John Wiley & Sons; 2008. [https://www.wiley.com/en-us/Multivariable+Model+-+Building%3A+A+Pragmatic+Approach+to+Regression+Anaylsis+based+on+Fractional+Polynomials+for+Modelling+Continuous+Variables-p-9780470028421](Link)
+* Royston P, Sauerbrei W. Multivariable model-building: a pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables. John Wiley & Sons; 2008. [Link](https://www.wiley.com/en-us/Multivariable+Model+-+Building%3A+A+Pragmatic+Approach+to+Regression+Anaylsis+based+on+Fractional+Polynomials+for+Modelling+Continuous+Variables-p-9780470028421)
 <br> *Presents a pragmatic, structured approach to multivariable model building, where emphasis is on modeling continuous variables using fractional polynomials. Focuses on interpretability and clinical relevance of statistical models.*.
 
 * Wood S. Generalized Additive Models. Chapman & Hall/CRC: New York, 2006. [https://doi.org/10.1201/9781315370279](https://doi.org/10.1201/9781315370279)
@@ -200,10 +200,10 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 * Miller A. Subset Selection in Regression. Taylor & Francis: Boca Raton, Florida, 2002. [https://doi.org/10.1201/9781420035933](https://doi.org/10.1201/9781420035933)
 <br> *Provides a critical examination of subset selection methods, discussing their statistical properties, limitations, and applications*.
 
-* Boer C de. A Practical Guide to Splines revised edn. Springer: New York, 2001. [https://link.springer.com/book/9780387953663](Link)
+* Boer C de. A Practical Guide to Splines revised edn. Springer: New York, 2001. [Link](https://link.springer.com/book/9780387953663)
 <br> *Covers spline-based methods in detail, offering practical advice for incorporating flexible functional forms into regression models*.
 
-* Hastie T, Tibshirani R.. Generalized Additive Models. Chapman & Hall/CRC: New York, 1990. [https://www.routledge.com/Generalized-Additive-Models/Hastie-Tibshirani/p/book/9780412343902](Link)
+* Hastie T, Tibshirani R.. Generalized Additive Models. Chapman & Hall/CRC: New York, 1990. [Link](https://www.routledge.com/Generalized-Additive-Models/Hastie-Tibshirani/p/book/9780412343902)
 <br> *Introduces foundational concepts in additive modeling, balancing statistical theory with illustrative applied examples*.
 
 ## Papers
