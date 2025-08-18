@@ -215,24 +215,24 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 * Lu Z, Lou W. Bayesian approaches to variable selection: a comparative study from practical perspectives. Int J Biostat 2021; [https://doi.org/10.1515/ijb-2020-0130](https://doi.org/10.1515/ijb-2020-0130)
 <br> *Provides practical comparisons of Bayesian variable selection approaches, supporting their application in real-world data analysis*.
 
-* Heinze G, Wallisch C, Dunkler D. Variable selection – a review and recommendations for the practicing statistician. Biometrical J. 2018; 60:431–49. 
+* Heinze G, Wallisch C, Dunkler D. Variable selection – a review and recommendations for the practicing statistician. Biometrical J. 2018; 60:431–49. [https://doi.org/10.1002/bimj.201700067](https://doi.org/10.1002/bimj.201700067)
 <br> *Offers pragmatic recommendations on variable selection methods, emphasizing model stability, validity, and transparency*.
 
-* Binder H, Sauerbrei W, Royston P. Comparison between splines and fractional polynomials for multivariable model building with continuous covariates: a simulation study with continuous response. Statistics in Medicine 2013; 32(13): 2262– 2277.
+* Binder H, Sauerbrei W, Royston P. Comparison between splines and fractional polynomials for multivariable model building with continuous covariates: a simulation study with continuous response. Statistics in Medicine 2013; 32(13): 2262– 2277. [https://doi.org/10.1002/sim.5639](https://doi.org/10.1002/sim.5639)
 <br> *Compares splines and fractional polynomials, clarifying their relative strengths for modeling continuous covariates*.
 
-* Sauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Statistics in Medicine 2007; 26: 5512– 5528.
+* Sauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Statistics in Medicine 2007; 26: 5512– 5528. [https://doi.org/10.1002/sim.3148](https://doi.org/10.1002/sim.3148)
 <br> *Integrates strategies for variable selection and functional form choice, presenting fractional polynomials as a coherent solution*.
 
 
-* Abrahamowicz M, MacKenzie TA. Joint estimation of time‐dependent and non‐linear effects of continuous covariates on survival. Statistics in Medicine 2007; 26(2): 392– 408.
+* Abrahamowicz M, MacKenzie TA. Joint estimation of time‐dependent and non‐linear effects of continuous covariates on survival. Statistics in Medicine 2007; 26(2): 392– 408. [https://doi.org/10.1002/sim.2519](https://doi.org/10.1002/sim.2519)
 <br> *Illustrates how joint modeling of time-varying and nonlinear effects improves accuracy and avoids bias in survival analysis*.
 
-* Abrahamowicz M, Du Berger R, Grover SA. Flexible modeling of the effects of serum cholesterol on coronary heart disease mortality. American Journal of Epidemiology 1997; 145(8): 714– 729.
+* Abrahamowicz M, Du Berger R, Grover SA. Flexible modeling of the effects of serum cholesterol on coronary heart disease mortality. American Journal of Epidemiology 1997; 145(8): 714– 729. [https://doi.org/10.1093/aje/145.8.714](https://doi.org/10.1093/aje/145.8.714)
 <br> *Shows how flexible modeling of continuous exposures can reveal nonlinear risk relationships that parametric models may obscure*.
 
-* Greenland S. Avoiding power loss associated with categorization and ordinal scores in dose‐response and trend analysis. Epidemiology (Cambridge, Mass.) 1995; 6(4): 450– 454.
+* Greenland S. Avoiding power loss associated with categorization and ordinal scores in dose‐response and trend analysis. Epidemiology (Cambridge, Mass.) 1995; 6(4): 450– 454. [https://doi.org/10.1097/00001648-199507000-00025](https://doi.org/10.1097/00001648-199507000-00025)
 <br> *Demonstrates the loss of power and information from categorizing continuous exposures, reinforcing the need for flexible functional form modeling*.
 
-* Royston P, Altman DG. Regression using fractional polynomials of continuous covariates: parsimonious parametric modelling. Applied Statistic 1994; 43(3): 429– 467. 
+* Royston P, Altman DG. Regression using fractional polynomials of continuous covariates: parsimonious parametric modelling. Applied Statistic 1994; 43(3): 429– 467. [https://doi.org/10.2307/2986270](https://doi.org/10.2307/2986270)
 <br> *Introduces fractional polynomials as a parsimonious and interpretable alternative to categorization or high-order polynomials*.
