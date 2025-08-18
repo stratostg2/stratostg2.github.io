@@ -189,10 +189,10 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 ## Books
 
 * Harrell FE. Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis. Springer: New York, 2015. [https://doi.org/10.1007/978-3-319-19425-7](https://doi.org/10.1007/978-3-319-19425-7)
-<br> *Integrates statistical rigor with practical guidance on variable selection, model specification, and validation across a range of regression contexts*.
+<br> *Integrates statistical rigor with practical guidance on variable selection, model specification, and model validation across a range of regression contexts. Focuses on restricted cubic splines as tool for modeling functional forms.*.
 
 * Royston P, Sauerbrei W. Multivariable model-building: a pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables. John Wiley & Sons; 2008. [https://www.wiley.com/en-us/Multivariable+Model+-+Building%3A+A+Pragmatic+Approach+to+Regression+Anaylsis+based+on+Fractional+Polynomials+for+Modelling+Continuous+Variables-p-9780470028421](Link)
-<br> *Presents a structured approach to modeling continuous variables using fractional polynomials, with an emphasis on reproducibility and clinical relevance*.
+<br> *Presents a pragmatic, structured approach to multivariable model building, where emphasis is on modeling continuous variables using fractional polynomials. Focuses on interpretability and clinical relevance of statistical models.*.
 
 * Wood S. Generalized Additive Models. Chapman & Hall/CRC: New York, 2006. [https://doi.org/10.1201/9781315370279](https://doi.org/10.1201/9781315370279)
 <br> *Offers an accessible yet thorough treatment of additive modeling techniques for capturing nonlinear relationships in multivariable settings*.
