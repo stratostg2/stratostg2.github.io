@@ -4,7 +4,7 @@ title: "Publications"
 
 # Topic Group 2 (TG2) Publications
 
-These publications were written as part of STRATOS-TG2. Their aim is guidance on the topic of variable and functional form selection.
+These publications were written on behalf of STRATOS-TG2. They center around the topic group's core topic, the selection of variables and functional forms in multivariable models.
 
 ## Evaluating variable selection methods for multivariable regression models: A simulation study protocol
 
@@ -190,7 +190,7 @@ The Biometric Bulletin has recently introduced its readership to the STRATOS ini
 
 # Further Suggested Publications
 
-Here we list a number of textbooks and papers that were written outside of STRATOS-TG2 by TG2 members or other authors. These materials are endorsed here because they fit the aim of guidance on selection of variables and functional forms in multivariable modeling.
+Here we list a number of textbooks and papers that were not written on behalf of STRATOS-TG2. These materials are endorsed here because they fit the aim of guidance on selection of variables and functional forms in multivariable modeling.
 
 ## Books
 
