@@ -4,7 +4,7 @@ title: "Introduction"
 
 ## Aims
 
-The main aim of STRATOS topic group 2 is to develop guidance for variable and functional form selection in multivariable analyses. 
+The main aim of **STRATOS topic group 2 (TG2)** is to develop guidance for variable and functional form selection in multivariable analyses. 
 
 
 ## Focus
