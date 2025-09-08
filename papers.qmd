@@ -6,6 +6,19 @@ title: "Publications"
 
 These publications were written on behalf of STRATOS-TG2. They center around the topic group's core topic, the selection of variables and functional forms in multivariable models.
 
+## A Systematic Categorization of Performance Measures for Estimated Non-Linear Associations Between an Outcome and Continuous Predictors
+
+Ullmann T, Heinze G, Abrahamowicz M, Perperoglou A, Sauerbrei W, Schmid M, Dunkler D, for TG2 of the STRATOS initiative, 2025. A Systematic Categorization of Performance Measures for Estimated Non-Linear Associations Between an Outcome and Continuous Predictors. WIREs Computational Statistics 17(3), e70042. [https://doi.org/10.1002/wics.70042](https://doi.org/10.1002/wics.70042)
+
+<details>
+  <summary>Abstract</summary>
+
+### Abstract
+
+In regression analysis, associations between continuous predictors and the outcome are often assumed to be linear. However, modeling the associations as non-linear can improve model fit. Many flexible modeling techniques, like (fractional) polynomials and spline-based approaches, are available. Such methods can be systematically compared in simulation studies, which require suitable performance measures to evaluate the accuracy of the estimated curves against the true data-generating functions. Although various measures have been proposed in the literature, no systematic overview exists so far. To fill this gap, we introduce a categorization of performance measures for evaluating estimated non-linear associations between an outcome and continuous predictors. This categorization includes many commonly used measures. The measures can not only be used in simulation studies, but also in application studies to compare different estimates to each other. We further illustrate and compare the behavior of different performance measures through some examples and a Shiny app.
+
+</details>
+
 ## Evaluating variable selection methods for multivariable regression models: A simulation study protocol
 
 Ullmann, T., Heinze, G., Hafermann, L., Schilhart-Wallisch, C., Dunkler, D., for TG2 of the STRATOS initiative, 2024. Evaluating variable selection methods for multivariable regression models: A simulation study protocol. PLoS ONE 19, e0308543. [https://doi.org/10.1371/journal.pone.0308543](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308543)
