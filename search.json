@@ -1,32 +1,32 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Members",
     "section": "",
-    "text": "Bend your (sp)line: A shiny app developed by TG2\nA shiny app to visualize the possible different functional forms which can be modelled with fractional polynomials, natural (restricted cubic) splines, or linear B-splines. For eleven different explanatory variables, you can visualise non-linear effects applying these popular methods of non-linear modeling. You can visualise first- or second-degree fractional polynomials, linear B-splines with up to 4 degrees of freedom and natural splines with up to 3 degrees of freedom.",
+    "text": "Georg Heinze (chair): Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria.\nAris Perperoglou (chair): Predictive Modelling, GSK, Stevenage, UK\nWilli Sauerbrei (chair): Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nMichal Abrahamowicz: Faculty of Medicine, McGill University, Canada\nHarald Binder: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nDaniela Dunkler: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria\nFrank Harrell: School of Medicine, Vanderbilt University Medical Center, Nashville, TN, USA\nMarc Henrion: Malawi Liverpool Wellcome Research Programme, Blantyre, Malawi and Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool, UK\nMichael Kammer: Division of Nephrology, Department of Medicine III and Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria\nMariana Nold: Department of Sociology, Friedrich-Schiller University of Jena, Jena, Germany\nMatthias Schmid: Institute for Medicine Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany",
     "crumbs": [
-      "Resources"
+      "Members"
     ]
   },
   {
-    "objectID": "resources.html#apps",
-    "href": "resources.html#apps",
-    "title": "Resources",
-    "section": "",
-    "text": "Bend your (sp)line: A shiny app developed by TG2\nA shiny app to visualize the possible different functional forms which can be modelled with fractional polynomials, natural (restricted cubic) splines, or linear B-splines. For eleven different explanatory variables, you can visualise non-linear effects applying these popular methods of non-linear modeling. You can visualise first- or second-degree fractional polynomials, linear B-splines with up to 4 degrees of freedom and natural splines with up to 3 degrees of freedom.",
+    "objectID": "members.html#clinical-affiliate",
+    "href": "members.html#clinical-affiliate",
+    "title": "Members",
+    "section": "Clinical affiliate",
+    "text": "Clinical affiliate\nCarl-Stephan Leonhardt: Department of Surgery, Medical University of Vienna, Vienna, Austria",
     "crumbs": [
-      "Resources"
+      "Members"
     ]
   },
   {
-    "objectID": "resources.html#r-packages-and-other-resources-provided-by-tg2-members",
-    "href": "resources.html#r-packages-and-other-resources-provided-by-tg2-members",
-    "title": "Resources",
-    "section": "R packages and other resources provided by TG2 members",
-    "text": "R packages and other resources provided by TG2 members\n\nRegression Modeling Strategies\nRegression modeling, testing, estimation, validation, graphics, prediction, and typesetting by storing enhanced model design attributes in the fit. ‘rms’ is a collection of functions that assist with and streamline modeling.\n\nR package: rms\nOnline book companion: https://hbiostat.org/doc/rms/book/\n\n\n\nMultivariable Fractional Polynomials (MFP)\nMFP is a pragmatic procedure to create a multivariable model with the twin aims of selecting important variables and determining a suitable functional form for continuous predictors.\nResources:\n\nR-package mfp\nR-package mfp2\nMFP website with explanations, examples, software, links, etc.: https://mfp.imbi.uni-freiburg.de/software\n\nmfp2 is a more recent package which includes several options and some extensions. A detailed vignette should help working with mfp2.\n\n\nAugmented Backward Elimination\nAugmented backward elimination combines significance or information based criteria with the change in estimate to either select the optimal model for prediction purposes or to serve as a tool to obtain a practically sound, highly interpretable model. More details can be found in Dunkler et al. (2014).\n\nR package: abe Performs augmented backward elimination and checks the stability of the obtained model.\n\n\n\nTetris-plot\nThe Tetris-plot is a tool to visualize the instability of models obtained by variable selection.\n\nGithub website with R package (development version): https://gsk-biostatistics.github.io/tetrisplot",
+    "objectID": "members.html#early-career-adjunct-members",
+    "href": "members.html#early-career-adjunct-members",
+    "title": "Members",
+    "section": "Early career adjunct members",
+    "text": "Early career adjunct members\nGregor Buch: Preventive Cardiology and Preventive Medicine, Department of Cardiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany\nEdwin Kipruto: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nTheresa Ullmann: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria",
     "crumbs": [
-      "Resources"
+      "Members"
     ]
   },
   {
@@ -77,16 +77,6 @@
     "text": "Acknowledgements\nMany thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.",
     "crumbs": [
       "Introduction"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About this website",
-    "section": "",
-    "text": "Andreas Klinger: set-up and maintenance\nGeorg Heinze: supervision and revision\nLast changes: 7 July 2025.\n\nContinuous website review\nTheresa Ullmann\n\n\nAcknowledgements\nMany thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.\n\n\nAddress for correspondence\nSTRATOS TG2\nc/o Institute of Clinical Biometrics,\nCenter for Medical Data Science,\nMedical University of Vienna,\nSpitalgasse 23, 1090 Vienna, Austria.\nE-mail: stratos.tg2@gmail.com.",
-    "crumbs": [
-      "About this website"
     ]
   },
   {
@@ -160,11 +150,91 @@
     ]
   },
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Bend your (sp)line: A shiny app developed by TG2\nA shiny app to visualize the possible different functional forms which can be modelled with fractional polynomials, natural (restricted cubic) splines, or linear B-splines. For eleven different explanatory variables, you can visualise non-linear effects applying these popular methods of non-linear modeling. You can visualise first- or second-degree fractional polynomials, linear B-splines with up to 4 degrees of freedom and natural splines with up to 3 degrees of freedom.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#apps",
+    "href": "resources.html#apps",
+    "title": "Resources",
+    "section": "",
+    "text": "Bend your (sp)line: A shiny app developed by TG2\nA shiny app to visualize the possible different functional forms which can be modelled with fractional polynomials, natural (restricted cubic) splines, or linear B-splines. For eleven different explanatory variables, you can visualise non-linear effects applying these popular methods of non-linear modeling. You can visualise first- or second-degree fractional polynomials, linear B-splines with up to 4 degrees of freedom and natural splines with up to 3 degrees of freedom.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#r-packages-and-other-resources-provided-by-tg2-members",
+    "href": "resources.html#r-packages-and-other-resources-provided-by-tg2-members",
+    "title": "Resources",
+    "section": "R packages and other resources provided by TG2 members",
+    "text": "R packages and other resources provided by TG2 members\n\nRegression Modeling Strategies\nRegression modeling, testing, estimation, validation, graphics, prediction, and typesetting by storing enhanced model design attributes in the fit. ‘rms’ is a collection of functions that assist with and streamline modeling.\n\nR package: rms\nOnline book companion: https://hbiostat.org/doc/rms/book/\n\n\n\nMultivariable Fractional Polynomials (MFP)\nMFP is a pragmatic procedure to create a multivariable model with the twin aims of selecting important variables and determining a suitable functional form for continuous predictors.\nResources:\n\nR-package mfp\nR-package mfp2\nMFP website with explanations, examples, software, links, etc.: https://mfp.imbi.uni-freiburg.de/software\n\nmfp2 is a more recent package which includes several options and some extensions. A detailed vignette should help working with mfp2.\n\n\nAugmented Backward Elimination\nAugmented backward elimination combines significance or information based criteria with the change in estimate to either select the optimal model for prediction purposes or to serve as a tool to obtain a practically sound, highly interpretable model. More details can be found in Dunkler et al. (2014).\n\nR package: abe Performs augmented backward elimination and checks the stability of the obtained model.\n\n\n\nTetris-plot\nThe Tetris-plot is a tool to visualize the instability of models obtained by variable selection.\n\nGithub website with R package (development version): https://gsk-biostatistics.github.io/tetrisplot",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "Topic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.Find out more\nInternal TG2 meeting in Vienna, 7-9 May 2025 at the Center for Medical Data Science, including a public talk by Matthias Schmid on Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects\nGeorg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at https://www.ibc2024.org. The slides are available at OSF here.",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#recent",
+    "href": "activities.html#recent",
+    "title": "Activities",
+    "section": "",
+    "text": "Topic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.Find out more\nInternal TG2 meeting in Vienna, 7-9 May 2025 at the Center for Medical Data Science, including a public talk by Matthias Schmid on Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects\nGeorg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at https://www.ibc2024.org. The slides are available at OSF here.",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#upcoming",
+    "href": "activities.html#upcoming",
+    "title": "Activities",
+    "section": "Upcoming",
+    "text": "Upcoming\n\nMinisymposium at the International Society of Clinical Biostatistics (ISCB) conference in Basel, CH, 28 Aug 2025. Topic of the session: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis. Speakers (among others): Georg Heinze, Willi Sauerbrei, Michal Abrahamowicz. Find out more\nInvited session at 70th Annual Meeting of the German Society for Medical Informatics, Biometrics and Epidemiology (Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V., GMDS) in Jena, Germany, 7-11 Sep 2025. Speaker for TG2: Gregor Buch. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models. Find out more (in German)\nInvited session at the ROeS 2025 (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. Topic of the session: Contrasting Bayesian and frequentist model building for descriptive research questions - a paired-design experiment of STRATOS-TG2. Invited speaker: Mariana Nold, further speakers for TG2: Michael Kammer, Georg Heinze, Aliaksandr Hubin\nInvited talk at the ROeS 2025 (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. Topic of the session: Towards best practices in medical statistics: The need to implement innovative scientific solutions. Speaker: Theresa Ullmann. Topic of the talk: Neutral Comparisons Of Statistical Methods: Opportunities, Challenges, And Common Issues (Includes as an example TG2-P11, Simulation study on variable selection)",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this website",
+    "section": "",
+    "text": "Andreas Klinger: set-up and maintenance\nGeorg Heinze: supervision and revision\nLast changes: 7 July 2025.\n\nContinuous website review\nTheresa Ullmann\n\n\nAcknowledgements\nMany thanks to Marianne Huebner, who designed the website of the STRATOS Topic Group 3, which the website of Topic Group 2 is based on.\n\n\nAddress for correspondence\nSTRATOS TG2\nc/o Institute of Clinical Biometrics,\nCenter for Medical Data Science,\nMedical University of Vienna,\nSpitalgasse 23, 1090 Vienna, Austria.\nE-mail: stratos.tg2@gmail.com.",
+    "crumbs": [
+      "About this website"
+    ]
+  },
+  {
     "objectID": "papers.html",
     "href": "papers.html",
     "title": "Publications",
     "section": "",
-    "text": "These publications were written on behalf of STRATOS-TG2. They center around the topic group’s core topic, the selection of variables and functional forms in multivariable models.\n\n\nUllmann, T., Heinze, G., Hafermann, L., Schilhart-Wallisch, C., Dunkler, D., for TG2 of the STRATOS initiative, 2024. Evaluating variable selection methods for multivariable regression models: A simulation study protocol. PLoS ONE 19, e0308543. https://doi.org/10.1371/journal.pone.0308543\n\n\nAbstract\n\n\n\nResearchers often perform data-driven variable selection when modeling the associations between an outcome and multiple independent variables in regression analysis. Variable selection may improve the interpretability, parsimony and/or predictive accuracy of a model. Yet variable selection can also have negative consequences, such as false exclusion of important variables or inclusion of noise variables, biased estimation of regression coefficients, underestimated standard errors and invalid confidence intervals, as well as model instability. While the potential advantages and disadvantages of variable selection have been discussed in the literature for decades, few large-scale simulation studies have neutrally compared data-driven variable selection methods with respect to their consequences for the resulting models. We present the protocol for a simulation study that will evaluate different variable selection methods: forward selection, stepwise forward selection, backward elimination, augmented backward elimination, univariable selection, univariable selection followed by backward elimination, and penalized likelihood approaches (Lasso, relaxed Lasso, adaptive Lasso). These methods will be compared with respect to false inclusion and/or exclusion of variables, consequences on bias and variance of the estimated regression coefficients, the validity of the confidence intervals for the coefficients, the accuracy of the estimated variable importance ranking, and the predictive performance of the selected models. We consider both linear and logistic regression in a low-dimensional setting (20 independent variables with 10 true predictors and 10 noise variables). The simulation will be based on real-world data from the National Health and Nutrition Examination Survey (NHANES). Publishing this study protocol ahead of performing the simulation increases transparency and allows integrating the perspective of other experts into the study design.",
+    "text": "These publications were written on behalf of STRATOS-TG2. They center around the topic group’s core topic, the selection of variables and functional forms in multivariable models.\n\n\nUllmann T, Heinze G, Abrahamowicz M, Perperoglou A, Sauerbrei W, Schmid M, Dunkler D, for TG2 of the STRATOS initiative, 2025. A Systematic Categorization of Performance Measures for Estimated Non-Linear Associations Between an Outcome and Continuous Predictors. WIREs Computational Statistics 17(3), e70042. https://doi.org/10.1002/wics.70042\n\n\nAbstract\n\n\n\nIn regression analysis, associations between continuous predictors and the outcome are often assumed to be linear. However, modeling the associations as non-linear can improve model fit. Many flexible modeling techniques, like (fractional) polynomials and spline-based approaches, are available. Such methods can be systematically compared in simulation studies, which require suitable performance measures to evaluate the accuracy of the estimated curves against the true data-generating functions. Although various measures have been proposed in the literature, no systematic overview exists so far. To fill this gap, we introduce a categorization of performance measures for evaluating estimated non-linear associations between an outcome and continuous predictors. This categorization includes many commonly used measures. The measures can not only be used in simulation studies, but also in application studies to compare different estimates to each other. We further illustrate and compare the behavior of different performance measures through some examples and a Shiny app.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "papers.html#a-systematic-categorization-of-performance-measures-for-estimated-non-linear-associations-between-an-outcome-and-continuous-predictors",
+    "href": "papers.html#a-systematic-categorization-of-performance-measures-for-estimated-non-linear-associations-between-an-outcome-and-continuous-predictors",
+    "title": "Publications",
+    "section": "",
+    "text": "Ullmann T, Heinze G, Abrahamowicz M, Perperoglou A, Sauerbrei W, Schmid M, Dunkler D, for TG2 of the STRATOS initiative, 2025. A Systematic Categorization of Performance Measures for Estimated Non-Linear Associations Between an Outcome and Continuous Predictors. WIREs Computational Statistics 17(3), e70042. https://doi.org/10.1002/wics.70042\n\n\nAbstract\n\n\n\nIn regression analysis, associations between continuous predictors and the outcome are often assumed to be linear. However, modeling the associations as non-linear can improve model fit. Many flexible modeling techniques, like (fractional) polynomials and spline-based approaches, are available. Such methods can be systematically compared in simulation studies, which require suitable performance measures to evaluate the accuracy of the estimated curves against the true data-generating functions. Although various measures have been proposed in the literature, no systematic overview exists so far. To fill this gap, we introduce a categorization of performance measures for evaluating estimated non-linear associations between an outcome and continuous predictors. This categorization includes many commonly used measures. The measures can not only be used in simulation studies, but also in application studies to compare different estimates to each other. We further illustrate and compare the behavior of different performance measures through some examples and a Shiny app.",
     "crumbs": [
       "Publications"
     ]
@@ -173,8 +243,8 @@
     "objectID": "papers.html#evaluating-variable-selection-methods-for-multivariable-regression-models-a-simulation-study-protocol",
     "href": "papers.html#evaluating-variable-selection-methods-for-multivariable-regression-models-a-simulation-study-protocol",
     "title": "Publications",
-    "section": "",
-    "text": "Ullmann, T., Heinze, G., Hafermann, L., Schilhart-Wallisch, C., Dunkler, D., for TG2 of the STRATOS initiative, 2024. Evaluating variable selection methods for multivariable regression models: A simulation study protocol. PLoS ONE 19, e0308543. https://doi.org/10.1371/journal.pone.0308543\n\n\nAbstract\n\n\n\nResearchers often perform data-driven variable selection when modeling the associations between an outcome and multiple independent variables in regression analysis. Variable selection may improve the interpretability, parsimony and/or predictive accuracy of a model. Yet variable selection can also have negative consequences, such as false exclusion of important variables or inclusion of noise variables, biased estimation of regression coefficients, underestimated standard errors and invalid confidence intervals, as well as model instability. While the potential advantages and disadvantages of variable selection have been discussed in the literature for decades, few large-scale simulation studies have neutrally compared data-driven variable selection methods with respect to their consequences for the resulting models. We present the protocol for a simulation study that will evaluate different variable selection methods: forward selection, stepwise forward selection, backward elimination, augmented backward elimination, univariable selection, univariable selection followed by backward elimination, and penalized likelihood approaches (Lasso, relaxed Lasso, adaptive Lasso). These methods will be compared with respect to false inclusion and/or exclusion of variables, consequences on bias and variance of the estimated regression coefficients, the validity of the confidence intervals for the coefficients, the accuracy of the estimated variable importance ranking, and the predictive performance of the selected models. We consider both linear and logistic regression in a low-dimensional setting (20 independent variables with 10 true predictors and 10 noise variables). The simulation will be based on real-world data from the National Health and Nutrition Examination Survey (NHANES). Publishing this study protocol ahead of performing the simulation increases transparency and allows integrating the perspective of other experts into the study design.",
+    "section": "Evaluating variable selection methods for multivariable regression models: A simulation study protocol",
+    "text": "Evaluating variable selection methods for multivariable regression models: A simulation study protocol\nUllmann, T., Heinze, G., Hafermann, L., Schilhart-Wallisch, C., Dunkler, D., for TG2 of the STRATOS initiative, 2024. Evaluating variable selection methods for multivariable regression models: A simulation study protocol. PLoS ONE 19, e0308543. https://doi.org/10.1371/journal.pone.0308543\n\n\nAbstract\n\n\nAbstract\nResearchers often perform data-driven variable selection when modeling the associations between an outcome and multiple independent variables in regression analysis. Variable selection may improve the interpretability, parsimony and/or predictive accuracy of a model. Yet variable selection can also have negative consequences, such as false exclusion of important variables or inclusion of noise variables, biased estimation of regression coefficients, underestimated standard errors and invalid confidence intervals, as well as model instability. While the potential advantages and disadvantages of variable selection have been discussed in the literature for decades, few large-scale simulation studies have neutrally compared data-driven variable selection methods with respect to their consequences for the resulting models. We present the protocol for a simulation study that will evaluate different variable selection methods: forward selection, stepwise forward selection, backward elimination, augmented backward elimination, univariable selection, univariable selection followed by backward elimination, and penalized likelihood approaches (Lasso, relaxed Lasso, adaptive Lasso). These methods will be compared with respect to false inclusion and/or exclusion of variables, consequences on bias and variance of the estimated regression coefficients, the validity of the confidence intervals for the coefficients, the accuracy of the estimated variable importance ranking, and the predictive performance of the selected models. We consider both linear and logistic regression in a low-dimensional setting (20 independent variables with 10 true predictors and 10 noise variables). The simulation will be based on real-world data from the National Health and Nutrition Examination Survey (NHANES). Publishing this study protocol ahead of performing the simulation increases transparency and allows integrating the perspective of other experts into the study design.",
     "crumbs": [
       "Publications"
     ]
@@ -267,66 +337,6 @@
     "text": "Papers\n\nKipruto, E., & Sauerbrei, W. (2025). Evaluating Prediction Performance: A Simulation Study Comparing Penalized and Classical Variable Selection Methods in Low-Dimensional Data. Applied Sciences, 15(13), 7443. https://doi.org/10.3390/app15137443  Highlights how the relative performance of penalized and classical selection methods depends on data conditions, guiding informed method choice.\nSauerbrei, W., Royston, P., & Kipruto, E. (2025). Multivariable Fractional Polynomial Models and Extensions. In International Encyclopedia of Statistical Science (pp. 1609-1616). Berlin, Heidelberg: Springer. https://doi.org/10.1007/978-3-662-69359-9_397  Summarizes fractional polynomial modeling as a structured and practical approach to functional form selection.\nKipruto, E., & Sauerbrei, W. (2024). Post‐Estimation Shrinkage in Full and Selected Linear Regression Models in Low‐Dimensional Data Revisited. Biometrical Journal, 66(7), e202300368. https://doi.org/10.1002/bimj.202300368  Demonstrates how post-estimation shrinkage can reduce overfitting and bias, offering an alternative to penalized regression after variable selection.\nLu Z, Lou W. Bayesian approaches to variable selection: a comparative study from practical perspectives. Int J Biostat 2021; https://doi.org/10.1515/ijb-2020-0130  Provides practical comparisons of Bayesian variable selection approaches, supporting their application in real-world data analysis.\nHeinze G, Wallisch C, Dunkler D. Variable selection – a review and recommendations for the practicing statistician. Biometrical J. 2018; 60:431–49. https://doi.org/10.1002/bimj.201700067  Offers pragmatic recommendations on variable selection methods, emphasizing model stability, validity, and transparency.\nBinder H, Sauerbrei W, Royston P. Comparison between splines and fractional polynomials for multivariable model building with continuous covariates: a simulation study with continuous response. Statistics in Medicine 2013; 32(13): 2262– 2277. https://doi.org/10.1002/sim.5639  Compares splines and fractional polynomials, clarifying their relative strengths for modeling continuous covariates.\nSauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Statistics in Medicine 2007; 26: 5512– 5528. https://doi.org/10.1002/sim.3148  Integrates strategies for variable selection and functional form choice, presenting fractional polynomials as a coherent solution.\nAbrahamowicz M, MacKenzie TA. Joint estimation of time‐dependent and non‐linear effects of continuous covariates on survival. Statistics in Medicine 2007; 26(2): 392– 408. https://doi.org/10.1002/sim.2519  Illustrates how joint modeling of time-varying and nonlinear effects improves accuracy and avoids bias in survival analysis.\nAbrahamowicz M, Du Berger R, Grover SA. Flexible modeling of the effects of serum cholesterol on coronary heart disease mortality. American Journal of Epidemiology 1997; 145(8): 714– 729. https://doi.org/10.1093/aje/145.8.714  Shows how flexible modeling of continuous exposures can reveal nonlinear risk relationships that parametric models may obscure.\nGreenland S. Avoiding power loss associated with categorization and ordinal scores in dose‐response and trend analysis. Epidemiology (Cambridge, Mass.) 1995; 6(4): 450– 454. https://doi.org/10.1097/00001648-199507000-00025  Demonstrates the loss of power and information from categorizing continuous exposures, reinforcing the need for flexible functional form modeling.\nRoyston P, Altman DG. Regression using fractional polynomials of continuous covariates: parsimonious parametric modelling. Applied Statistic 1994; 43(3): 429– 467. https://doi.org/10.2307/2986270  Introduces fractional polynomials as a parsimonious and interpretable alternative to categorization or high-order polynomials.",
     "crumbs": [
       "Publications"
-    ]
-  },
-  {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Members",
-    "section": "",
-    "text": "Georg Heinze (chair): Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria.\nAris Perperoglou (chair): Predictive Modelling, GSK, Stevenage, UK\nWilli Sauerbrei (chair): Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nMichal Abrahamowicz: Faculty of Medicine, McGill University, Canada\nHarald Binder: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nDaniela Dunkler: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria\nFrank Harrell: School of Medicine, Vanderbilt University Medical Center, Nashville, TN, USA\nMarc Henrion: Malawi Liverpool Wellcome Research Programme, Blantyre, Malawi and Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool, UK\nMichael Kammer: Division of Nephrology, Department of Medicine III and Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria\nMariana Nold: Department of Sociology, Friedrich-Schiller University of Jena, Jena, Germany\nMatthias Schmid: Institute for Medicine Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany",
-    "crumbs": [
-      "Members"
-    ]
-  },
-  {
-    "objectID": "members.html#clinical-affiliate",
-    "href": "members.html#clinical-affiliate",
-    "title": "Members",
-    "section": "Clinical affiliate",
-    "text": "Clinical affiliate\nCarl-Stephan Leonhardt: Department of Surgery, Medical University of Vienna, Vienna, Austria",
-    "crumbs": [
-      "Members"
-    ]
-  },
-  {
-    "objectID": "members.html#early-career-adjunct-members",
-    "href": "members.html#early-career-adjunct-members",
-    "title": "Members",
-    "section": "Early career adjunct members",
-    "text": "Early career adjunct members\nGregor Buch: Preventive Cardiology and Preventive Medicine, Department of Cardiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany\nEdwin Kipruto: Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany\nTheresa Ullmann: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, Austria",
-    "crumbs": [
-      "Members"
-    ]
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Activities",
-    "section": "",
-    "text": "Topic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.Find out more\nInternal TG2 meeting in Vienna, 7-9 May 2025 at the Center for Medical Data Science, including a public talk by Matthias Schmid on Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects\nGeorg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at https://www.ibc2024.org. The slides are available at OSF here.",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "activities.html#recent",
-    "href": "activities.html#recent",
-    "title": "Activities",
-    "section": "",
-    "text": "Topic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.Find out more\nInternal TG2 meeting in Vienna, 7-9 May 2025 at the Center for Medical Data Science, including a public talk by Matthias Schmid on Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects\nGeorg Heinze and Theresa Ullmann presented a 3-hour Statistics in Practice Showcase session at the International Biometric Conference in Atlanta, GA, USA, December 2024. Find out more at https://www.ibc2024.org. The slides are available at OSF here.",
-    "crumbs": [
-      "Activities"
-    ]
-  },
-  {
-    "objectID": "activities.html#upcoming",
-    "href": "activities.html#upcoming",
-    "title": "Activities",
-    "section": "Upcoming",
-    "text": "Upcoming\n\nMinisymposium at the International Society of Clinical Biostatistics (ISCB) conference in Basel, CH, 28 Aug 2025. Topic of the session: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis. Speakers (among others): Georg Heinze, Willi Sauerbrei, Michal Abrahamowicz. Find out more\nInvited session at 70th Annual Meeting of the German Society for Medical Informatics, Biometrics and Epidemiology (Deutsche Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie e. V., GMDS) in Jena, Germany, 7-11 Sep 2025. Speaker for TG2: Gregor Buch. Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models. Find out more (in German)\nInvited session at the ROeS 2025 (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. Topic of the session: Contrasting Bayesian and frequentist model building for descriptive research questions - a paired-design experiment of STRATOS-TG2. Invited speaker: Mariana Nold, further speakers for TG2: Michael Kammer, Georg Heinze, Aliaksandr Hubin\nInvited talk at the ROeS 2025 (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. Topic of the session: Towards best practices in medical statistics: The need to implement innovative scientific solutions. Speaker: Theresa Ullmann. Topic of the talk: Neutral Comparisons Of Statistical Methods: Opportunities, Challenges, And Common Issues (Includes as an example TG2-P11, Simulation study on variable selection)",
-    "crumbs": [
-      "Activities"
     ]
   }
 ]
