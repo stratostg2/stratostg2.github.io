@@ -228,6 +228,10 @@ Here we list a number of textbooks and papers that were not written on behalf of
 ## Papers
 
 
+* Lopez-Ayala, P., Riley, R.D., Collins, G.S., Zimmermann, T. (2025). Dealing with continuous variables and modelling non-linear associations in healthcare data: practical guide. BMJ 390, e082440. [https://doi.org/10.1136/bmj-2024-082440](https://doi.org/10.1136/bmj-2024-082440)
+<br> *Proper handling of continuous variables is crucial in healthcare research, for example, within regression modelling for descriptive, explanatory, or predictive purposes. However, inadequate methods are commonly used. This article highlights the importance of appropriately handling continuous variables, and illustrates the consequences of categorisation. This article also explains why assuming a linear relationship between the independent and dependent variable might be inappropriate, and describes how to use splines or fractional polynomials to model non-linear relationships.*.
+
+
 * Kipruto, E., & Sauerbrei, W. (2025). Evaluating Prediction Performance: A Simulation Study Comparing Penalized and Classical Variable Selection Methods in Low-Dimensional Data. Applied Sciences, 15(13), 7443. [https://doi.org/10.3390/app15137443](https://doi.org/10.3390/app15137443)
 <br> *Highlights how the relative performance of penalized and classical selection methods depends on data conditions, guiding informed method choice*.
 
