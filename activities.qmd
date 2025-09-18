@@ -8,7 +8,7 @@ title: "Activities"
 * Invited session at the [ROeS 2025](https://roes2025.at/index.html) (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. Topic of the session: Contrasting Bayesian and frequentist model building for descriptive research questions - a paired-design experiment of STRATOS-TG2. Invited speaker: [Mariana Nold](/assets/Mariana_slides_Roes_2025.pdf). Further speakers for TG2: [Michael Kammer](/assets/20250902_Kammer.pdf), [Aliaksandr Hubin](/assets/Aliaksandr_slides_Roes_2025.pdf), [Georg Heinze](/assets/2025-09 Roes Heinze.pdf).
 
 <details>
-  <summary>Session abstract and slides</summary>
+  <summary>Session abstract and pictures</summary>
 
 ### Abstract 
 
