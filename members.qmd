@@ -24,6 +24,8 @@ title: "Members"
 
 **Matthias Schmid**:  Institute for Medicine Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany
 
+**[Theresa Ullmann](https://www.meduniwien.ac.at/researcher/theresa_ullmann)**: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna,  Austria
+
 ## Clinical affiliate
 
 **Carl-Stephan Leonhardt**: Department of Surgery, Medical University of Vienna, Vienna, Austria
@@ -32,11 +34,11 @@ title: "Members"
 
 **Gregor Buch**: Preventive Cardiology and Preventive Medicine, Department of Cardiology, University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany
 
-**Franziska Kappenberg**: Institute for Medicine Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany
+**[Franziska Kappenberg](https://www.imbie.uni-bonn.de/people/dr-franziska-kappenberg/)**: Institute for Medicine Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany
 
 **Edwin  Kipruto**:  Institute for Medical Biometry and Medical Informatics, Medical Center - University of Freiburg, Germany
 
 **Thomas Prince**: Institute for Medicine Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany
 
-**[Theresa Ullmann](https://www.meduniwien.ac.at/researcher/theresa_ullmann)**: Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna,  Austria
+
 
