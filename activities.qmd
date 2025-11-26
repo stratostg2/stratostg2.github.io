@@ -52,7 +52,8 @@ Pictures:
   * Topic of the session: Statistical Research needs to improve – on the important roles of simulation studies and guidance for analysis. 
   * Speakers (among others): Georg Heinze, Willi Sauerbrei, Michal Abrahamowicz. [Find out more](https://iscb2025.info/mini-symposia.html#mini-symposium-3-statistical-research-needs-to-improve-on-the-important-roles-of-simulation-studies-and-guidance-for-analysis)
 
-* Topic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. Speaker for TG2: Marc Henrion. 
+* Topic-contributed paper session at Joint Statistical Meeting (JSM), 6 Aug 2025. 
+  * Speaker for TG2: Marc Henrion. 
   * Topic of the talk: STRATOS Topic Group 2 – Selection of variables and functional forms in multivariable analysis: Results from a review of Covid-19 prognostic models.[Find out more](https://ww2.amstat.org/meetings/jsm/2025/)
 
 * Internal TG2 meeting in Vienna, 7-9 May 2025 at the [Center for Medical Data Science](https://data-science.meduniwien.ac.at), including a public talk by Matthias Schmid on [Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects](https://viennabiometrics.github.io/abstracts/20250805_WBS_Schmid.pdf)
