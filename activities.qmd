@@ -4,13 +4,16 @@ title: "Activities"
 
 ## Upcoming
 
-* Invited talk at the [CFE-CMStatistics 2025](https://www.cmstatistics.org/CFECMStatistics2025) (19th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics) in London, UK, 13-15 Dec 2025. 
-  * Topic of the session: Researcher degrees of freedom, flexible modeling and interpretability. 
-  * Speaker: Theresa Ullmann. 
-  * Topic of the talk: Comparing methods for flexible estimation of non-linear associations: The importance of suitable performance measures (project TG2-P8). 
+
 
 ## Recent
 
+* Invited talk at the [CFE-CMStatistics 2025](https://www.cmstatistics.org/CFECMStatistics2025) (19th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics) in London, UK, 13-15 Dec 2025. 
+  * Topic of the session: Researcher degrees of freedom, flexible modeling and interpretability. 
+  * Speaker: Theresa Ullmann  
+  * Topic of the talk: Comparing methods for flexible estimation of non-linear associations: The importance of suitable performance measures (project TG2-P8) <a href="/assets/Slides_CMStatistics.pdf" target="_blank" rel="noopener noreferrer">Slides</a>. 
+  
+  
 * Invited session at the [ROeS 2025](https://roes2025.at/index.html) (Conference of the Austro-Swiss Region of the International Biometric Society) in Graz, A, 14-18 Sep 2025. 
   * Topic of the session: Contrasting Bayesian and frequentist model building for descriptive research questions - a paired-design experiment of STRATOS-TG2. 
   * Invited speaker: Mariana Nold <a href="/assets/Mariana_slides_Roes_2025.pdf" target="_blank" rel="noopener noreferrer">Slides</a>. 
