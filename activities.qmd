@@ -10,13 +10,15 @@ title: "Activities"
   * Co-authors: Theresa Ullmann, Daniela Dunkler
 
 
-* Invited talk at the [SFOepi Seminar Series in Biostatistics](https://ki.se/en/research/research-areas-centres-and-networks/strategic-research-areas/the-strategic-research-area-in-epidemiology-and-biostatistics-sfoepi), organized by the [Center for Bioinformatics and Biostatistics, Karolinska Institutet](https://ki.se/en/research/research-areas-centres-and-networks/research-centres/centre-for-bioinformatics-and-biostatistics-cbb), Stockholm, Sweden, 12 March 2026
-  * Topic: Towards evidence-based guidance on variable selection methods for multivariable regression models [Abstract](https://news.ki.se/calendar/sfoepi-seminar-series-in-biostatistics-georg-heinze-medical-university-of-vienna)
-  * Speaker: Georg Heinze
-  * Co-authors: Theresa Ullmann, Daniela Dunkler
+
 
   
 ## Recent
+
+* Invited talk at the [SFOepi Seminar Series in Biostatistics](https://ki.se/en/research/research-areas-centres-and-networks/strategic-research-areas/the-strategic-research-area-in-epidemiology-and-biostatistics-sfoepi), organized by the [Center for Bioinformatics and Biostatistics, Karolinska Institutet](https://ki.se/en/research/research-areas-centres-and-networks/research-centres/centre-for-bioinformatics-and-biostatistics-cbb), Stockholm, Sweden, 12 March 2026
+  * Topic: Towards evidence-based guidance on variable selection methods for multivariable regression models:  [Abstract](https://news.ki.se/calendar/sfoepi-seminar-series-in-biostatistics-georg-heinze-medical-university-of-vienna), <a href="/assets/2026-03 Heinze_VS.pdf" target="_blank" rel="noopener noreferrer">Slides</a>.
+  * Speaker: Georg Heinze
+  * Co-authors: Theresa Ullmann, Daniela Dunkler
 
 * Invited talk at the [CFE-CMStatistics 2025](https://www.cmstatistics.org/CFECMStatistics2025) (19th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics) in London, UK, 13-15 Dec 2025. 
   * Topic of the session: Researcher degrees of freedom, flexible modeling and interpretability. 
