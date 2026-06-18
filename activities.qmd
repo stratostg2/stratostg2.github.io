@@ -4,16 +4,18 @@ title: "Activities"
 
 ## Upcoming
 
-* Keynote lecture at the [Applied Statistics 2026 conference](https://as.mf.uni-lj.si/), Koper, Slovenia, 20-22 Sep 2026
-  * Topic: Towards evidence-based guidance on variable selection methods for multivariable regression models
-  * Speaker: Georg Heinze
-  * Co-authors: Theresa Ullmann, Daniela Dunkler
+* Invited talk at the [ISCB-GMDS conference](https://iscbgmds2026.info/) of the International Society for Clinical Biostatistics (ISCB) and the German Association for Medical Informatics, Biometry and Epidemiology (GMDS), Freiburg, 1 October, 2026 
+  * Session: STRATOS Minisymposium
+  * Topic: The Problem with Univariable Selection in Regression Modelling — and What To Do Instead <a href="/assets/ISCB2026_Ullmann.pdf" target="_blank" rel="noopener noreferrer">(Abstract)</a>
+  * Speaker: Theresa Ullmann
+  * Co-authors: Georg Heinze, Franziska Kappenberg, Marc Henrion, Daniela Dunkler
 
-
-
-
-  
 ## Recent
+
+* Contributed talk at the [Central European Network (CEN) conference](https://cen2026.org/) of the International Biometric Society, Warszaw, Poland, 20 May 2026
+  * Topic: A comparison of variable selection approaches for spline regression [(Abstract book)](https://cen2026.org/wp-content/uploads/2026/06/CEN2026-book_of_abstracts.pdf)
+  * Speaker: Franziska Kappenberg
+  * Co-authors: Thomas Prince, Daniela Dunkler, Willi Sauerbrei, Georg Heinze, Matthias Schmid
 
 * Invited talk at the [SFOepi Seminar Series in Biostatistics](https://ki.se/en/research/research-areas-centres-and-networks/strategic-research-areas/the-strategic-research-area-in-epidemiology-and-biostatistics-sfoepi), organized by the [Center for Bioinformatics and Biostatistics, Karolinska Institutet](https://ki.se/en/research/research-areas-centres-and-networks/research-centres/centre-for-bioinformatics-and-biostatistics-cbb), Stockholm, Sweden, 12 March 2026
   * Topic: Towards evidence-based guidance on variable selection methods for multivariable regression models:  [Abstract](https://news.ki.se/calendar/sfoepi-seminar-series-in-biostatistics-georg-heinze-medical-university-of-vienna), <a href="/assets/2026-03 Heinze_VS.pdf" target="_blank" rel="noopener noreferrer">Slides</a>.
